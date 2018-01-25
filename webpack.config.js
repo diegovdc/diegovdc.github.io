@@ -115,7 +115,7 @@ module.exports = {
 		rules: [
 			{
 				test: /\.js$/,
-				exclude: /(node_modules|bower_components)/,
+				exclude: /node_modules\/(?![tap\-logger])/,
 				use: {
 					loader: 'babel-loader?cacheDirectory',
 					options: {
