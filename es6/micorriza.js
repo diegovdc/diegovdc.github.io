@@ -15,7 +15,7 @@ const {
     audio,
 } = hh(h)
 
-const intro = `En los últimos dos años he estado explorando la música hecha de músicas. Mi interés se ha centrado en la  manera en que una pieza puede relacionarse con otra. Esta relación con la otredad de la pieza puede incluye llevarse hasta el punto que la misma pieza es una otredad (como en 25 Campanas).
+const intro = `En los últimos dos años he estado explorando la música hecha de músicas. Mi interés se ha centrado en la  manera en que una pieza puede relacionarse con otra. Esta relación con la otredad de la pieza puede llevarse hasta el punto en que la misma pieza se vuelve otra para sí misma (25 Campanas).
 Se trata de que la relación suceda de modo que una obra pueda transformar a la otra, lo que implica que las obras están en sí mismas abiertas y en constante transformación,incluso evolución.
 Explorar la interacción como sucede a nivel humano, cada obra es cómo una persona en sus relaciones cambiantes con las otras (una pieza no es la misma en un para una pieza que para otra, del mismo modo en que yo no soy el mismo para una colaboradora que para un amigo)`.split('\n').map(par => p([par]))
 
