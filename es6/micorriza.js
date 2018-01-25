@@ -32,7 +32,7 @@ const tracks = [
         track: 'public/tracks/exploracion-del-sueno-m1.mp3',
         img: '',
         score: '',
-        description: `Canones sobre una melodía para ondas senoidales.  Exploración de la síntesis por contrapunto y de la escritura de melodías a través de redes de relaciones. Se recomienda ampliamente escuchar esta pieza en un buen equipo de sonido, porque tiene frecuencias graves que de otro modo no sonarán'`,
+        description: `Cánones sobre una melodía para ondas senoidales.  Exploración de la síntesis por contrapunto y de la escritura de melodías a través de redes de relaciones. Se recomienda ampliamente escuchar esta pieza en un buen equipo de sonido, porque tiene frecuencias graves que de otro modo no sonarán'`,
     },
     {
         name: '21 clouds & 28 palabras',
@@ -75,7 +75,7 @@ const app = div('.main', [
     ])),
     tracks.map(t => div('.track', [
         h2('.track-ttl', [t.name]),
-        audio({src:  t.track, controls: true}),
+        t.track !== '' ? audio({src:  t.track, controls: true}) : div(),
         a('.track-score', { href: t.score, target: '_blank' }, ['Partitura']),
         div('.description', t.description),
     ])),
