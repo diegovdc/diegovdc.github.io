@@ -1,1 +1,696 @@
-!function(e){function n(r){if(t[r])return t[r].exports;var a=t[r]={i:r,l:!1,exports:{}};return e[r].call(a.exports,a,a.exports,n),a.l=!0,a.exports}var t={};n.m=e,n.c=t,n.i=function(e){return e},n.d=function(e,t,r){n.o(e,t)||Object.defineProperty(e,t,{configurable:!1,enumerable:!0,get:r})},n.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(t,"a",t),t},n.o=function(e,n){return Object.prototype.hasOwnProperty.call(e,n)},n.p="http://localhost:8080/public/build",n(n.s=1)}({"./es6/mazorca.js":function(e,n,t){"use strict";t("./sass/mazorca.scss")},"./es6/micorriza.js":function(e,n,t){"use strict";function r(e){return e&&e.__esModule?e:{default:e}}var a=t("./node_modules/tap-logger/index.js"),o=r(a),i=t("./node_modules/hyperscript/index.js"),s=r(i),c=t("./node_modules/hyperscript-helpers/dist/index.js"),u=r(c),l=(0,u.default)(s.default),d=l.div,p=l.p,f=l.a,m=(l.h3,l.iframe),h=l.h1,g=l.h2,b=(l.img,l.audio),v="En los últimos dos años he estado explorando la música hecha de músicas. Mi interés se ha centrado en la  manera en que una pieza puede relacionarse con otra. Esta relación con la otredad de la pieza puede llevarse hasta el punto en que la misma pieza se vuelve otra para sí misma (25 Campanas).\nSe trata de que la relación suceda de modo que una obra pueda transformar a la otra, lo que implica que las obras están en sí mismas abiertas y en constante transformación,incluso evolución.\nExplorar la interacción como sucede a nivel humano, cada obra es cómo una persona en sus relaciones cambiantes con las otras (una pieza no es la misma en un para una pieza que para otra, del mismo modo en que yo no soy el mismo para una colaboradora que para un amigo)".split("\n").map(function(e){return p([e])}),y=[{name:"25 campanas (para Ramis Lao)",track:"public/tracks/25 campanas (con Ramis Lao).mp3",img:"",score:"public/scores/25Campanas-DiegoVillaseñorDeCortina.pdf",description:"Superposición de una pieza sobre sí misma (guitarras, Ramis Lao y Diego Villaseñor)"},{name:"Exploración del Sueño",track:"public/tracks/exploracion-del-sueno-m1.mp3",img:"",score:"",description:"Cánones sobre una melodía para ondas senoidales.  Exploración de la síntesis por contrapunto y de la escritura de melodías a través de redes de relaciones. Se recomienda ampliamente escuchar esta pieza en un buen equipo de sonido, porque tiene frecuencias graves que de otro modo no sonarán'"},{name:"21 clouds & 28 palabras",track:"public/tracks/21 clouds & 28 palabras take 1 (w_ Andrew Jamieson).mp3",img:"",score:"public/scores/21 Nubes + 28 Palabras.pdf",description:"Dos piezas superpuestas e interactuando: 21 nubes (piano, Andrew Jamieson) y 28 palabras (voz, Diego Villaseñor)."},{name:"Memories of a Wedding",track:"",img:"",score:"public/scores/memories-of-a-wedding.pdf",description:"Para dos voces y uno o más instrumentos. Serie de ecos para poemas de 4 palabras"}],x=[{name:"{Videcoic One}",iframe:m(".video-iframe",{src:"https://www.youtube.com/embed/s15OA9nZ7AY",frameborder:"0",allow:"autoplay; encrypted-media",allowfullscreen:!0}),score:"public/scores/Videcóico Uno - ensamblado.pdf",description:'Combinación de 5 piezas para conformar una sexta como resultado de la intercción de las otras 5. "Espiritu penetrando en Árbol", "21 Nubes", "25 Campanas", "28 palabras" y "Memories of a Wedding" (voces, Danishta Rivero y Diego Villaseñor, guitarra, Jakob Pek, piano Andrew Jamieson, percusiones Nava Dunkelman, electrónica Jeannie Aprille Tang y Aaron Oppenheim)'}],k=d(".main",[h(".main-ttl",["Diego Villaseñor, ",f({href:"http://echoic.space"},["echoic.space"])]),d(".intro",v),x.map(function(e){return d(".video",[g(".track-ttl",[e.name]),f(".track-score",{href:e.score,target:"_blank"},["Partitura"]),d(".description",e.description),d(".video-iframe-container",e.iframe)])}),y.map(function(e){return d(".track",[g(".track-ttl",[e.name]),""!==e.track?b({src:e.track,controls:!0}):d(),f(".track-score",{href:e.score,target:"_blank"},["Partitura"]),d(".description",e.description)])})]);document.getElementById("app").appendChild(o.default.id(k))},"./node_modules/browser-split/index.js":function(e,n){e.exports=function(e){var n=String.prototype.split,t=/()??/.exec("")[1]===e;return function(r,a,o){if("[object RegExp]"!==Object.prototype.toString.call(a))return n.call(r,a,o);var i,s,c,u,l=[],d=(a.ignoreCase?"i":"")+(a.multiline?"m":"")+(a.extended?"x":"")+(a.sticky?"y":""),p=0,a=new RegExp(a.source,d+"g");for(r+="",t||(i=new RegExp("^"+a.source+"$(?!\\s)",d)),o=o===e?-1>>>0:o>>>0;(s=a.exec(r))&&!((c=s.index+s[0].length)>p&&(l.push(r.slice(p,s.index)),!t&&s.length>1&&s[0].replace(i,function(){for(var n=1;n<arguments.length-2;n++)arguments[n]===e&&(s[n]=e)}),s.length>1&&s.index<r.length&&Array.prototype.push.apply(l,s.slice(1)),u=s[0].length,p=c,l.length>=o));)a.lastIndex===s.index&&a.lastIndex++;return p===r.length?!u&&a.test("")||l.push(""):l.push(r.slice(p)),l.length>o?l.slice(0,o):l}}()},"./node_modules/class-list/index.js":function(e,n,t){function r(e){function n(e){var n=l();i(n,e)>-1||(n.push(e),d(n))}function t(e){var n=l(),t=i(n,e);-1!==t&&(n.splice(t,1),d(n))}function r(e){return i(l(),e)>-1}function s(e){return r(e)?(t(e),!1):(n(e),!0)}function c(){return e.className}function u(e){return l()[e]||null}function l(){return a(e.className.split(" "),o)}function d(n){var t=n.length;e.className=n.join(" "),f.length=t;for(var r=0;r<n.length;r++)f[r]=n[r];delete n[t]}var p=e.classList;if(p)return p;var f={add:n,remove:t,contains:r,toggle:s,toString:c,length:0,item:u};return f}function a(e,n){for(var t=[],r=0;r<e.length;r++)n(e[r])&&t.push(e[r]);return t}function o(e){return!!e}var i=t("./node_modules/indexof/index.js");e.exports=r},"./node_modules/hyperscript-helpers/dist/index.js":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r=function(e){return"string"==typeof e&&e.length>0},a=function(e,n){return e[0]===n},o=function(e){return r(e)&&(a(e,".")||a(e,"#"))},i=function(e){return function(n){return function(t){for(var r=arguments.length,a=Array(r>1?r-1:0),i=1;i<r;i++)a[i-1]=arguments[i];return o(t)?e.apply(void 0,[n+t].concat(a)):void 0===t?e(n):e.apply(void 0,[n,t].concat(a))}}},s=["a","abbr","acronym","address","applet","area","article","aside","audio","b","base","basefont","bdi","bdo","bgsound","big","blink","blockquote","body","br","button","canvas","caption","center","cite","code","col","colgroup","command","content","data","datalist","dd","del","details","dfn","dialog","dir","div","dl","dt","element","em","embed","fieldset","figcaption","figure","font","footer","form","frame","frameset","h1","h2","h3","h4","h5","h6","head","header","hgroup","hr","html","i","iframe","image","img","input","ins","isindex","kbd","keygen","label","legend","li","link","listing","main","map","mark","marquee","math","menu","menuitem","meta","meter","multicol","nav","nextid","nobr","noembed","noframes","noscript","object","ol","optgroup","option","output","p","param","picture","plaintext","pre","progress","q","rb","rbc","rp","rt","rtc","ruby","s","samp","script","section","select","shadow","slot","small","source","spacer","span","strike","strong","style","sub","summary","sup","svg","table","tbody","td","template","textarea","tfoot","th","thead","time","title","tr","track","tt","u","ul","var","video","wbr","xmp"];n.default=function(e){var n=i(e),t={TAG_NAMES:s,isSelector:o,createTag:n};return s.forEach(function(e){t[e]=n(e)}),t},e.exports=n.default},"./node_modules/hyperscript/index.js":function(e,n,t){function r(){function e(){function e(t){var u;if(null==t);else if("string"==typeof t)r?r.appendChild(u=l.createTextNode(t)):function(e){var n=s(e,/([\.#]?[^\s#.]+)/);/^\.|#/.test(n[1])&&(r=l.createElement("div")),o(n,function(e){var n=e.substring(1,e.length);e&&(r?"."===e[0]?c(r).add(n):"#"===e[0]&&r.setAttribute("id",n):r=l.createElement(e))})}(t);else if("number"==typeof t||"boolean"==typeof t||t instanceof Date||t instanceof RegExp)r.appendChild(u=l.createTextNode(t.toString()));else if(i(t))o(t,e);else if(a(t))r.appendChild(u=t);else if(t instanceof d)r.appendChild(u=t);else if("object"==typeof t)for(var p in t)if("function"==typeof t[p])/^on\w+/.test(p)?function(e,t){r.addEventListener?(r.addEventListener(e.substring(2),t[e],!1),n.push(function(){r.removeEventListener(e.substring(2),t[e],!1)})):(r.attachEvent(e,t[e]),n.push(function(){r.detachEvent(e,t[e])}))}(p,t):(r[p]=t[p](),n.push(t[p](function(e){r[p]=e})));else if("style"===p)if("string"==typeof t[p])r.style.cssText=t[p];else for(var f in t[p])!function(e,a){if("function"==typeof a)r.style.setProperty(e,a()),n.push(a(function(n){r.style.setProperty(e,n)}));else var o=t[p][e].match(/(.*)\W+!important\W*$/);o?r.style.setProperty(e,o[1],"important"):r.style.setProperty(e,t[p][e])}(f,t[p][f]);else if("attrs"===p)for(var m in t[p])r.setAttribute(m,t[p][m]);else"data-"===p.substr(0,5)?r.setAttribute(p,t[p]):r[p]=t[p];else if("function"==typeof t){var m=t();r.appendChild(u=a(m)?m:l.createTextNode(m)),n.push(t(function(e){a(e)&&u.parentElement?(u.parentElement.replaceChild(e,u),u=e):u.textContent=e}))}return u}for(var t=[].slice.call(arguments),r=null;t.length;)e(t.shift());return r}var n=[];return e.cleanup=function(){for(var e=0;e<n.length;e++)n[e]();n.length=0},e}function a(e){return e&&e.nodeName&&e.nodeType}function o(e,n){if(e.forEach)return e.forEach(n);for(var t=0;t<e.length;t++)n(e[t],t)}function i(e){return"[object Array]"==Object.prototype.toString.call(e)}var s=t("./node_modules/browser-split/index.js"),c=t("./node_modules/class-list/index.js"),u="undefined"==typeof window?t(0):window,l=u.document,d=u.Text;(e.exports=r()).context=r},"./node_modules/indexof/index.js":function(e,n){var t=[].indexOf;e.exports=function(e,n){if(t)return e.indexOf(n);for(var r=0;r<e.length;++r)if(e[r]===n)return r;return-1}},"./node_modules/tap-logger/index.js":function(e,n,t){"use strict";e.exports=Object.assign(function(){for(var e=arguments.length,n=Array(e),t=0;t<e;t++)n[t]=arguments[t];return n[n.length-1]},{id:function(e){return e},l:console.log,hola:function(){},start:function(){},end:function(){},c:function(e){return function(e){return e}},ap:function(e,n){return n},ap_c:function(e){return function(e){return e}}})},"./sass/mazorca.scss":function(e,n){},0:function(e,n){},1:function(e,n,t){t("./es6/mazorca.js"),e.exports=t("./es6/micorriza.js")}});
+/******/ (function(modules) { // webpackBootstrap
+/******/ 	// The module cache
+/******/ 	var installedModules = {};
+/******/
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/
+/******/ 		// Check if module is in cache
+/******/ 		if(installedModules[moduleId]) {
+/******/ 			return installedModules[moduleId].exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = installedModules[moduleId] = {
+/******/ 			i: moduleId,
+/******/ 			l: false,
+/******/ 			exports: {}
+/******/ 		};
+/******/
+/******/ 		// Execute the module function
+/******/ 		modules[moduleId].call(module.exports, module, module.exports, __webpack_require__);
+/******/
+/******/ 		// Flag the module as loaded
+/******/ 		module.l = true;
+/******/
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/
+/******/
+/******/ 	// expose the modules object (__webpack_modules__)
+/******/ 	__webpack_require__.m = modules;
+/******/
+/******/ 	// expose the module cache
+/******/ 	__webpack_require__.c = installedModules;
+/******/
+/******/ 	// identity function for calling harmony imports with the correct context
+/******/ 	__webpack_require__.i = function(value) { return value; };
+/******/
+/******/ 	// define getter function for harmony exports
+/******/ 	__webpack_require__.d = function(exports, name, getter) {
+/******/ 		if(!__webpack_require__.o(exports, name)) {
+/******/ 			Object.defineProperty(exports, name, {
+/******/ 				configurable: false,
+/******/ 				enumerable: true,
+/******/ 				get: getter
+/******/ 			});
+/******/ 		}
+/******/ 	};
+/******/
+/******/ 	// getDefaultExport function for compatibility with non-harmony modules
+/******/ 	__webpack_require__.n = function(module) {
+/******/ 		var getter = module && module.__esModule ?
+/******/ 			function getDefault() { return module['default']; } :
+/******/ 			function getModuleExports() { return module; };
+/******/ 		__webpack_require__.d(getter, 'a', getter);
+/******/ 		return getter;
+/******/ 	};
+/******/
+/******/ 	// Object.prototype.hasOwnProperty.call
+/******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
+/******/
+/******/ 	// __webpack_public_path__
+/******/ 	__webpack_require__.p = "http://localhost:8080/public/build";
+/******/
+/******/ 	// Load entry module and return exports
+/******/ 	return __webpack_require__(__webpack_require__.s = 1);
+/******/ })
+/************************************************************************/
+/******/ ({
+
+/***/ "./es6/mazorca.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+__webpack_require__("./sass/mazorca.scss");
+
+/***/ }),
+
+/***/ "./es6/micorriza.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var _tapLogger = __webpack_require__("./node_modules/tap-logger/index.js");
+
+var _tapLogger2 = _interopRequireDefault(_tapLogger);
+
+var _hyperscript = __webpack_require__("./node_modules/hyperscript/index.js");
+
+var _hyperscript2 = _interopRequireDefault(_hyperscript);
+
+var _hyperscriptHelpers = __webpack_require__("./node_modules/hyperscript-helpers/dist/index.js");
+
+var _hyperscriptHelpers2 = _interopRequireDefault(_hyperscriptHelpers);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+var _hh = (0, _hyperscriptHelpers2.default)(_hyperscript2.default),
+    div = _hh.div,
+    p = _hh.p,
+    a = _hh.a,
+    h3 = _hh.h3,
+    iframe = _hh.iframe,
+    h1 = _hh.h1,
+    h2 = _hh.h2,
+    img = _hh.img,
+    audio = _hh.audio;
+
+var intro = 'En los \xFAltimos dos a\xF1os he estado explorando la m\xFAsica hecha de m\xFAsicas. Mi inter\xE9s se ha centrado en la  manera en que una pieza puede relacionarse con otra. Esta relaci\xF3n con la otredad de la pieza puede llevarse hasta el punto en que la misma pieza se vuelve otra para s\xED misma (25 Campanas).\nSe trata de que la relaci\xF3n suceda de modo que una obra pueda transformar a la otra, lo que implica que las obras est\xE1n en s\xED mismas abiertas y en constante transformaci\xF3n,incluso evoluci\xF3n.\nExplorar la interacci\xF3n como sucede a nivel humano, cada obra es c\xF3mo una persona en sus relaciones cambiantes con las otras (una pieza no es la misma en un para una pieza que para otra, del mismo modo en que yo no soy el mismo para una colaboradora que para un amigo)'.split('\n').map(function (par) {
+    return p([par]);
+});
+
+// const pdfURL = 'https://github.com/diegovdc/mini-echoic-space/blob/master/public/scores/'
+var pdfURL = 'https://github.com/diegovdc/mini-echoic-space/raw/master/public/scores/';
+var tracks = [{
+    name: '25 campanas (para Ramis Lao)',
+    track: 'public/tracks/25 campanas (con Ramis Lao).mp3',
+    img: '',
+    score: pdfURL + '25Campanas-DiegoVillase%C3%B1orDeCortina.pdf',
+    description: 'Superposici\xF3n de una pieza sobre s\xED misma (guitarras, Ramis Lao y Diego Villase\xF1or)'
+}, {
+    name: 'Exploración del Sueño',
+    track: 'public/tracks/exploracion-del-sueno-m1.mp3',
+    img: '',
+    score: '',
+    description: 'C\xE1nones sobre una melod\xEDa para ondas senoidales.  Exploraci\xF3n de la s\xEDntesis por contrapunto y de la escritura de melod\xEDas a trav\xE9s de redes de relaciones. Se recomienda ampliamente escuchar esta pieza en un buen equipo de sonido, porque tiene frecuencias graves que de otro modo no sonar\xE1n\''
+}, {
+    name: '21 clouds & 28 palabras',
+    track: 'public/tracks/21 clouds & 28 palabras take 1 (w_ Andrew Jamieson).mp3',
+    img: '',
+    score: pdfURL + '21%20Nubes%20%2B%2028%20Palabras.pdf',
+    description: 'Dos piezas superpuestas e interactuando: 21 nubes (piano, Andrew Jamieson) y 28 palabras (voz, Diego Villase\xF1or).'
+}, {
+    name: 'Memories of a Wedding',
+    track: '',
+    img: '',
+    score: pdfURL + 'memories-of-a-wedding.pdf',
+    description: 'Para dos voces y uno o m\xE1s instrumentos. Serie de ecos para poemas de 4 palabras'
+}];
+
+var videos = [{
+    name: '{Videcoic One}',
+    iframe: iframe('.video-iframe', {
+        src: "https://www.youtube.com/embed/s15OA9nZ7AY",
+        frameborder: "0",
+        allow: "autoplay; encrypted-media",
+        allowfullscreen: true
+    }),
+    score: pdfURL + 'Videcóico%20Uno%20-%20ensamblado.pdf',
+    description: 'Combinaci\xF3n de 5 piezas para conformar una sexta como resultado de la intercci\xF3n de las otras 5. "Espiritu penetrando en \xC1rbol", "21 Nubes", "25 Campanas", "28 palabras" y "Memories of a Wedding" (voces, Danishta Rivero y Diego Villase\xF1or, guitarra, Jakob Pek, piano Andrew Jamieson, percusiones Nava Dunkelman, electr\xF3nica Jeannie Aprille Tang y Aaron Oppenheim)'
+}];
+
+var app = div('.main', [h1('.main-ttl', ['Diego Villaseñor, ', a({ href: "http://echoic.space" }, ['echoic.space'])]), div('.intro', intro), videos.map(function (v) {
+    return div('.video', [h2('.track-ttl', [v.name]), a('.track-score', { href: v.score, target: '_blank' }, ['Partitura']), div('.description', v.description), div('.video-iframe-container', v.iframe)]);
+}), tracks.map(function (t) {
+    return div('.track', [h2('.track-ttl', [t.name]), t.track !== '' ? audio({ src: t.track, controls: true }) : div(), a('.track-score', { href: t.score, target: '_blank' }, ['Partitura']), div('.description', t.description)]);
+})]);
+document.getElementById('app').appendChild(_tapLogger2.default.id(app));
+if (false) {
+    module.hot.accept();
+} //permite hacer Hot Module Replacement
+
+/***/ }),
+
+/***/ "./node_modules/browser-split/index.js":
+/***/ (function(module, exports) {
+
+/*!
+ * Cross-Browser Split 1.1.1
+ * Copyright 2007-2012 Steven Levithan <stevenlevithan.com>
+ * Available under the MIT License
+ * ECMAScript compliant, uniform cross-browser split method
+ */
+
+/**
+ * Splits a string into an array of strings using a regex or string separator. Matches of the
+ * separator are not included in the result array. However, if `separator` is a regex that contains
+ * capturing groups, backreferences are spliced into the result each time `separator` is matched.
+ * Fixes browser bugs compared to the native `String.prototype.split` and can be used reliably
+ * cross-browser.
+ * @param {String} str String to split.
+ * @param {RegExp|String} separator Regex or string to use for separating the string.
+ * @param {Number} [limit] Maximum number of items to include in the result array.
+ * @returns {Array} Array of substrings.
+ * @example
+ *
+ * // Basic use
+ * split('a b c d', ' ');
+ * // -> ['a', 'b', 'c', 'd']
+ *
+ * // With limit
+ * split('a b c d', ' ', 2);
+ * // -> ['a', 'b']
+ *
+ * // Backreferences in result array
+ * split('..word1 word2..', /([a-z]+)(\d+)/i);
+ * // -> ['..', 'word', '1', ' ', 'word', '2', '..']
+ */
+module.exports = (function split(undef) {
+
+  var nativeSplit = String.prototype.split,
+    compliantExecNpcg = /()??/.exec("")[1] === undef,
+    // NPCG: nonparticipating capturing group
+    self;
+
+  self = function(str, separator, limit) {
+    // If `separator` is not a regex, use `nativeSplit`
+    if (Object.prototype.toString.call(separator) !== "[object RegExp]") {
+      return nativeSplit.call(str, separator, limit);
+    }
+    var output = [],
+      flags = (separator.ignoreCase ? "i" : "") + (separator.multiline ? "m" : "") + (separator.extended ? "x" : "") + // Proposed for ES6
+      (separator.sticky ? "y" : ""),
+      // Firefox 3+
+      lastLastIndex = 0,
+      // Make `global` and avoid `lastIndex` issues by working with a copy
+      separator = new RegExp(separator.source, flags + "g"),
+      separator2, match, lastIndex, lastLength;
+    str += ""; // Type-convert
+    if (!compliantExecNpcg) {
+      // Doesn't need flags gy, but they don't hurt
+      separator2 = new RegExp("^" + separator.source + "$(?!\\s)", flags);
+    }
+    /* Values for `limit`, per the spec:
+     * If undefined: 4294967295 // Math.pow(2, 32) - 1
+     * If 0, Infinity, or NaN: 0
+     * If positive number: limit = Math.floor(limit); if (limit > 4294967295) limit -= 4294967296;
+     * If negative number: 4294967296 - Math.floor(Math.abs(limit))
+     * If other: Type-convert, then use the above rules
+     */
+    limit = limit === undef ? -1 >>> 0 : // Math.pow(2, 32) - 1
+    limit >>> 0; // ToUint32(limit)
+    while (match = separator.exec(str)) {
+      // `separator.lastIndex` is not reliable cross-browser
+      lastIndex = match.index + match[0].length;
+      if (lastIndex > lastLastIndex) {
+        output.push(str.slice(lastLastIndex, match.index));
+        // Fix browsers whose `exec` methods don't consistently return `undefined` for
+        // nonparticipating capturing groups
+        if (!compliantExecNpcg && match.length > 1) {
+          match[0].replace(separator2, function() {
+            for (var i = 1; i < arguments.length - 2; i++) {
+              if (arguments[i] === undef) {
+                match[i] = undef;
+              }
+            }
+          });
+        }
+        if (match.length > 1 && match.index < str.length) {
+          Array.prototype.push.apply(output, match.slice(1));
+        }
+        lastLength = match[0].length;
+        lastLastIndex = lastIndex;
+        if (output.length >= limit) {
+          break;
+        }
+      }
+      if (separator.lastIndex === match.index) {
+        separator.lastIndex++; // Avoid an infinite loop
+      }
+    }
+    if (lastLastIndex === str.length) {
+      if (lastLength || !separator.test("")) {
+        output.push("");
+      }
+    } else {
+      output.push(str.slice(lastLastIndex));
+    }
+    return output.length > limit ? output.slice(0, limit) : output;
+  };
+
+  return self;
+})();
+
+
+/***/ }),
+
+/***/ "./node_modules/class-list/index.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+// contains, add, remove, toggle
+var indexof = __webpack_require__("./node_modules/indexof/index.js")
+
+module.exports = ClassList
+
+function ClassList(elem) {
+    var cl = elem.classList
+
+    if (cl) {
+        return cl
+    }
+
+    var classList = {
+        add: add
+        , remove: remove
+        , contains: contains
+        , toggle: toggle
+        , toString: $toString
+        , length: 0
+        , item: item
+    }
+
+    return classList
+
+    function add(token) {
+        var list = getTokens()
+        if (indexof(list, token) > -1) {
+            return
+        }
+        list.push(token)
+        setTokens(list)
+    }
+
+    function remove(token) {
+        var list = getTokens()
+            , index = indexof(list, token)
+
+        if (index === -1) {
+            return
+        }
+
+        list.splice(index, 1)
+        setTokens(list)
+    }
+
+    function contains(token) {
+        return indexof(getTokens(), token) > -1
+    }
+
+    function toggle(token) {
+        if (contains(token)) {
+            remove(token)
+            return false
+        } else {
+            add(token)
+            return true
+        }
+    }
+
+    function $toString() {
+        return elem.className
+    }
+
+    function item(index) {
+        var tokens = getTokens()
+        return tokens[index] || null
+    }
+
+    function getTokens() {
+        var className = elem.className
+
+        return filter(className.split(" "), isTruthy)
+    }
+
+    function setTokens(list) {
+        var length = list.length
+
+        elem.className = list.join(" ")
+        classList.length = length
+
+        for (var i = 0; i < list.length; i++) {
+            classList[i] = list[i]
+        }
+
+        delete list[length]
+    }
+}
+
+function filter (arr, fn) {
+    var ret = []
+    for (var i = 0; i < arr.length; i++) {
+        if (fn(arr[i])) ret.push(arr[i])
+    }
+    return ret
+}
+
+function isTruthy(value) {
+    return !!value
+}
+
+
+/***/ }),
+
+/***/ "./node_modules/hyperscript-helpers/dist/index.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, '__esModule', {
+  value: true
+});
+var isValidString = function isValidString(param) {
+  return typeof param === 'string' && param.length > 0;
+};
+
+var startsWith = function startsWith(string, start) {
+  return string[0] === start;
+};
+
+var isSelector = function isSelector(param) {
+  return isValidString(param) && (startsWith(param, '.') || startsWith(param, '#'));
+};
+
+var node = function node(h) {
+  return function (tagName) {
+    return function (first) {
+      for (var _len = arguments.length, rest = Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
+        rest[_key - 1] = arguments[_key];
+      }
+
+      if (isSelector(first)) {
+        return h.apply(undefined, [tagName + first].concat(rest));
+      } else if (typeof first === 'undefined') {
+        return h(tagName);
+      } else {
+        return h.apply(undefined, [tagName, first].concat(rest));
+      }
+    };
+  };
+};
+
+var TAG_NAMES = ['a', 'abbr', 'acronym', 'address', 'applet', 'area', 'article', 'aside', 'audio', 'b', 'base', 'basefont', 'bdi', 'bdo', 'bgsound', 'big', 'blink', 'blockquote', 'body', 'br', 'button', 'canvas', 'caption', 'center', 'cite', 'code', 'col', 'colgroup', 'command', 'content', 'data', 'datalist', 'dd', 'del', 'details', 'dfn', 'dialog', 'dir', 'div', 'dl', 'dt', 'element', 'em', 'embed', 'fieldset', 'figcaption', 'figure', 'font', 'footer', 'form', 'frame', 'frameset', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'head', 'header', 'hgroup', 'hr', 'html', 'i', 'iframe', 'image', 'img', 'input', 'ins', 'isindex', 'kbd', 'keygen', 'label', 'legend', 'li', 'link', 'listing', 'main', 'map', 'mark', 'marquee', 'math', 'menu', 'menuitem', 'meta', 'meter', 'multicol', 'nav', 'nextid', 'nobr', 'noembed', 'noframes', 'noscript', 'object', 'ol', 'optgroup', 'option', 'output', 'p', 'param', 'picture', 'plaintext', 'pre', 'progress', 'q', 'rb', 'rbc', 'rp', 'rt', 'rtc', 'ruby', 's', 'samp', 'script', 'section', 'select', 'shadow', 'slot', 'small', 'source', 'spacer', 'span', 'strike', 'strong', 'style', 'sub', 'summary', 'sup', 'svg', 'table', 'tbody', 'td', 'template', 'textarea', 'tfoot', 'th', 'thead', 'time', 'title', 'tr', 'track', 'tt', 'u', 'ul', 'var', 'video', 'wbr', 'xmp'];
+
+exports['default'] = function (h) {
+  var createTag = node(h);
+  var exported = { TAG_NAMES: TAG_NAMES, isSelector: isSelector, createTag: createTag };
+  TAG_NAMES.forEach(function (n) {
+    exported[n] = createTag(n);
+  });
+  return exported;
+};
+
+module.exports = exports['default'];
+
+/***/ }),
+
+/***/ "./node_modules/hyperscript/index.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+var split = __webpack_require__("./node_modules/browser-split/index.js")
+var ClassList = __webpack_require__("./node_modules/class-list/index.js")
+
+var w = typeof window === 'undefined' ? __webpack_require__(0) : window
+var document = w.document
+var Text = w.Text
+
+function context () {
+
+  var cleanupFuncs = []
+
+  function h() {
+    var args = [].slice.call(arguments), e = null
+    function item (l) {
+      var r
+      function parseClass (string) {
+        // Our minimal parser doesn’t understand escaping CSS special
+        // characters like `#`. Don’t use them. More reading:
+        // https://mathiasbynens.be/notes/css-escapes .
+
+        var m = split(string, /([\.#]?[^\s#.]+)/)
+        if(/^\.|#/.test(m[1]))
+          e = document.createElement('div')
+        forEach(m, function (v) {
+          var s = v.substring(1,v.length)
+          if(!v) return
+          if(!e)
+            e = document.createElement(v)
+          else if (v[0] === '.')
+            ClassList(e).add(s)
+          else if (v[0] === '#')
+            e.setAttribute('id', s)
+        })
+      }
+
+      if(l == null)
+        ;
+      else if('string' === typeof l) {
+        if(!e)
+          parseClass(l)
+        else
+          e.appendChild(r = document.createTextNode(l))
+      }
+      else if('number' === typeof l
+        || 'boolean' === typeof l
+        || l instanceof Date
+        || l instanceof RegExp ) {
+          e.appendChild(r = document.createTextNode(l.toString()))
+      }
+      //there might be a better way to handle this...
+      else if (isArray(l))
+        forEach(l, item)
+      else if(isNode(l))
+        e.appendChild(r = l)
+      else if(l instanceof Text)
+        e.appendChild(r = l)
+      else if ('object' === typeof l) {
+        for (var k in l) {
+          if('function' === typeof l[k]) {
+            if(/^on\w+/.test(k)) {
+              (function (k, l) { // capture k, l in the closure
+                if (e.addEventListener){
+                  e.addEventListener(k.substring(2), l[k], false)
+                  cleanupFuncs.push(function(){
+                    e.removeEventListener(k.substring(2), l[k], false)
+                  })
+                }else{
+                  e.attachEvent(k, l[k])
+                  cleanupFuncs.push(function(){
+                    e.detachEvent(k, l[k])
+                  })
+                }
+              })(k, l)
+            } else {
+              // observable
+              e[k] = l[k]()
+              cleanupFuncs.push(l[k](function (v) {
+                e[k] = v
+              }))
+            }
+          }
+          else if(k === 'style') {
+            if('string' === typeof l[k]) {
+              e.style.cssText = l[k]
+            }else{
+              for (var s in l[k]) (function(s, v) {
+                if('function' === typeof v) {
+                  // observable
+                  e.style.setProperty(s, v())
+                  cleanupFuncs.push(v(function (val) {
+                    e.style.setProperty(s, val)
+                  }))
+                } else
+                  var match = l[k][s].match(/(.*)\W+!important\W*$/);
+                  if (match) {
+                    e.style.setProperty(s, match[1], 'important')
+                  } else {
+                    e.style.setProperty(s, l[k][s])
+                  }
+              })(s, l[k][s])
+            }
+          } else if(k === 'attrs') {
+            for (var v in l[k]) {
+              e.setAttribute(v, l[k][v])
+            }
+          }
+          else if (k.substr(0, 5) === "data-") {
+            e.setAttribute(k, l[k])
+          } else {
+            e[k] = l[k]
+          }
+        }
+      } else if ('function' === typeof l) {
+        //assume it's an observable!
+        var v = l()
+        e.appendChild(r = isNode(v) ? v : document.createTextNode(v))
+
+        cleanupFuncs.push(l(function (v) {
+          if(isNode(v) && r.parentElement)
+            r.parentElement.replaceChild(v, r), r = v
+          else
+            r.textContent = v
+        }))
+      }
+
+      return r
+    }
+    while(args.length)
+      item(args.shift())
+
+    return e
+  }
+
+  h.cleanup = function () {
+    for (var i = 0; i < cleanupFuncs.length; i++){
+      cleanupFuncs[i]()
+    }
+    cleanupFuncs.length = 0
+  }
+
+  return h
+}
+
+var h = module.exports = context()
+h.context = context
+
+function isNode (el) {
+  return el && el.nodeName && el.nodeType
+}
+
+function forEach (arr, fn) {
+  if (arr.forEach) return arr.forEach(fn)
+  for (var i = 0; i < arr.length; i++) fn(arr[i], i)
+}
+
+function isArray (arr) {
+  return Object.prototype.toString.call(arr) == '[object Array]'
+}
+
+
+
+
+/***/ }),
+
+/***/ "./node_modules/indexof/index.js":
+/***/ (function(module, exports) {
+
+
+var indexOf = [].indexOf;
+
+module.exports = function(arr, obj){
+  if (indexOf) return arr.indexOf(obj);
+  for (var i = 0; i < arr.length; ++i) {
+    if (arr[i] === obj) return i;
+  }
+  return -1;
+};
+
+/***/ }),
+
+/***/ "./node_modules/tap-logger/index.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+module.exports = Object.assign(function () {
+    for (var _len = arguments.length, xs = Array(_len), _key = 0; _key < _len; _key++) {
+        xs[_key] = arguments[_key];
+    }
+
+    console.log.apply(console, xs);
+    return xs[xs.length - 1];
+}, {
+    id: function id(x) {
+        return x;
+    },
+    l: console.log,
+    hola: function hola() {
+        return console.log('hola');
+    },
+    start: function start() {
+        return console.log('\n.\n..\n...\n....\n.....\n......\n.......\n........\nStarting:....\n');
+    },
+    end: function end() {
+        return console.log('\nEnding:....\n........\n.......\n......\n.....\n....\n...\n..\n.\n');
+    },
+    c: function c(msg) {
+        return function (x) {
+            //curried
+            console.log(msg, x);
+            return x;
+        };
+    },
+    ap: function ap(fn, x) {
+        console.log(fn(x), x);
+        return x;
+    },
+    ap_c: function ap_c(fn) {
+        return function (x) {
+            console.log(fn(x), x);
+            return x;
+        };
+    }
+});
+
+/***/ }),
+
+/***/ "./sass/mazorca.scss":
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
+/***/ 0:
+/***/ (function(module, exports) {
+
+/* (ignored) */
+
+/***/ }),
+
+/***/ 1:
+/***/ (function(module, exports, __webpack_require__) {
+
+__webpack_require__("./es6/mazorca.js");
+module.exports = __webpack_require__("./es6/micorriza.js");
+
+
+/***/ })
+
+/******/ });
+//# sourceMappingURL=bundle.js.map
