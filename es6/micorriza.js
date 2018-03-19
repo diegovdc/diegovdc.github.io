@@ -66,7 +66,7 @@ const videos = [
     }
 ]
 
-const app = div('.main', [
+const index = div('.main', [
     h1('.main-ttl', ['Diego Villaseñor, ', a({href:"http://echoic.space"}, ['echoic.space'])]),
     div('.intro', intro),
     videos.map(v => div('.video', [
@@ -81,10 +81,22 @@ const app = div('.main', [
         a('.track-score', { href: t.score, target: '_blank' }, ['Partitura']),
         div('.description', t.description),
     ])),
-
-
 ])
-document.getElementById('app').appendChild(tap.id(app))
+
+const markdownContent = content => {
+    let container  = div()
+    container.innerHTML = content
+    return container
+}
+
+import conceptosGenerales from '../data/conceptos-generales.json'
+const conceptos = div('.main', [
+    h1(['Conceptos Generales']),
+    div('.content',
+        conceptosGenerales.map(c => markdownContent(c.body)))
+])
+
+window.app = { index, conceptos }
  if (module.hot) {
     module.hot.accept();
 } //permite hacer Hot Module Replacement

@@ -10,6 +10,7 @@
     "start:admin": "NODE_ENV=dev WEBPACK=hot HOT_BUILD=admin-functions webpack-dev-server",
     "build:dev": "npm run remove_build_folder && NODE_ENV=dev webpack --config webpack.config.js",
     "build:prod": "npm run remove_build_folder && NODE_ENV=prod webpack --config webpack.config.js",
+    "build:content": "node node_modules/frontmatter-markdown-to-json --out=data",
     "remove_build_folder": "echo 'borrando folder public/build' && rm -rf public/build && echo 'compilando nuevo build de css y js'",
     "test": "karma start",
     "test:full": "BROWSERS=all REPORTERS=all karma start"
@@ -63,6 +64,7 @@
     "karma-phantomjs-launcher": "1.0.4",
     "karma-safari-launcher": "1.0.0",
     "karma-sourcemap-loader": "0.3.7",
+    "frontmatter-markdown-to-json": "0.0.7",
     "karma-spec-reporter": "0.0.31",
     "karma-webpack": "1.8.1",
     "micorriza-karma-jasmine": "1.0.1",
