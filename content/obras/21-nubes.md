@@ -24,7 +24,11 @@ Los motivos emergen del material mismo, van y vienen, se transforman, y no dejar
 Las nubes aparecen, crecen, se desintegran, saben ser y dejar de ser. Y cuando la mirada se detiene sobre ellas, parecería que sólo están ahí para hablarnos de un tiempo sin tiempo.
 
 ## Introducción
-_21 Nubes_ forma parte de una serie de piezas qué trabajar variaciones de una serie de conceptos comunes: las series armónicas (particularmente aplicadas a la forma), la exploración del concepto de red, aplicado a la melodía, la armonía y la forma, la limitación de recursos extrema y con ella, la propuesta de retomar elementos que parecerían superados por la música contemporánea y mostrarlos bajo la luz y el potencial de los procesos anteriormente mencionados. Con esto último nos referimos particularmente al interés de esta pieza por trabajar únicamente con los sonidos correspondientes a las notas blancas del piano.
+_21 Nubes_ forma parte de una serie de piezas qué trabajar variaciones de una serie de conceptos comunes: las series armónicas (particularmente aplicadas a la forma), la exploración del concepto de red, aplicado a la melodía, la armonía y la forma, la limitación de recursos extrema y con ella, la propuesta de retomar elementos que parecerían superados por la música contemporánea y mostrarlos bajo la luz y el potencial de los procesos anteriormente mencionados. 
+
+Con esto último nos referimos particularmente al interés de esta pieza por trabajar únicamente con los sonidos correspondientes a las notas blancas del piano. Como propuesta esto se propone contrario a cierta tendencia posmoderna de generar diferencia y novedad a partir de agregar nuevos materiales al discurso,  la complejidad del mismo. Lo que aquí se intenta demostrar es la posibilidad contraria, generar un discurso nuevo a partir de la reducción de posibilidades de un discurso previamente existente. 
+
+El resultado es un discurso que usa el elemento más representativo de la tradición músical desde la Edad Media: la escala diatónica, y lo elabora en un lenguaje cuyas reglas son totalmente distintas, desproveyéndolo de todos sus recursos tradicionales (grados, modulación, triadas), para demostrar que no es (necesariamente) en la novedad de los materiales donde radica la novedad de un discurso.
 
 _21 Nubes_ puede y debe comprenderse (al menos) de tres maneras simultáneas:
 1. Serie ordinaria de 21 miniaturas
