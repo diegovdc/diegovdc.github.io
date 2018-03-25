@@ -1,5 +1,17 @@
 # 21 Nubes
 
+> Charles Shere: ... Most of the people I’ve talked to seem to think that total serialisation was a historical necessity at one point, but is no longer viable.
+>
+> Morton Feldman: It’s a very interesting thing, you know, this whole business of historical necessity comes around only because there’s very little alternative... but once you go to indeterminate music, with all the new alternatives, what’s wrong with the total serialisation of these alternatives? 
+>
+> CS: Well, then what’s wrong with writing a piece in E Major?
+>
+> MF: I wouldn’t mind a piece in E Major, but they’re just not happy with just staying in that E Major.
+
+<a href="http://www.cnvill.net/mfshere.pdf">Fuente</a>
+
+
+
 ## Nota al programa
 En veintiún melodías, esbozo de una metáfora del momento, del crecimiento y de lo efímero. 
 
