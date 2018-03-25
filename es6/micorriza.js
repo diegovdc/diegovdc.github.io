@@ -2,6 +2,14 @@
 import tap from 'tap-logger'
 import h from 'hyperscript'
 import hh from 'hyperscript-helpers'
+import $ from 'jquery'
+import R from 'ramda'
+
+window.tap = tap
+window.$ = $
+window.R = R
+window.hh = hh
+
 
 const {
     div,
@@ -90,13 +98,21 @@ const markdownContent = content => {
 }
 
 import conceptosGenerales from '../data/conceptos-generales.json'
+import QuintoSemestre from '../data/examenes.json'
+
+
 const conceptos = div('.main', [
     h1(['Conceptos Generales']),
-    div('.content',
+    div('.markdown-body',
         conceptosGenerales.map(c => markdownContent(c.body)))
 ])
 
-window.app = { index, conceptos }
+const quintoSemestre = div('.main', [
+    div('.markdown-body',
+        QuintoSemestre.map(c => markdownContent(c.body)))
+])
+
+window.app = { index, conceptos, quintoSemestre }
  if (module.hot) {
     module.hot.accept();
 } //permite hacer Hot Module Replacement

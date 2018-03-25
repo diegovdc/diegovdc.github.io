@@ -90,6 +90,7 @@
   "dependencies": {
     "axios": "0.17.1",
     "es6-promise": "4.1.1",
+    "github-markdown-css": "2.10.0",
     "hyperscript": "2.0.2",
     "hyperscript-helpers": "3.0.3",
     "jquery": "3.2.1",
