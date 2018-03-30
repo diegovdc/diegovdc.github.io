@@ -1,17 +1,5 @@
 # 21 Nubes
 
-> Charles Shere: ... Most of the people I’ve talked to seem to think that total serialisation was a historical necessity at one point, but is no longer viable.
->
-> Morton Feldman: It’s a very interesting thing, you know, this whole business of historical necessity comes around only because there’s very little alternative... but once you go to indeterminate music, with all the new alternatives, what’s wrong with the total serialisation of these alternatives? 
->
-> CS: Well, then what’s wrong with writing a piece in E Major?
->
-> MF: I wouldn’t mind a piece in E Major, but they’re just not happy with just staying in that E Major.
-
-<a href="http://www.cnvill.net/mfshere.pdf">Fuente</a>
-
-
-
 ## Nota al programa
 En veintiún melodías, esbozo de una metáfora del momento, del crecimiento y de lo efímero. 
 
@@ -24,44 +12,101 @@ Los motivos emergen del material mismo, van y vienen, se transforman, y no dejar
 Las nubes aparecen, crecen, se desintegran, saben ser y dejar de ser. Y cuando la mirada se detiene sobre ellas, parecería que sólo están ahí para hablarnos de un tiempo sin tiempo.
 
 ## Introducción
-_21 Nubes_ forma parte de una serie de piezas qué trabajar variaciones de una serie de conceptos comunes: las series armónicas (particularmente aplicadas a la forma), la exploración del concepto de red, aplicado a la melodía, la armonía y la forma, la limitación de recursos extrema y con ella, la propuesta de retomar elementos que parecerían superados por la música contemporánea y mostrarlos bajo la luz y el potencial de los procesos anteriormente mencionados. 
+> Charles Shere: ... Most of the people I’ve talked to seem to think that total serialisation was a historical necessity at one point, but is no longer viable.
+>
+> Morton Feldman: It’s a very interesting thing, you know, this whole business of historical necessity comes around only because there’s very little alternative... but once you go to indeterminate music, with all the new alternatives, what’s wrong with the total serialisation of these alternatives? 
+>
+> CS: Well, then what’s wrong with writing a piece in E Major?
+>
+> MF: I wouldn’t mind a piece in E Major, but they’re just not happy with just staying in that E Major.
+
+<a href="http://www.cnvill.net/mfshere.pdf">Fuente</a>
+
+_21 Nubes_ forma parte de una serie de piezas qué trabajan al rededor de un conjunto de conceptos comunes: las series armónicas (particularmente aplicadas a la forma), la exploración del concepto de red, aplicado a la melodía, la armonía y la forma, la limitación de recursos extrema y con ella, la propuesta de retomar elementos que parecerían superados por la música contemporánea y mostrarlos bajo la luz y el potencial de los procesos anteriormente mencionados. 
 
 Con esto último nos referimos particularmente al interés de esta pieza por trabajar únicamente con los sonidos correspondientes a las notas blancas del piano. Como propuesta esto se propone contrario a cierta tendencia posmoderna de generar diferencia y novedad a partir de agregar nuevos materiales al discurso,  la complejidad del mismo. Lo que aquí se intenta demostrar es la posibilidad contraria, generar un discurso nuevo a partir de la reducción de posibilidades de un discurso previamente existente. 
 
 El resultado es un discurso que usa el elemento más representativo de la tradición músical desde la Edad Media: la escala diatónica, y lo elabora en un lenguaje cuyas reglas son totalmente distintas, desproveyéndolo de todos sus recursos tradicionales (grados, modulación, triadas), para demostrar que no es (necesariamente) en la novedad de los materiales donde radica la novedad de un discurso.
 
+### Consideraciónes sobre la notación
+La notación de esta pieza esta inspirada en dos fuentes principales. György Kurtàg y Christian Wolff. 
+
+Del primero toma la notación de las duraciónes de calderón, las que se encuentran sobre ciertas notas y las que separan las frases (calderones sin círculo central), se trata simplemente de pausas libres. 
+
+![Calderones](/public/images/21-nubes/calderones.png)
+
+Del segundo toma la ausencia de claves y la indeterminación instrumental. 
+
+De ambos, la ausencia de duraciones rítmicas precisas.
+
+![Calderones](/public/images/21-nubes/18-20.png)
+
+
+#### Consideraciones sobre la ejecución prototípica
+A pesar de que la obra no obliga a que ser ejecutada necesariamente en piano, o con alguna clave en específico, posibilidades que son deseadas y bienvenidas, la obra sí fué escrita tomando en consideración las claves usuales (por cuestiones armónicas) y el timbre del piano con pedal (por cuestiones polifónicas). El análisis que sigue asume estos presupuestos, y describe la pieza dentro de ese contexto. 
+
+Tomando esto en cuenta las claves ordinarias, el piano, y el uso extensivo del pedal son ámpliamente recomendadas para conocer la pieza y los conceptos detrás de ellas. 
+
+Para _jugar_, como bien se comprendé la música en la lengua sajona (_to play_), la pieza desde su notación, se recomienda tan sólo seguir el oído y la imaginación creativa.
+
+Para _jugar_ la pieza más allá de su notación, se recomienda tener en cuenta, al menos, las dos reglas descritas en la sección [Serie Melódica Infinita](#serie-mel-dica-infinita).  Para elaborar más la realización se pueden tomar en consideración la reglas descritas en las secciones de [armonía](#armon-a) y [polifonía](#polifon-a-y-permutaci-nes-de-los-subconjuntos-arm-nicos), así como también se pueden tomar en cuenta los [morfismos](#consideraciones-sobre-la-morfología-de-los-materiales) descritos hacia el final de la obra, ya sea para usarlos o para inventar otros nuevos.
+
+## Análisis
 _21 Nubes_ puede y debe comprenderse (al menos) de tres maneras simultáneas:
 1. Serie ordinaria de 21 miniaturas
 
-2. Serie compuesta de y como variaciones (menos de 21???????? ESPECIFICAR NÚMERO)
+2. Serie compuesta de y como variaciones
 
 3. Serie melódica infinita
-
 
 ### Una serie ordinaria de 21 miniaturas.
 La primera serie involucra la secuencia armónica _1, 2, 3... 21_. Esta secuencia sirve para designar el número de notas que cada una de las 21 piezas deberá contener. Por consiguiente esta serie sirve para definir la forma. 
 
-Si bien, el que una minitura contenga más notas que otra no la hace necesariamente mayor en duración, el proceso implica un gradual complejización de la escucha: cada unidad contiene un elemento más que el oído debe de analizar. 
+![Serie armónica de cantidad de notas](/public/images/21-nubes/1-6.png)
+
+La duración de cada miniatura es independiente. Sin embargo, el proceso implica un gradual complejización de la escucha: cada unidad contiene un elemento más que el anterior, y es algo a lo que el oído deber darle sentido. 
 
 
-### Una serie menor de variaciones (menos de 21???????? ESPECIFICAR NÚMERO)
-La segunda serie refiere a un proceso que se desenvuelve en tres niveles disintos:
-1.  Primero, la pieza elabora una tipología de materiales a desarrollar (que describiremos en seguida), y en tanto se explora un material armónico-melódico muy limitado, la variación emerge, casi por fuerza, en toda su inmediatez.  
+Nótese que usamos el concepto de _serie armónica_ en el sentido matemático que es más amplio que el musical, ya que musicalmente se le llama serie armónica a una _serie armónica **de** frecuencias_, lo que aquí es más bien una **serie armónica de unidades de constucción**
 
-2. Segundo, ciertas minituras hacen referencia a miniaturas anteriores, y en tanto el contexto cambia necesariamente (la cantidad de notas de una variación a otra aumenta siempre), la variación consiste en la adaptación de esta condición a la variación de refencia. 
+<!-- #### Primera frase
+La suma de 1..6 da como resultado 21 -->
+
+### Una serie menor de variaciones
+Esta serie tiene tres niveles:
+
+<!-- 1.  Tipología de materiales: se elabora una tipología de materiales que en cada iteración se desarrolla, y en tanto se explora un material armónico-melódico muy limitado, la variación emerge, casi por fuerza, en toda su inmediatez.   -->
+1.  Tipología de materiales:  el producto de una armonía limitada y una serie ascendete de duraciones.
+    1.1 La primera miniatura es por fuerza el material de la nota sola.
+
+    1.2 La segunda inaugura la dirección melódica y el intervalo (armónico o melódico), así como a la repetición..
+
+    1.1 Eventualmente evolucionan patrones, conjuntos y procesos.
+
+2. Referencia a materiales anteriores: Puesto que el principio es  el de iterar sobre la serie armónica, después de cada iteración se dispone de un patrón o conjunto más al que podemos referirnos y al que tenemos que responder con la miniatura siguiente, siempre con una unidad de construcción más.
+<!-- 2. Segundo, ciertas minituras hacen referencia a miniaturas anteriores, y en tanto el contexto cambia necesariamente (la cantidad de notas de una variación a otra aumenta siempre), la variación consiste en la adaptación de esta condición a la variación de refencia.  -->
 
 3. Tercero, ciertos conjuntos de miniaturas hacen referencia a otros conjuntos de miniaturas, lo cuál involucra los dos niveles previos: 
 
-    3.1  El primero en tanto un conjunto de tipos de material sirve para identificar a una variación.
+    3.1 Al primero, en tanto un conjunto de tipos de material sirve para identificar a una variación.
     
-    3.2 El segundo en tanto que se elabora un discurso cuya forma es la de una sóla extensa melodía. Entonces podemos hablar de variaciones compuestas por distintas miniaturas (frases).
+    3.2 Al segundo en tanto que<!-- se elabora un discurso cuya forma es la de una sóla extensa melodía. Entonces  --> al referir a otras variaciones podemos hablar de variaciones que compuestas de otras variaciones o que son variaciones de variaciones.
     
-        3.2.1 Por ejemplo, las variaciones correspondientes a las _miniaturas 7_ (melodía ascendente) y _8_ (melodía descendente), donde la segunda es variación de la primera. Éstas además se componen naturalmente en un frase, la cuál se verá variada en las variaciones 18 (melodía descendente) y 19 (melodía ascendente), proceso que se puede analizar tanto como una retrogradación al nivel de las variaciones (_variación ascendente_ seguida por _variación descendente_ --> _variación descendente_ seguida por _variación ascendente_), o como una inversión (necesariamente variada) del contorno de la frase conformada por _7 y 8_. 
+        3.2.1 Por ejemplo, las variaciones correspondientes a las _miniaturas 7_ (melodía ascendente) y _8_ (melodía descendente), donde la segunda es variación de la primera. 
+    
+    ![minitaturas 7 y 8](/public/images/21-nubes/7-8.png)
+
+        Éstas además se componen naturalmente en una frase, la cuál se verá variada en las _minitaturas 18_ (melodía descendente) y _19_ (melodía ascendente). 
+    
+    ![minitaturas 18 y 19](/public/images/21-nubes/18-19.png)
         
-        3.2.2 Hablamos así de juego de variaciones elaborado como variaciones de variaciones, una especie de juego de espejos donde cada relejo multiplica los elementos previamente reflejados.
+        Este proceso se puede analizar tanto como una retrogradación al nivel de las variaciones (_variación ascendente_ seguida por _variación descendente_ --> _variación descendente_ seguida por _variación ascendente_), o como una inversión (necesariamente variada) del contorno de la frase conformada por _7 y 8_. 
+    
+        
+        3.2.2 Hablamos así de un juego de variaciones elaborado como variaciones de variaciones, una especie de juego de espejos donde cada relejo multiplica los elementos previamente reflejados.
 
 ### Serie melódica infinita
-La tercera serie refiere al método de construcción melódico-armónica de la obra. Todas las armonías y melodías son derivaciónes de las siguientes dos reglas:
+La tercera serie refiere al método de construcción melódico-armónica de los materiales de la obra. Todas las armonías y melodías son derivaciónes de las siguientes dos reglas:
 
 1. Los únicos intervalos posibles son el _unísono_, la _segunda menor_, la _segunda mayor_ y la _tercera menor_, sus inversiones y sus transposiciones de octava, quincena, etc.: 0, 1, 2, 3, 9, 10, 11
 
@@ -95,13 +140,13 @@ También puede verse como una matriz, lo que revela una simetría peculiar:
 
 Es de notar que una de las cualidades melódicas más relevantes, que se derivan de estas reglas, es que después de un intervalo de 2da menor, es imposible un salto de 3era menor en la misma dirección, es decir, un salto pequeño. Lo que significa que si se desea un salto en la misma dirección, este tiene que ser necesariamente un salto grande, mínimo una 6ta mayor. Lo mismo se sostiene a la inversa, después de un salto de 3era menor, una segunda menor es imposible en la misma dirección, aunque en este caso, sí hay varias posibilidades para un movimiento de 2da mayor en la misma dirección, lo que le da preponderancia a esta combinación interválica (como vermos más adelante).
 
-Otro aspecto a notar es que tomada esta estructura como fuente de materiales, es posible construir, con extrema fácilidad una infinidad de melodías, cada una de las cuales comparte una estructura genética idéntica a la otra. Lo que le da especificidad a estas construcciones melódicas y las distingue de cualquier otra son justamente las conexiones faltantes entre intervalos, es decir, los límites precisos que se tienen. O en otras palabas, si cualquier nota pudiera ir a cualquier otra, entonces las melodías producidas por esta red de conexiones no se distinguirían necesariamente de ninguna otra melodía construida a partir de una escala diatónica, lo que característicamente, no es el caso aquí.
+Otro aspecto a notar es que tomada esta estructura (la tabla o la matriz) como fuente de materiales, es posible construir, con extrema fácilidad una infinidad de melodías, cada una de las cuales comparte una estructura genética idéntica a la otra. Lo que le da especificidad a estas construcciones melódicas y las distingue de cualquier otra son justamente las conexiones faltantes entre las notas asi como los intervalos faltantes, es decir, lo determinante son los límites precisos que se tienen. O en otras palabas, si cualquier nota pudiera ir a cualquier otra, entonces las melodías producidas por esta red de conexiones no se distinguirían necesariamente de ninguna otra melodía construida a partir de una escala diatónica, lo que característicamente, no es el caso aquí.
 
 ## Consideraciones Generales
 ### Armonía y Polifonía
-A pesar de que la tabla y la matriz nos hacen pensar en el uso de pares de notas, intervalos, como nuestra unidad principal, en realidad, también podemos pensar en tener unidades mayores que serían el resultado de posibles conjuntos de secuencias, lo que abre las puertas a la generación de acordes y como veremos, de polifonía.
+A pesar de que la tabla y la matriz nos hacen pensar en el uso de pares de notas, como nuestra unidad principal, en realidad, también podemos pensar en tener unidades mayores que serían el resultado de posibles conjuntos de secuencias, lo que abre las puertas a la generación de acordes y como veremos, de polifonía.
 
-A este respecto tenemos una atracción particular por armonías que guardan simetrías y paralelismos entre sí, interés que se deriva quizás de las simetrías observables en la matriz mostrada anteriormente.
+<!-- A este respecto tenemos una atracción particular por armonías que guardan simetrías y paralelismos entre sí, interés que se deriva quizás de las simetrías observables en la matriz mostrada anteriormente. -->
 
 ### Armonía
 Para generar una armonía tomamos una secuencia melódica **x** y hacemos sonar simultaneamente todas sus notas, pudiendo además variar en la disposición vertical (graves -> agudos) el orden de las notas.
@@ -111,7 +156,7 @@ Por ejemplo, si tomamos **a-b-d-f-e** y la convertimos en un conjunto de notas q
 Esto es posible bajo la regla de que al menos una de las notas de acorde previo conecten legalmente con **a**, y que alguna de la notas del acorde subsiguiente conecten con la nota **e**. En el caso de que a la agrupación vertical le anteceda o le siga una nota sola, la regla aplica de la misma manera. Como se podrá observar todas las sonoridades verticales de la obra se comportan de esta manera.
 
 ### Simetrías
-Por otra parte hay ciertos subconjuntos que nos parecen sumamente interesantes y que ocasionalmente son explotados.
+<!-- Por otra parte h -->Hay ciertos subconjuntos que nos parecen sumamente interesantes y que con frecuencia aprecen en las líneas melódicas.
 
 Por ejemplo, tomemos las triadas de tipo interválico **[2-3]** o **[3-2]**: Con **[a-c-d]** y **[d-e-g]** tenemos una inversión cuyo eje, o nota espejo es **d**. Su uso se puede apreciar particularmente en la última variación, la cuál se desarolla como símbolo de esta propiedad. En el mismo sentido, aunque con mayor peculiaridad tenemos las triadas, del mismo tipo que las anteriores  **[e-g-a]** y **[g-a-c]**, donde el eje de inversión se encuentra sobre un fantasmal **g#**, por lo qe **a** y **g** se mantienen constantes. 
 
@@ -122,7 +167,7 @@ Ejemplos de uso pueden observarse generalmente con subconjuntos de estos grupos.
 ## Polifonía y permutaciónes de los subconjuntos armónicos
 La obra hace uso de lo que se podría llamar polifonía fluctuante, es decir, que la cantidad de voces _independientes_ varia constantemente. Aunque en este momento del análisis no nos detendremos en analizar esto (cosa en la que más adelante abundaremos), es importante mencionarlo aquí para explicar un recurso polifónico particular ligado a la red melódica que usamos y a los subconjuntos armónicos que derivamos de ella.
 
-La regla de los procesos polifónico que aquí seguimos es la siguiente:  **Es posible separar un conjunto armónico en dos secuencias melódicas relativamente independientes, siempre y cuando el punto de convergencia o divergencia de ambas melodías sea un punto legal, y cada una de estas secuencias sea legal en si misma (a pesar de que a momentos podría parece que hay intervalos ilegales melódicos)**. Por ejemplo tomando el conjunto **[e-g-a]** podemos generar una melodía que vaya de **a-g** y otra que vaya de **e-g** (siendo ambas **g** la misma), y esto es legal a pesar de que en cierto momento se produza simultanea o secuencialmente el intervalo de 4 justa **a-e**.
+La regla de los procesos polifónicos que aquí seguimos es la siguiente:  **Es posible separar un conjunto armónico en dos secuencias melódicas relativamente independientes, siempre y cuando el punto de convergencia o divergencia de ambas melodías sea un punto legal, y cada una de estas secuencias sea legal en si misma (a pesar de que a momentos podría parece que hay intervalos ilegales melódicos)**. Por ejemplo tomando el conjunto **[e-g-a]** podemos generar una melodía que vaya de **a-g** y otra que vaya de **e-g** (siendo ambas **g** la misma), y esto es legal a pesar de que en cierto momento se produza simultanea o secuencialmente el intervalo de 4 justa **a-e**.
 
 Esta regla por ende nos permite tratar a dos segmentos melódicos como si se tratara de subconjuntos armónicos, tratando a las notas al interior de los conjuntos mediante permutaciones como cuando las reordenamos al generar un acorde, lo cual generaría secuencias melódicas que no aparecen cuando se derivan de la tabla de conexiones, pero si cuando se derivan de subconjuntos armónicos derivados de ésta. 
 
@@ -173,6 +218,92 @@ Aparentemente, en la partitura, hay una sola voz, la cual en cierto momento tien
 El efecto general es de voces que se ramifican, que divergen y convergen de un modo vago. No se trata de una diferencia de grados discretos y bien definidos: "ahora 2, ahora 3". Sino más bien de una diferencia de tipo difuso, casi continuo, aparente y perceptual: "no sé donde hay 2 o 3 o _n_ voces, pero sé que hay más de una y sé que no siempre son las mismas". 
 
 En efecto, estas son las mismas preguntas que podemos hacernos cuando miramos las nubes en el cielo: ¿en qué momento se separan... y _qué tan separadas están realmente_, son una o múltiples... o más bien multiplicidades (cf. _Rizoma_, Gilles Deleuze y Félix Guattari)?
+
+### Consideraciones sobre la morfología de los materiales
+Vale la pena detenernos brevemente para explicar el concepto de morfología al que se ha referido en este análisis, y mostrar como se aplica en el desarrollo de los materiales, y en la composición de las relaciones entre ellos.
+
+Por morfología nos referimos simplemente al análisis de los conjuntos de cualidades perceptuales que definen a un material. Un morfismo, por consiguiente, consiste en una o varias cualidades cuya filiación aparece consistentemente a través de un conjunto de materiales. Los morfismos se conciben aquí, por lo tanto, como unidades genéticas, y decimos que un mismo material puede exhibir simultáneamente múltiples morfismos.
+
+
+Podemos nombrar algunos morfismos presentes en la obra.
+1. Sonido largo
+2. Intervalo 3 (tercera menor)
+3. Repetición de un material
+4. Inversión de la dirección de un material
+4. Retrogradación de la secuencia de un material
+5. Linea melódica hecha de intervalos 1,2, 3.
+6. Linea melódica hecha de intervalos 1,2,3, puntuada por elemento en posición contraria a la dirección de la linea (si ésta asciende el punto está en el registro grave y viceversa)
+7. Agregado vertical de sonidos
+8. Expansión de un registro, del centro hacia sus extremos.
+
+La diferencia entre un morfismo y un motivo, es que un motivo tiene una identidad más estrictamente definida que un morfismo, y es por lo tanto menos flexible y menos capaz de identificar las relaciónes entre los materiales que exhibe esta obra. Por ejemplo, puede decirse que la _minitatura 4_ está compuesta por dos motivos, la linea melódica decendente de intervalos **2-3** y el intervalo armónico **3**. Sin embargo, esta visión no nos permite establecer el claro parentezco que tiene ésta miniatura con la número _13_ dónde lo que observamos es una línea melódica descendente puntuada por un elemento en el extremo contrario, el motivo **2-3** sólo en una ocasión y el intervalo **3** no aparece. Sin embargo, el morfismo es el mismo en ambos casos, es decir, ambas comparten la cualidad "línea melódica descendente puntuada por un elemento en el extremo contrario",  sólo que en _13_ aparece como una figura más extensa (como si fuera vista de cerca) y en _5_ aparece más esquemáticamente, tan sólo mostrando su características escenciales.
+
+Otro ejemplo, al final de _17_ podemos observar una pequeña expansión que abre el registro de **f** a **[d-b]**, a penas un intervalo de **9**. Se trata de un triángulo muy claramente definido. Este mismo triágulo en una escala completamente diferente se observa claramente _21_ donde la expansión va de **d** a **[c-a]** con un intervalo de **9 + 5 octavas**. Motívicamente ambos segmentos son muy distintos, sin embargo en su aspecto sonoro exhiben características muy similares.
+
+Estos conceptos de morfologías y morfismos, conectan muy bien con el concepto de [escalas de percepción](/conceptos-generales#escala-de-percepción-de-los-materiales), el cuál se trabaja también, de manera muy distinta, pero con intenciones similares, en [Espíritu penetrando en árbol](/5to-semestre#escalas-de-percepcion-del-espiritu). Baste aquí con decir que uno de los objetivos principales de ambas exploraciones para desarrollar este concepto, es el de poder realizar una música de músicas, donde cada música pueda colocarse, en distintos momentos, en distintas posiciones del espacio auditivo. Esto, por medio del manejo de su escala de percepción. Objetivo que se cumple finalmente en [Videcoic One](/8vo-semestre#videoic-one).
+
+#### Nota sobre la interpretación de los morfismos
+El caracter perceptual del los morfismos, sumado a la apertura de la partitura, (digamos, en terminos rítmicos) hace que su aparición no sea completamente objetiva ni completamente subjetiva. Diversas interpretaciones pueden enfatizar o atenuar la perceptibilidad de algunos de estos morfismos. Sin embargo, se puede afirmar que la riqueza perceptual de la pieza radica, en gran parte, en estos: en los ecos de la memoria que se generan al percibirlos, por lo que, en efecto, es importante para la interpretación el tener conciecia de los morfismos presentes.
+
+### Composición de morfismos como generadora de variaciones
+En el desarrollo de las miniaturas, como un procesos de variaciones, los morfismos se puede componer, o entremezclan, para generar nuevas estructuras a partir de cualidades reconocibles.
+
+#### Ejemplo 1: 
+
+El morfismo _Nota Larga_ aparece claramete en _1_, ya que es prácticamente lo único que se puede hacer ahí.  
+
+Una reaparición extremádamente clara de este morfismo la tenemos en _15_, donde la desarticulación puntillista de una **a** bajo el morfismo de la _Repetición_, lo multiplica en diversas octavas (previene al ódio de formar fácilmente asociaciones melódicas entre las notas). La composición de ambos morfismos resulta entonces en una nube de  _Notas Largas_.
+
+Sin embargo, dada la extrema simplicidad del morfismo de _Nota Larga_.  Éste es en realidad ubicuo.
+
+#### Ejemplo 2:
+
+_2_ puede interpretarse como un morfismo de _Intervalo 3_ que deriva en uno de _Nota Larga_.
+
+#### Ejemplo 3: 
+
+_7 y 8_ son el morfismo de _Repetición_ tomando dos morfismos de  _Linea Melódica_ uno de los cuales esta compuesto además por un morfismo de _Inversión_. 
+
+1. Exactamente lo mismo se puede decir de _3_ (como el modelo más esquemático de este proceso.) 
+
+2. Por su parte, _18 y 19_ son la  _Inversión_ de todo el compuesto de morfismos de _7 y 8_. 
+
+3. Esto mismo sucede en _20_.
+
+#### Ejemplo 4: 
+
+_4, 6, 7, 11, 12, 13, 17, 18 y 21_ contienen morfismos de _Expansión_. 
+
+De estos:
+
+1. Sólo _4, 7, 11, 12, 13, 17 y 18_ estan compuestos por el morfismo de _Linea melódica_.
+
+2. Sólo _4, 11, y 13_ estan compuestos por la _Puntuación En Sentido Contrario_. 
+    2.1 Mientras que _11_ realiza una _Inversión_ morfológica de _4_
+
+3. Sólo _4, 6, 12 y 17_ tienen _Agregados Verticales_
+
+4. Sólo _6, 12 y 17_ tienen un enfasis considerable en el morfismo de _Repetición_.
+
+5. Sólo a _18_ se le aplica el morfismo de _Retrogradación_
+
+Como se puede notar, particularmente en el último ejemplo, a través de la composición de morfismos, se puede generar una especie de red de variaciones, donde ciertos aspecto de un material pueden variar de multiples maneras simultáneamente (dependiendo del conjunto de morfismos utilizados). En este sentido, el potencial combinatorio de los morfismos permite una amplísima gama de posibilidades.
+
+### Consideraciones sobre la forma, límites y potenciales
+La única razón por la que esta obra consta de 21 miniaturas y no más, ni menos, es porque fue creada como un regalo de cumpleaños, para alguien que alcanzó esa edad. La forma de la obra es en este sentido sumamente arbitraria. Tanto que, incluso resulta dificil lograr un final plenamente convincente, y con frecuencia puede parecer incluso apresurado. Esto aun cuando la _miniatura 21_, efectivamente tiene cualidades conclusivas -cosa que Andrew Jamieson interpreta de manera espléndida-.
+
+En cierto sentido, sin embargo, esta imperfección formal se justifica en tanto que la vida, la vida de quien actualmente vive, no está nunca terminada, y por consiguiente un final que realmente no funciona como final, es quizá una representación adecuada. Aunque en este sentido, se vuelve aun más criticable la doble barra final. 
+
+Por otro lado, puesto que los materiales de la pieza puede ser generados algorítmicamente, ya sea por un humano o una máquina, la pieza como concepto, puede ser extendida infinitamente, basta con seguir las reglas genéticas de los materiales, y-o de variarlos por medio de los morfismos que hemos mostrado (aunque nada impediría agregar nuevos morfismos, ya que tampoco los hemos explicado todos).
+
+Ésta es precisamente una de las opciones que el músico tiene disponibles al momento de interpretar la pieza, particularmente cuando se interpreta simultáneamente con otras piezas, como lo hace el ya citado Andrew Jamieson al tocar 21 Nubes junto con [28 Palabras]() o dentro de [Videcoic One]().
+
+El sentido profundo de la apertura de esta pieza, no radica en la ausencia de duraciónes, claves, dinámicas, etc., sino justamente en que el potencial inscrito en la pieza por su red de materiales y procesos, desborda a la escritura. En este sentido se parece mucho más a un tema de jazz, a la posición que tiene el tema en el tejido de la música, que a una obra de Kurtág o Wolff. 
+
+Esta apertura es justamente la piedra angular de todas las búsquedas que agrupan a la obras aquí expuestas y muchas otras de los últimos años. La posibilidad de una escritura que se desborde, que abunde a la menor provocación, que esté viva y reaccióne, que sea como una persona con-versando: ahora con aquella ahora con aquél, un ser en un ecosistema, capaz de coevolucionar con otras especies, y de trascender los límites de su inscripción, la vida y no la biografía.
+
+21 Nubes como partitura, es el prototipo, el modelo didáctico que describe el potencial de 21 Nubes, uno incluso tiene algunas bellas directices, pero jamás será su último límite.
+
 
 ## Conclusiones
 Personalmente encuentro que este procedimiento muestra, casi en aislamiento, una de las maneras en que el oído puede analizar un contexto sonoro, y la relación entre los eventos de una secuencia, a saber qué el oído es capaz de analizar una música sobre una base casi exclusivamente cuantitiva (en términos de tonos)
