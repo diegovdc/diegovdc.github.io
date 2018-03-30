@@ -11,7 +11,98 @@ Al respecto de su desarrollo, la materiales fundamentales devienen, como es a ve
 ## Introducción
 _25 Campanas_ forma parte de una serie de piezas qué trabajan al rededor de un conjunto de conceptos comunes: las series armónicas (particularmente aplicadas a la forma), la exploración del concepto de red, aplicado a la melodía, la armonía y la forma, la limitación de recursos extrema, y particularmente la capcidad de ser (com)puesta en contextos donde conviva con otras piezas.
 
-La pieza fue concebida como una serie de 25 piezas pequeñas. Aunque el proceso de escritura fue lineal, y la secuencia 1, 2, 3... 25, sugeriría una aproximación lineal, la obra como tal no tiene que interpretarse de esta manera, ni tampoco en su totalidad. Esto se tratrá en la secciones de Repetición y de Lectura.
+Esta pieza fue concebida como una serie de 25 piezas pequeñas (también llamadas secciones, en este análisis, para evitar confusiones). Aunque el proceso de escritura fue lineal, y la secuencia 1, 2, 3... 25, sugeriría una aproximación lineal, la obra como tal no tiene que interpretarse de esta manera, ni tampoco en su totalidad. Esto se tratrá en la secciones de Repetición y de Lectura.
+
+### Objetivos de la pieza
+#### Objetivos compositivos
+Esta obra se incribe dentro del contexto de obras modulares que he estado escribiendo en los últimos años. La principal característica de estas obras es que pueden tocarse en superposición, unas sobre otras, sin requerir una adaptación por medio de la escritura.  El objetivo de esta pieza es el de estar escrita explícitamente para ser tocada sobre sí misma y poder ser tocada tambien como un solo (además de, por supuesto ser tocable sobre otras de las piezas modulares).
+
+La diferencia con un canon tradicional, es que un canon se forma a partir de melodías, y al conjunto resultante de melodías es lo que llamos la obra, no las melodías independientes.  En este caso, la obra se toca sobre sí misma, por lo que el canon se genera, no en la superposición una melodía sobre si misma, sino en la superposición de una obra sobre sí misma. Por lo que tenemos una obra hecha de obras en contrapunto.
+
+Puesto que uno de los objetivos de la serie de obras modulares es que la obras puedan dialogar e interactuar entre ellas, es decir, desarrollar un contexto de creación emergente, el canon más adecuado que se puede crear con esta obra no es un canon estricto, pues este no permite interacción en tiempo real, sino que sus interacciónes están ya predefinidas. Canon heterofónico sería una definición más adecuada.
+
+Para realizar esta obra el experimento consistió en pensar todo el tiempo como una obra que debía ser ejecutable por una sola guitarra, que fue la manera en la que durante su desarrollo la experimenté. Ello, sin embargo, no evitaba que pensar en proveer a la obra de artefactos qu pudieran ser explotados de diversas maneras por dos guitarras (como lo son el tener, en ocasiones dos pentagramas).
+
+Un segundo objetivo de la pieza fue explorar diversas maneras de repetición. El que la pieza se pudiera tocar consigo misma ya era una forma de repetición, mi intención era llevar ese aspecto macro al aspecto micro: construir la obra a través del concepto de autosimilitud, invocar un proceso fractal de creación. En la sección de [Repetición](#repeticion) se explican estos diversos niveles de reptición.
+
+#### Objetivos relativos la exploración de la guitarra
+<!-- Como guitarrista e improvisador mi acercamiento a la guitarra ha estado enfocado a dos cosas: la exploración de distintas afinaciones y la exploración de técnicas extendidas y maneras inusuales de producir sonidos en la guitarra mediante el uso de todo tipo de maneras de articular sonido (posiciones de la guitarra, uso del cuerpo completo, objetos, articulaciones).
+
+Para esta pieza, sin embargo, no tenía el deseo de esos recursos -->
+
+Mi interés es esta pieza era desarrollar técnicamente un modo de ejecución de la guitarra que fuera a la vez idiomático e inusual. Para enfocarme en este objetivo me plantee la regla de generar un discurso que tuviera como limitante el que siempre se sostuvieran la mayor cantidad de tonos (sonidos afinados) posibles dentro de un leguaje predominantemente melódico. Para ello decidí trabajar con dos recursos relativamente comunes en la guitarra eléctrica: 
+
+1. El tapping, que permite "pisar" la cuerda con las dos manos independientemente
+2. Los armónicos, que aumentan la diversidad de notas que una cuerda al aire es capaz de producir
+
+La incorporación de estás técnicas con el principio de sostenimiento de los sonidos y de la orientación melódica tuvo consecuencias interesantes:
+
+1. El desarrollo de un discurso rico en colores y cambios de color (por la variedad de articulaciones y la alternancia entre notas pisadas y armónicos).
+2. La incorporación, gracias al uso de armónicos, de muchísimos sonidos no temperados al vocabulario de la pieza (incluidos además algunos multifónicos que "salen" con frecuenia y facilidad al invocar armónicos relativamente altos i.e. el 11)
+    2.1 Nótese que para cada cuerda, únicamente los armónicos correspondientes a la duplicación de la fundamental (1, 2, 4, 8...) son temperados, todos los demás no lo son. 
+    2.2 Lo que significa que en realidad el material armónico consiste en 5 espectros distintos y una escala temperada (o 6 espectro si concebimos a las **e**s como entidades distintas -que físicamente son-).
+    <!-- 2.2.1 Y en ese caso, hasta 12 si pensamos que tenemos 12 cuerdas produciendo espectros ligeramente distintos -->
+
+
+### Notación
+#### Armónicos
+En esta obra se utilizan tres notaciones para los armónicos: 
+Dos de ellas son ya conocidas, la del neuma con un circulo en la parte superior, y la del diamante.  Una tercera notación se usa para los armónicos superiores: Se indica el número de la cuerda con números romanos y el número de traste y la posición del armónico con números decimales. Así por ejemplo:  **V 3.3** indicaría tocar un armónico sobre la cuerda 5 aproximadamente 1/3 de traste adelante del tercero.
+
+La ambiguedad de las interpretación de cada una de las notación es deseada (véase [Homenaje al absurdo](#homenaje-al-absurdo))
+
+### Lectura
+La lectura de la obra implica una suerte de juego técnico e interpretativo.  Hay secciones con un solo pentagrama, y ha secciones con dos pentagramas. Las primeras se leen ordinariamente, en las segundas el músico tiene la posibilidad de leer una u otra o ambas (la última sería preferible cuando la pieza es interpretada por un sólo músico).
+
+La posibilidad de lecturas que se bifurcan hace que la pieza albergue aspectos no lineales tanto en ejecución como en percepción y organización. Estos factores se acentúan aun más cuando se combinan con [los niveles macro y micro de las técnicas de repetición utilizadas](#repeticion).
+
+![Piezas 13](/public/images/25-campanas/13.png)
+
+### Sugerencias para la de interpretación
+Como lo especifica la [nota al programa](#nota-al-programa), no hay reglas definidas sobre cómo ha de abordarse la interpretación de _25 Campanas_.
+
+Sin embargo, se pueden apuntar ciertas sugerencias de interpretación que fungieron como supuestos durante la escritura: 
+
+(No pretendo que sean tomadas como aspectos necesarios de la interpretación, sino como recursos de la cuales el intérprete puede servirse, pero también puede decidir descartar cuando su intuición se lo indique).
+
+1. Sostener los sonidos de cada cuerda tanto como sea posible
+2. Escrita para guitarra sola o dos guitarras (más son desde luego posibles)
+3. No es necesario tocar todas las piezas, ni tampoco tocarlas en un orden específico
+4. No debe suponerse ningun limite a las maneras de articulación de los sonidos (pueden usarse tantas articulaciones como se requieran
+5. Como el resto de las obras modulares, puede tocarse en superposición y diálogo con otras piezas de este tipo, o por qué no, con otras piezas en general o con improvisaciones.
+
+#### Sobre las interpretaciones grabadas
+Hay dos interpretaciones grabadas hasta el momento:
+
+1. un dueto con Ramis Lao
+    1.1. Aquí se tocan las campanas 1..19, en ese orden
+    1.2 El repertorio de articulaciones está, _en general_, limitado a: pulsación ordinaria, ligados, tapping, armónicos, y todo tipo de variaciones que se derivan.
+2. ejecución de Jakob Pek dentro de _{Videcoic One}_
+    2.1 Se tocan las campanas 1..12, en cualquier orden
+    2.2 Se trata de una interpretación mucho más libre, aprovechando el estilo y las capacidades técnicas de Pek.
+    2.3 Las campanas aparecen en diversos lugares de _Videocic_: Secciones **A** y **B** del _Prólogo_, **C** a **E** de la _Escena 3, parte 2_ y **B** del _Epílogo_.
+
+### Homenaje al absurdo
+> If it bends it's funny. If it breaks, it's not funny.
+> - Lester, _Crimes and Misdemeanors_, Woody Allen
+
+En esta pieza, se busca dejar abiertas ciertas cuestiones interpretativas a la ambigüedad, incluso la contradicción, y mejor aun al sinsentido y al absurdo. Al diferencia de _21 Nubes_, donde el proceso creativo busca (al menos en uno de sus ejes) ser completamente lógico, algorítmico y por ende explicable.
+
+Esto, primero que nada porque Ramis, el dedicatario, es alguien con un gusto especial por esta cualidad de la existencia, y esta es mi manera de de homenajear aquello. 
+
+Segundo porque el caracter de juego de la obra supone que las reglas de su interpretación se puedan definir sobre la base de cada ejecución, incluso de cada momento. Se trata de liberar la ejecución de una especie de policía lógica, de evitar que la ejecución se pueda evaluar únicamente respecto de la partitura elavada a modelo absoluto de la música. Por el contrario, la importancia de la partitura está en ser la referencia, el punto de partida y la base de la construcción creativa y lúdica. Ser tierra fertil para la música y el diálogo: aquí no se pide más del intérprete que el virtuosismo de su ingenio y de su humor.
+
+¿Qué cuálidades de la obra son suceptibles de esto?
+1. El modelo de articulación basado en sostener los sonidos lo más posible.
+2. La repetición (podría tocarse la obra sin repetir nada)
+3. La notación de los armónicos. Hay tres notaciones. En el caso de la segunda imágen, por ejemplo, qué debe significar el armónico de diamante (se toca sobre la cuerda indicada, o más bien debemos tocar ambos sonidos). 
+![Notación de armónicos](/public/images/25-campanas/notacion-armonicos-1-y-3.png)
+![Notación de armónicos](/public/images/25-campanas/notacion-armonicos-2.png)
+4. La dotación sugiere uno o dos guitarristas, pero por qué no más... por qué no incluso abrir la obra a la intervención de otros instrumentos
+
+En resumen, todo lo que no está prohibido está permitido. ¿Pero eso significa que se pueda hacer casi lo que sea con la pieza? Sí, desde luego, sin embargo, jugar con los límites, adoptarlos, crearlos, reinterpretarlos, inventar transgresiones, descubrir qué tanto se pueden doblar sin romperse puede llegar a ser mucho más creativo y lúdico que permitir cualquier cosa.
+
+
 
 ### Timbre
 En términos interpretativos, se sugiere que la pieza se toque de tal manera que se puedan sostener siempre el mayor número de sonidos. Lo cuál interesantemente complica tocar incluso una simple secuecia escalar, pero por otro lado, la hace mucho más interesante en términos de color armónico: se enfatizan el sonido individual de cada cuerda, la alternacia abierta-cerrada de la misma, la región del diapason, y la toda la gama de articulaciónes posibles (pulsado con mano izquierda o derecha, tapping, armónicos, razgueos, etc.). 
@@ -65,43 +156,6 @@ El concepto de Stockhausen de ["Moment form"](https://en.wikipedia.org/wiki/Mome
 2. La convertimos en noción formal (cantidad de eventos)
 3. La reconvertimos en una noción de timbre relativa a nubes de elementos sonoros
 
-### Objetivos de la pieza
-#### Objetivos compositivos
-Esta obra se incribe dentro del contexto de obras modulares que he estado escribiendo en los últimos años. La principal característica de estas obras es que pueden tocarse en superposición, unas sobre otras, sin requerir una adaptación por medio de la escritura.  El objetivo de esta pieza es el de estar escrita explícitamente para ser tocada sobre sí misma y poder ser tocada tambien como un solo (además de, por supuesto ser tocable sobre otras de las piezas modulares).
-
-La diferencia con un canon tradicional, es que un canon se forma a partir de melodías, y al conjunto resultante de melodías es lo que llamos la obra, no las melodías independientes.  En este caso, la obra se toca sobre sí misma, por lo que el canon se genera, no en la superposición una melodía sobre si misma, sino en la superposición de una obra sobre sí misma. Por lo que tenemos una obra hecha de obras en contrapunto.
-
-Puesto que uno de los objetivos de la serie de obras modulares es que la obras puedan dialogar e interactuar entre ellas, es decir, desarrollar un contexto de creación emergente, el canon más adecuado que se puede crear con esta obra no es un canon estricto, pues este no permite interacción en tiempo real, sino que sus interacciónes están ya predefinidas. Canon heterofónico sería una definición más adecuada.
-
-Para realizar esta obra el experimento consistió en pensar todo el tiempo como una obra que debía ser ejecutable por una sola guitarra, que fue la manera en la que durante su desarrollo la experimenté. Ello, sin embargo, no evitaba que pensar en proveer a la obra de artefactos qu pudieran ser explotados de diversas maneras por dos guitarras (como lo son el tener, en ocasiones dos pentagramas).
-
-Un segundo objetivo de la pieza fue explorar diversas maneras de repetición. El que la pieza se pudiera tocar consigo misma ya era una forma de repetición, mi intención era llevar ese aspecto macro al aspecto micro: construir la obra a través del concepto de autosimilitud, invocar un proceso fractal de creación. En la sección de [Repetición](#repeticion) se explican estos diversos niveles de reptición.
-
-#### Objetivos relativos la exploración de la guitarra
-<!-- Como guitarrista e improvisador mi acercamiento a la guitarra ha estado enfocado a dos cosas: la exploración de distintas afinaciones y la exploración de técnicas extendidas y maneras inusuales de producir sonidos en la guitarra mediante el uso de todo tipo de maneras de articular sonido (posiciones de la guitarra, uso del cuerpo completo, objetos, articulaciones).
-
-Para esta pieza, sin embargo, no tenía el deseo de esos recursos -->
-
-Mi interés es esta pieza era desarrollar técnicamente un modo de ejecución de la guitarra que fuera a la vez idiomático e inusual. Para enfocarme en este objetivo me plantee la regla de generar un discurso que tuviera como limitante el que siempre se sostuvieran la mayor cantidad de tonos (sonidos afinados) posibles dentro de un leguaje predominantemente melódico. Para ello decidí trabajar con dos recursos relativamente comunes en la guitarra eléctrica: 
-
-1. El tapping, que permite "pisar" la cuerda con las dos manos independientemente
-2. Los armónicos, que aumentan la diversidad de notas que una cuerda al aire es capaz de producir
-
-La incorporación de estás técnicas con el principio de sostenimiento de los sonidos y de la orientación melódica tuvo consecuencias interesantes:
-
-1. El desarrollo de un discurso rico en colores y cambios de color (por la variedad de articulaciones y la alternancia entre notas pisadas y armónicos).
-2. La incorporación, gracias al uso de armónicos, de muchísimos sonidos no temperados al vocabulario de la pieza (incluidos además algunos multifónicos que "salen" con frecuenia y facilidad al invocar armónicos relativamente altos i.e. el 11)
-    2.1 Nótese que para cada cuerda, únicamente los armónicos correspondientes a la duplicación de la fundamental (1, 2, 4, 8...) son temperados, todos los demás no lo son. 
-    2.2 Lo que significa que en realidad el material armónico consiste en 5 espectros distintos y una escala temperada (o 6 espectro si concebimos a las **e**s como entidades distintas -que físicamente son-).
-    <!-- 2.2.1 Y en ese caso, hasta 12 si pensamos que tenemos 12 cuerdas produciendo espectros ligeramente distintos -->
-
-
-
-
-### Notación
-#### Armónicos
-En esta obra se utiliza la siguiente notación para los armónicos superiores: Se indica el número de la cuerda con números romanos y el número de traste y la posición del armónico con números decimales. Así por ejemplo:  **V 3.3** indicaría tocar un armónico sobre la cuerda 5 aproximadamente 1/3 de traste adelante del tercero.
-
 #### Repetición
 Se utilizan tres notaciones para la repetición
 1. Barras de repetición ordinarias 
@@ -110,14 +164,6 @@ Se utilizan tres notaciones para la repetición
 
 Para detalles generales de la notación, compartidas todas las obras modulas se puede verse lo siguiente: [Notación de las piezas modulas](#notacion-modular)
 
-
-
-### Lectura
-La lectura de la obra implica una suerte de juego técnico e interpretativo.  Hay secciones con un solo pentagrama, y ha secciones con dos pentagramas. Las primeras se leen ordinariamente, en las segundas el músico tiene la posibilidad de leer una u otra o ambas (preferible cuando la pieza es interpretada por un sólo músico).
-
-La posibilidad de lecturas que se bifurcan hace que la pieza albergue aspectos no lineales tanto en ejecución como en percepción y organización. Estos factores se acentúan aun más cuando se combinan con [los niveles macro y micro de las técnicas de repetición utilizadas](#repeticion).
-
-![Piezas 13](/public/images/25-campanas/13.png)
 
 ## Armonía
 Como se menciona en la [Nota al programa](#nota-al-programa). Las notas más importantes de la pieza son **A** y **E**, y después de ellos, **D** y **B**, generand la secuencia de quintas **D-A-E-B**.
