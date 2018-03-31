@@ -105,6 +105,7 @@ Esta serie tiene tres niveles:
         
         3.2.2 Hablamos así de un juego de variaciones elaborado como variaciones de variaciones, una especie de juego de espejos donde cada relejo multiplica los elementos previamente reflejados.
 
+<div id="serie-melodica-infinita"></div>
 ### Serie melódica infinita
 La tercera serie refiere al método de construcción melódico-armónica de los materiales de la obra. Todas las armonías y melodías son derivaciónes de las siguientes dos reglas:
 
@@ -192,7 +193,7 @@ Este segundo aspecto denota otra regla para el trabajo polifónico de la obra: v
 
 ### Polifonía fluctuante
 Puesto que no trabajamos una polifonía estricta (donde el número de voces permanece estable durante un periodo de tiempo razonable), la escucha polifónica de la obra está llena de ambiguedades (lo que nos interesa aprovechar al máximo).
-Esta ambiguedad significa que determinar el momento preciso en el que ya escuchamos más de una voz es o bien imposible de precisar, o bien debe basarse en un momento furtivo que depende del estado de la atención del intérprete y del escucha (esta es cuando menos mi experiencia después de haber tocado y escuchado muchas veces la obra y sus partes). Además hay que agregar, que esta ambiguedad se exhacerba aun más, cuando la escucha de las distintas voces no resulta de su convivencia simultanea, sino de intervenciones que se escuchan en alternancia. 
+Esta ambiguedad significa que determinar el momento preciso en el que ya escuchamos más de una voz es o bien imposible de precisar, o bien debe basarse en un momento furtivo que depende del estado de la atencipón del intérprete y del escucha (esta es cuando menos mi experiencia después de haber tocado y escuchado muchas veces la obra y sus partes). Además hay que agregar, que esta ambiguedad se exhacerba aun más, cuando la escucha de las distintas voces no resulta de su convivencia simultanea, sino de intervenciones que se escuchan en alternancia. 
 
 Un ejemplo claro de esto es la _miniatura 11_ donde contamos fácilmente 3 voces.
 1. Una linea en la voz media **e-d-b** cuyas primeras dos notas aparecen al principio, y la última casi al final. La independencia de esta línea melódica se ve reforzada por momento previos donde el mismo motivo aparece, e.g. al principio de _5_ **d-c-a** o las repeticiones en _8_ **d-c-a**, **a-g-e** y **e-(g)-d-b**.  

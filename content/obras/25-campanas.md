@@ -55,7 +55,7 @@ Hay dos interpretaciones grabadas hasta el momento:
 
     1.2 El repertorio de articulaciones está, _en general_, limitado a: pulsación ordinaria, ligados, tapping, armónicos, y todo tipo de variaciones que se derivan.
 
-2. ejecución de Jakob Pek dentro de _{Videcoic One}_
+2. ejecución de [Jakob Pek](https://www.jakobpek.com) dentro de _{Videcoic One}_
 
     2.1 Se tocan las campanas _1 a 12_, en cualquier orden
 
@@ -66,7 +66,7 @@ Hay dos interpretaciones grabadas hasta el momento:
 ### ¿Por qué campanas?
 El nombre hace referencia al timbre acampanado de los armónicos en la guitarra eléctrica. La metáfora que se teje con la figura de la campana es de escuchar un sonido cuyo despliegue revela los armónicos que los constituyen. En este sentido cada secuencia está pensanda como una elaboración a partir de una suerte análisis espectral de campanas imaginarias.
 
-Más allá de esta imágen que tiene su resonancia cuando hablamos de la [serie armónica como principio formal](#serie-armonica), el concepto de la campana como tal no tiene mayor importancia. Son _25 Campanas_ porque tenían que _25_ "de algo".
+Más allá de esta imágen que tiene su resonancia cuando hablamos de la [serie armónica y la reptición como principios formales](#serie-armonica-y-repeticion), el concepto de la campana como tal no tiene mayor importancia. Son _25 Campanas_ porque tenían que _25_ "de algo".
 
 ### Homenaje al absurdo
 > If it bends it's funny. If it breaks, it's not funny.
@@ -140,9 +140,9 @@ Nótese que usamos el concepto de _serie armónica_ en el sentido matemático qu
 
 Lo que tenemos como resultado es una construcción armónica de la forma, literalmente. Sin embargo, es de notar que esta construcción armónica de la forma no se revela en terminos de duraciones absolutas, ni de propociones entre las partes, sino en terminos de bloques y nubes de materiales contrastantes, y ello se debe al segundo principio formal de la obra, el uso de la repetición.
 
-<div id="serie-armonica"></div>
+<div id="serie-armonica-y-repeticion"></div>
 
-#### Segundo principio formal: Serie Armónica
+#### Segundo principio formal: La repetición
 ##### Construcción segmentaria vs repetición 
 La repetición libre oculta las proporciones armónicas entre las secciones, pero la repetición enfatiza los sonidos particulares de cada sección. 
 
