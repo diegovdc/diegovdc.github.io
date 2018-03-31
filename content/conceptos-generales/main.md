@@ -59,3 +59,11 @@ Tomando el ejemplo de la nube esta concepcion de las escalas nos permitiría pre
 Con esta concepción el tiempo del discurso musical no sólo corre en un sentido lineal, sino que nos permite atravesar por los distintos tiempos de los diversos materiales. Por ejemplo, movernos del interior de la nube tormentosa al campo, caer con la gota o el rayo, penetrar la tierra, etc.
 
 Esta capacidad de movimiento de un material abre puertas para la imaginación sonora. Para ello se requiere transformar el concepto tradicional del material musical, que es abstracto y carente de múltiples escalas, en un concepto de material musical que se conciba por medio entidades concretas (aun cuando estas sean simples metáforas), o de otras entidades complejas-compuestas (redes). Ya que ambas entidades, aunque en diversos sentidos enriquecen al material en tanto postulan un mayor número de dimensiones para su existencia.
+
+
+## Obras Modulares
+
+<div id="extensibilidad-de-las-obras-modulares"></div>
+<div id="conclusiones-y-condiciones-sobre-musica-modular"></div>
+
+### Extensibilidad de las obras modulares
