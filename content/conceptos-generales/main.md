@@ -67,3 +67,49 @@ Esta capacidad de movimiento de un material abre puertas para la imaginación so
 <div id="conclusiones-y-condiciones-sobre-musica-modular"></div>
 
 ### Extensibilidad de las obras modulares
+
+
+## Obras Numéricas
+
+### Serie armónica y variaciones recursivas
+La forma derivada, no se usa meramente como una estructura abstracta. Las _obras numéricas_ representan seres vivientes, los números son sus ciclos: lo que para las personas son los años de vida. La forma derivada de la serie armónica es una forma acumulativa. Por ello cada una de las _obras númericas_ es concebida y tratada como ciclos de variaciones. Más específicamente como variaciones en desarrollo, o como preferiría llamarlas, como variaciones recursivas. Es decir, son variaciones donde los materiales variados y/o agregados y/o desarrollados en las variaciones previas sirven como materiales de referencia para las siguientes variaciones 
+
+El algorítmo que describe los procesos a seguir para realizar este tipo de variaciones se puede represtar con el siguiente código (si lo escribiéramos en Javascript):
+
+```js
+const variacionesRecursivas = (totalDeVariaciones, material, variacionActual = 1) => 
+    variacionActual === totalDeVariaciones
+        ? material//si ya tenemos todas las variaciones necesarias devolvemos el resultado
+        : material.concat(//si aun no tenemos las variaciones requeridas generamos la siguiente variación y la concatenamos
+            variacionesRecursivas(
+                totalDeVariaciones,
+                [`Variacion ${variacionActual}, usando ${material} mas "Material Nuevo" de la variación ${variacionActual},`],
+                variacionActual + 1, 
+            )
+        )
+
+
+variacionesRecursivas(6, ["Material Inicial"])// calculamos los procesos requeridos para 6 variaciones. Nótese que la cadena "Material Inicial", estaría representando un material musical cualquiera y las cadenas "Material Nuevo" representarían materiales desarrollados, o agregados por las variaciones correspondientes
+```
+El siguiente link muestra al algorítmo funcionado interactivamente: https://codepen.io/anon/pen/NYMbPM?editors=0010
+
+Este proceso genera un crecimiento que se podría describir como un crecimiento espiral, debido a la acumulación de materiales y el efecto de perpetuo de retorno a materiales previos. Interesantement [Erv Wilson](http://www.anaphoria.com/wilsonintro.html) ([archivo](http://www.anaphoria.com/wilson.html)), quizá el teórico más visionario de la afinación en el siglo XX, generó entre sus investigaciónes la representación de la serie armónica del frecuencias embebida en una espiral, donde las rectas que irradían del centro de la espiral representan las octavas de las frecuencias armónicas (es decir las duplicaciones. e.g. 2, 4, 8... y 3, 6 ,12...).
+
+![Erv Wilson, espiral de la serie de armónico](/public/images/conceptos-generales/erv-wilson-harmonic-series-spiral.png)
+[Fuente](http://thesonicsky.com/erv-wilson-diagrams/octaval-spiral/)
+
+En este sentido la metáfora constructiva de las **variaciones recursivas** resuena fuertemente con la representación de la **serie armónica de frecuencias**, ligando el campo **microcósmico** del timbre, el campo **macrocósmico** de la forma.
+
+Recordemos, también que la serie armónica se puede definir recursivamente, pues es sólo un proceso de `n + 1` aplicado sucesivamente.  El siguiente código muestra los paralelismos entre la implementación del algorítmo de las variaciones recursivas y la del algóritmo de la serie armónica.
+
+```js
+const serieArmonica = (armonicoInicial, armonicoFinal, listaDeArmonicos = []) => 
+    armonicoInicial === armonicoFinal //sólo lo necesitamos para evitar que la lista crezca al infinito
+        ? listaDeArmonicos.concat(armonicoInicial)
+        : serieArmonica(
+            armonicoInicial + 1, 
+            armonicoFinal, 
+            listaDeArmonicos.concat(armonicoInicial)
+        )
+```
+
