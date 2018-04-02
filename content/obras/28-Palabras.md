@@ -19,42 +19,16 @@ La pieza se ha tocado en las siguientes configuraciónes:
 
 2. Dentro de [{Videcoic One}, para dos voces y ensamble electroacústico]. Conviviendo con otras 5 obras modulares, incluyendo _21 Nubes_ (ver [funciónes de 28 Palabras](/videcoic-one#funciones-de-28-palabras))
 
-<div id="el-discontinuo-del-continuo"></div>
 
-### El discontinuo del continuo
-Esta obra hace referencia a las técnicas desarrolladas por _Julio Estrada_ en lo que se podrían _[contrapunto macrotímbrico de la voz](#contrapunto-macrotimbrico)_, cuyo amplio catálogo de posibilidades fue cartografiado por primera vez por _Estrada_ (pensamos específicamente en la sección V de [Emanation of the voice](https://www.academia.edu/8313331/EMANATION_OF_THE_VOICE)).
+### Objetivos de la pieza
+_28 Palabras_ tiene como objetivos: 
 
-Si bien Estrada ha elaborado teoría sumamente comprensivas sobre el discontinuo y el continuo. Hasta donde sé, él no considerado exhaustivamente las interrelación e interdependencias de ambos campos del sonido. En _28 Palabras_ se realizan construcciones macrotímbricas (que Estrada consideraría propias del continuo) con un enfoque que busca destacar y aprovechar los elementos discontinuos propios de la voz. No se trata de introducir eclécticamente las técnica tradicionales del discountino en el contexto de las técnica del continuo, sino de explorar las discontinuidades posibles con la segunda técnica y usarlas en el flujo poético de la obra.
+1. Exploración de los elementos discountinuos dentro del continuo, y usarlos para elaborar un discurso melódico al nivel de estos elementos (melodía de discontinuidades macrotímbrocas) (ver más adelente, [El discontinuo del continuo](#el-discontinuo-del-continuo))
 
-Entre los recursos exporados tenemos:
-1. Saltos de altura, que si bien podrían pensarse únicos del discontinuo, cuando la "altura" a la que se llega se comporta de manera continua, el resultado es muy distinto.
+2. Elaborar un discurso poético musical donde la materialidad y el sentido de la palabra juegen, interactúen y se transformen en relación con procesos musicales abstractos (forma, serie armónica, contrapunto, armonía), de modo que estos procesos dejen de ser puros para dar lugar a la expresión de la materialidad significativa de la palabra, y que en la otra dirección, que la palabra que esta se vea abierta, a nuevos sentidos posibles, más expresivos aun, gracias a las transformaciónes que la técnica musical hace posible.
 
-2. El uso de elementos de orden discontinuo que sirven para investigar el sonidos dentro de la técnica del macrotimbre de la voz. (Resonadores, vocales, respiración)
-
- Es importante señala aquí que el continuo sonoro tanto de la voz como de otros instrumentos incluye componentes del sonido que se pueden dividir en dos tipos: 
-
-1. Aquellos que están necesariamente presentes (intensidad, contenido armónico, contorno de las frecuencias (o "melódico", pulsación (o duración))
-
-2. Aquello que pueden o no estar presentes. Estos por lo general son peculiares al instrumento, aunque no necesariamente (la modulación o vibrato). Ejemplos en la voz: Uso de resonadores (labios, pecho,), presencia-ausencia de consonantes o vocales, inhalación-exhalación, silbido. 
-
-    2.1 El siguente ejemplo muestra diversos tipos de contraste discontinuo inscritos sobre un flujo de contorno continuo. Se observa la secuencia de discontinuidades: Consonante  -> Resonador (labios) + Vocal -> Consontante+Modulación -> Nueva Consontante. 
-    
-    ![Secuencias de discontinuidades dentro de continuo](/public/images/28-palabras/secuencias-de/discontinuidades-dentro-del-continuo.png)
-
-    2.2 Nótese incluso que la discontinuidad a la que recurrimos implica elementos heterogéneos. No sólo lidiamos con discontinuidad en el sentido _presencia-ausecia_ de un componente, es decir alternancia binaria, sino en el encadenamiento de alternancias binarias de distintos tipos: _presencia de Consonante_ -> _ausencia de Consonante_ + _presencia de Resonador y Vocal_, etc.
-
-    2.3 Se trata entonces de una _discontinuidad de segundo órden_. 
-
-    2.4 Teóricamente podemos afirmar lo siguiente: La colección de consontantes de la voz, es en sí misma, ya una discontinuidad de este tipo, pues una "S" involucra resonadores y procedimientos sonoros de muy distinto tipo  los de a una "L".
-
-    2.5 En consecuencia podemos afirmar que la discontinuidad de segundo orden opera tanto con discontinuidades de primer orden como de segundo.
-            
-3. La exploración consciente de la continuidad y la discontinuidad en las sonoridades de las palabras. Por ejemplo, considerese la diferencia entre las palabras "agua", de sonoridad continua, y "palpitar" de sonoridad discontinua.
-
-
-Finalmente podemos decir que la intención de explorar las interacciones entre continuo y discontuo se muestran aun con mayor contundencia al [superponer 21 Nubes con 28 Palabras](#superposicion-con-21-nubes)
-
-#### Notación
+## Consideraciones generales
+### Notación
 Notacionalmente hace uso de prácticamente los mismos recursos que muchas otras de las obras modulares, que pueden consultarse [aquí](). La influencia de esta notación viene principalmente de György Kurtàg y uno de sus principales resultados en esta obra es el de simplificar la notación y ejecución del contrapunto macrotímbrico.
 
 Adjuntamos la tabla de símbolos:
@@ -66,7 +40,6 @@ Nótese lo siguiente:
 2. Para distinguir a las vocales de las consontantes se pone a estas últimas dentro de una caja, esto ya que es posible transfomar a una con independencia de la otra. Para sostener a alguna se utilizan lineas sin flecha, para indicar transición se adjunta la flecha.
 
 3. El poema está reescrito fonéticamente, ello, porque se han usado los materiales fonéticos y simbólicos del poema para elaborar la música, que no es otra cosa, que la transformación del poema en una síntesis sonora-sensible de ambas dimensiones. (ver más adelante [Transformaciones de la palabra en sonido](#transformaciones-de-la-palabra-en-sonido))
-
 
 
 <div id="superposicion-con-21-nubes"></div>
@@ -87,8 +60,8 @@ Para más detalles ver las [conclusiones y condiciones sobre las exploraciones e
 
 
 
-## Texto
-### Construcción formal y desarrollo de las imágenes
+### Texto
+#### Construcción formal y desarrollo de las imágenes
 Cómo otras piezas del ciclo de _obras numéricas_, _28 Palabras_ usa la serie armónica para definir aspectos importantes de la forma. Cale la pena señalar que cada una de las _obras numéricas_ hace un uso distinto de la serie armónica. Por lo que vistas dentro del ciclo, las unas forman variaciones formales sobre las otras (cf. el uso de la serie armónica en [21 Nubes] y [25 Campanas]).
 
 Nótese que usamos el concepto de _serie armónica_ en el sentido matemático que es más amplio que el musical, ya que musicalmente se le llama serie armónica a una _serie armónica **de** frecuencias_, lo que aquí es más bien una **serie armónica de unidades de constucción**
@@ -118,51 +91,6 @@ Tenemos una cadena de Markov de significados y de historia.
 
 El poema ilustra a la forma y se sirve de ella para desarrollarse, incluso para significar y derivar significados y movientos del sentido. El significado del poema es su timbre (como sensación mental-perceptual). La construcción de este poema es, por lo tanto, sustancialmente musical, sus recursos son la forma, el rítmo-número y el timbre. Cuando el poema se vuelva escritura musical, cuando definamos su articulación sonora, lo que tendremos será música hecha de poesía-música, una música que ya en sí misma tiene un alto contenido de recursividad (como las _obras modulares_ que son música hecha de músicas).
 
-
-
-###### Mandar a conceptos generales
-La forma derivada, no se usa meramente como una estructura abstracta. Las _obras numéricas_ representan seres vivientes, los números son sus ciclos: lo que para las personas son los años de vida. La forma derivada de la serie armónica es una forma acumulativa. Por ello cada una de las _obras númericas_ es concebida y tratada como ciclos de variaciones. Más específicamente como variaciones en desarrollo, o como preferiría llamarlas, como variaciones recursivas. Es decir, son variaciones donde los materiales variados y/o agregados y/o desarrollados en las variaciones previas sirven como materiales de referencia para las siguientes variaciones 
-
-El algorítmo que describe los procesos a seguir para realizar este tipo de variaciones se puede represtar con el siguiente código (si lo escribiéramos en Javascript):
-
-```js
-const variacionesRecursivas = (totalDeVariaciones, material, variacionActual = 1) => 
-    variacionActual === totalDeVariaciones
-        ? material//si ya tenemos todas las variaciones necesarias devolvemos el resultado
-        : material.concat(//si aun no tenemos las variaciones requeridas generamos la siguiente variación y la concatenamos
-            variacionesRecursivas(
-                totalDeVariaciones,
-                [`Variacion ${variacionActual}, usando ${material} mas "Material Nuevo" de la variación ${variacionActual},`],
-                variacionActual + 1, 
-            )
-        )
-
-
-variacionesRecursivas(6, ["Material Inicial"])// calculamos los procesos requeridos para 6 variaciones. Nótese que la cadena "Material Inicial", estaría representando un material musical cualquiera y las cadenas "Material Nuevo" representarían materiales desarrollados, o agregados por las variaciones correspondientes
-```
-El siguiente link muestra al algorítmo funcionado interactivamente: https://codepen.io/anon/pen/NYMbPM?editors=0010
-
-Este proceso genera un crecimiento que se podría describir como un crecimiento espiral, debido a la acumulación de materiales y el efecto de perpetuo de retorno a materiales previos. Interesantement [Erv Wilson](http://www.anaphoria.com/wilsonintro.html) ([archivo](http://www.anaphoria.com/wilson.html)), quizá el teórico más visionario de la afinación en el siglo XX, generó entre sus investigaciónes la representación de la serie armónica del frecuencias embebida en una espiral, donde las rectas que irradían del centro de la espiral representan las octavas de las frecuencias armónicas (es decir las duplicaciones. e.g. 2, 4, 8... y 3, 6 ,12...).
-
-![Erv Wilson, espiral de la serie de armónico](/public/images/conceptos-generales/erv-wilson-harmonic-series-spiral.png)
-[Fuente](http://thesonicsky.com/erv-wilson-diagrams/octaval-spiral/)
-
-En este sentido la metáfora constructiva de las **variaciones recursivas** resuena fuertemente con la representación de la **serie armónica de frecuencias**, ligando el campo **microcósmico** del timbre, el campo **macrocósmico** de la forma.
-
-Recordemos, también que la serie armónica se puede definir recursivamente, pues es sólo un proceso de `n + 1` aplicado sucesivamente.  El siguiente código muestra los paralelismos entre la implementación del algorítmo de las variaciones recursivas y la del algóritmo de la serie armónica.
-
-```js
-const serieArmonica = (armonicoInicial, armonicoFinal, listaDeArmonicos = []) => 
-    armonicoInicial === armonicoFinal //sólo lo necesitamos para evitar que la lista crezca al infinito
-        ? listaDeArmonicos.concat(armonicoInicial)
-        : serieArmonica(
-            armonicoInicial + 1, 
-            armonicoFinal, 
-            listaDeArmonicos.concat(armonicoInicial)
-        )
-```
-
-###### Terminar de mandar a conceptos generales ^^^^
 
 <div id="transformaciones-de-la-palabra-en-sonido"></div>
 
@@ -212,8 +140,33 @@ Para una teoría filosófica y transdisciplinar que sirva como sustento de los p
 >Escribir, hacer rizoma, ampliar nuestro territorio por desterritorialización, extender la línea de fuga hasta lograr que englobe todo el plan de consistencia en una máquina abstracta.”
 
 
-## Consideraciones generales
-### Objetivos de la pieza
-_28 Palabras_ tiene como objetivos: 
-1. Exploración de los elementos discountinuos dentro del continuo, y usarlos para elaborar un discurso melódico al nivel de estos elementos (melodía de discontinuidades macrotímbrocas) (ver más adelente, [El discontinuo del continuo](#el-discontinuo-del-continuo))
-2. Elaborar un discurso poético musical donde la materialidad y el sentido de la palabra juegen, interactúen y se transformen en relación con procesos musicales abstractos (forma, serie armónica, contrapunto, armonía), de modo que estos procesos dejen de ser puros para dar lugar a la expresión de la materialidad significativa de la palabra, y que en la otra dirección, que la palabra que esta se vea abierta, a nuevos sentidos posibles, más expresivos aun, gracias a las transformaciónes que la técnica musical hace posible.
+<div id="el-discontinuo-del-continuo"></div>
+
+### El discontinuo del continuo
+Esta obra hace referencia a las técnicas desarrolladas por _Julio Estrada_ en lo que se podrían _[contrapunto macrotímbrico de la voz](#contrapunto-macrotimbrico)_, cuyo amplio catálogo de posibilidades fue cartografiado por primera vez por _Estrada_ (pensamos específicamente en la sección V de [Emanation of the voice](https://www.academia.edu/8313331/EMANATION_OF_THE_VOICE)).
+
+Si bien Estrada ha elaborado teoría sumamente comprensivas sobre el discontinuo y el continuo. Hasta donde sé, él no considerado exhaustivamente las interrelación e interdependencias de ambos campos del sonido. En _28 Palabras_ se realizan construcciones macrotímbricas (que Estrada consideraría propias del continuo) con un enfoque que busca destacar y aprovechar los elementos discontinuos propios de la voz. No se trata de introducir eclécticamente las técnica tradicionales del discountino en el contexto de las técnica del continuo, sino de explorar las discontinuidades posibles con la segunda técnica y usarlas en el flujo poético de la obra.
+
+Es importante señala aquí que el continuo sonoro tanto de la voz como de otros instrumentos incluye componentes del sonido que se pueden dividir en dos tipos: 
+
+1. Aquellos que están necesariamente presentes (intensidad, contenido armónico, contorno de las frecuencias (o "melódico", pulsación (o duración))
+
+2. Aquello que pueden o no estar presentes. Estos por lo general son peculiares al instrumento, aunque no necesariamente (la modulación o vibrato). Ejemplos en la voz: Uso de resonadores (labios, pecho,), presencia-ausencia de consonantes o vocales, inhalación-exhalación, silbido. 
+
+    2.1 El siguente ejemplo muestra diversos tipos de contraste discontinuo inscritos sobre un flujo de contorno continuo. Se observa la secuencia de discontinuidades: Consonante  -> Resonador (labios) + Vocal -> Consontante+Modulación -> Nueva Consontante. 
+    
+    ![Secuencias de discontinuidades dentro de continuo](/public/images/28-palabras/secuencias-de/discontinuidades-dentro-del-continuo.png)
+
+    2.2 Nótese incluso que la discontinuidad a la que recurrimos implica elementos heterogéneos. No sólo lidiamos con discontinuidad en el sentido _presencia-ausecia_ de un componente, es decir alternancia binaria, sino en el encadenamiento de alternancias binarias de distintos tipos: _presencia de Consonante_ -> _ausencia de Consonante_ + _presencia de Resonador y Vocal_, etc.
+
+    2.3 Se trata entonces de una _discontinuidad de segundo órden_. 
+
+    2.4 Teóricamente podemos afirmar lo siguiente: La colección de consontantes de la voz, es en sí misma, ya una discontinuidad de este tipo, pues una "S" involucra resonadores y procedimientos sonoros de muy distinto tipo  los de a una "L".
+
+    2.5 En consecuencia podemos afirmar que la discontinuidad de segundo orden opera tanto con discontinuidades de primer orden como de segundo.
+            
+3. La exploración consciente de la continuidad y la discontinuidad en las sonoridades de las palabras. Por ejemplo, considerese la diferencia entre las palabras "agua", de sonoridad continua, y "palpitar" de sonoridad discontinua.
+
+
+Finalmente podemos decir que la intención de explorar las interacciones entre continuo y discontinuo se muestran aun con mayor contundencia al [superponer 21 Nubes con 28 Palabras](#superposicion-con-21-nubes)
+
