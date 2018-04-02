@@ -20,18 +20,87 @@ IV.  Together songs erupting interplay
 
 
 
-
 ## Introducción
 _Memories of a Wedding_, para dos voces e instrumentos, es un ciclo que explora el género de la canción de amor (poco trabajado en la música contemporánea y sobre-explotado en la música popular). 
 
-_Memories of a Wedding_ es la primera de las _obras modulares_ que está pensanda para más de un instrumento y por lo tanto posee materiales que corren sobre líneas diferentes. (_25 Campanas_ está pensada para dos guitarras, pero ambas comparten el mismo material). En la sección [Ensamble, complejidad y modularidad](#ensamble-complejidad-y-modularidad) se describirán los problemas que surgen de este hecho y las soluciones que la obra propone. 
+_Memories of a Wedding_ es la primera de las _obras modulares_ que está pensanda para más de un instrumento y por lo tanto posee materiales que corren sobre líneas diferentes. En la sección [Ensamble, complejidad y modularidad](#ensamble-complejidad-y-modularidad) se describirán los problemas que surgen de este hecho y las soluciones que la obra propone. (Hay que mencionar que _25 Campanas_ está pensada para dos guitarras, pero ambas comparten y deben tocar exactamente el mismo material).
 
 Como en _28 Palabras_ una de las intenciones al abordar un texto en música es usar las técnicas de la música para expresar literalmente y llevar a una realidad tangible en el acto sonoro, lo que la palabra sola únicamente puede expresar simbólicamente. Las propuestas y variaciones respecto de _28 Palabras_ al rededor de estos temas se analizarán en la sección [Texto]. 
 
-La sección de [Forma y Procesos] hablará de los procedimientos propios de cada pieza pieza, y cómo algunos de ellos son implementaciones, o transferencias, en el terreno instrumental de conceptos y procesos que tienen su origen en la música electrónica.
+### Versiones de la obra
+
+Puesto que la obra no se ha tocado nunca de manera independiente no existe una grabación pura de la obra. Sin embargo la obra funciona como el eje conductor de [Videcoic One], por lo que de hecho se presenta íntegra dentro de la misma, siendo también interpretada por un ensamble ideal para la misma (músicos egresados de la maestría de  Mills College).
+
+Abajo, el mapa de Videoic One, donde se muestra, sobre la fila de "Memories of a Wedding", la posición de cada una de las piezas dentro de la obra:
+
+![Memories of a Wedding dentro de Videcoic One](/public/images/memories-of-a-wedding/moaw-en-videcoic-one.png)
+
+
+## Objetivos de la obra
+La obra tiene como objetivos:
+1. Proponer ideas al rededor de la escritura de obras modulares donde el módulo no esta escrito para un instrumento solo sino para un ensamble.
+
+2. Elaborar diferentes propuestas para el trabajo musical del texto.
+
+### Notación
+La obra, en general, hace uso de la [notación de obras modulares], pero tiene varios agregados.  
+
+En la pieza en general el pentagrama se usa para dar una idea de las proporciones de los intervalos usados, pero no implica inervalos precisos. Esto significa que un intervalo escrito como intervalo de quinta podría leerse también como un intervalo de sexta o de cuarta, quizá incluso un poco más grande o pequeño, pero no debería leerse como uno tan grande como una octava o tan pequeño como una segunda.  La clave, como en otras obras de notación modular está abierta a la elección del músico. Para más detalles ver la siguiente sección
+
+La parte instrumental de las piezas 1 y 4 hace uso de descripciones textuales que se prolongan con el uso de casillas. En la mayor parte estas notación deberían de ser suficientemente explícitas y conocidas para no requerir una explicación a detalle. Baste con decir que la necesidad de este tipo de notaciones se desprende primordialmente de la necesidad de poder dar cuenta de la interacción de estas piezas con otras cuando se tocan de manera superpuesta, es decir, de soportar una múltiples situaciones impredecibles y poder resolverlas con elegancia.
+
+La parte instrumental de la pieza 2 es igual que la parte vocal menos el texto. Todos los músicos pueden tocar de ambos pentagramas conforme las reglas descritas en [Along calling calls in-outside](#along-calling-calls-in-outside). No hay notaciones especiales, sin embargo, la partitura funciona más como un híbdrido de tablero de juego y partitura tradicional (en el sentido de que es posible moverse en múltiples direcciones)
+
+La pieza 3 utiliza una disposición gráfica de los materiales que pretende reforzar el concepto del movimento. Los músicos instrumentistas pueden partir de cualquiera de los materiales y moverse libremente de uno a oto. Haciendo uso también de la escala presentada en uno de los pentagramas. Los cantantes se deben concentrar en los pentagramas con texto pero pueden alternar de uno a otro libremente.
+
+#### Consideraciones sobre la ejecución prototípica
+Si bien la pieza no hace uso de alturas definidas, las partes vocales de la pieza pueden leerse con las claves de Sol (octavando si es necesario). Esto con fines interpretativos o como primera aproximación a las melodías. Puesto que las partes instrumental siguen o toman en consideración las partes vocales, lo mismo aplica para estas
 
 
 
+
+
+<div id="ensamble-complejidad-y-modularidad"></div> 
+
+### Ensamble, complejidad y modularidad
+Cuando se tiene un sólo material, resulta más sencilla la concepción modular, pues cada pieza es una unidad, o está hecha de unidades simples (sin pliegues). Así, por ejemplo, _21 Nubes_ puede concebirse como una unidad, unas sóla linea, o 21 piezas cada una de ella constituyendo una sóla línea. Plantear el problema de su funcionamiento en relación con otras piezas involucra tan sólo el problema de la extensión horizontal de las partes, la cuales además pueden dividirse sin problema alguno, en unidades aún más sencillas y manejables.
+
+Con una obra como _Memories of a wedding_ se añade el problema de que hay capas entretejidas unas con otras (similar al problema mismo de la vida en marital). Se trata de un orden distinto a  de las obras anteriores del cíclo, un órden de pliegues, un com-plejo. El problema es el sigueinte: ¿cómo integrar una obra con pleigues en un contexto de obras sin pliegues? A lo que respondemos con otra pregunta, ya en si misma, una hipótesis de trabajo: ¿cómo desarrollar una notación que permita ésta interacción complejo-simple, una que incluso pueda permitir del des-pligue de la obra compleja, que le permita derivarse en simplificaciones?
+
+La solución propuesta se puede describir en los siguientes puntos:
+
+1. Una pieza por verso, el verso concebido como poema en sí mismo. Lo que aumenta la modularidad de la pieza, cuando se ejecuta junto con otra piezas modulares, se puede elegir la cantidad de piezas a incorporar.
+
+2. Un sólo verso para las dos voces.
+
+    2.1 Hay que nota, que la significación del verso, especialmente una vez musicalizada, perdería mucho de su fuerza (particularmente en la primera y la cuarta de las piezas) si fuera cantado por una sola voz, lo que sin embargo, es posible de efectuar.
+
+3. La parte instrumental está indefinida en términos de qué instrumentos deben tocar y el control sobre la densidad de las sonoridades queda en la mayor parte de los casos abierta.
+
+    3.1 Hay que señalar que la notación y la aproximación es muy distinta entre las piezas 1 y 4 (que son semejantes) y la 2 y la 3 que son distintas entre sí. Cada tipo de notacón resuelve el problema a su manera.
+
+    3.2 De las piezas 1 y 4 podemos decir que buena parte del discurso instrumental está basada en indicaciones textuales, ya sea describiendo procesos de intereacción con los materiales de las voces, ya sea describiendo sonoridades resultantes.
+
+    ![Interacciones 1](/public/images/memories-of-a-wedding/interacciones-voces-instrumentos-1.png)
+    ![Interacciones 2](/public/images/memories-of-a-wedding/interacciones-voces-instrumentos-2.png)
+
+        3.2.1 Dado el caso donde la obra se toca junto con otra, esta parte podría quedar omitida, o sólo ser usada en parte. O bien, quienes toquen las otras piezas podrían hacer referencia a las indicaciones de la parte instrumental  e integrarlas en la ejecución de la otra pieza (tocando, en efecto dos músicas simultáneamente). Lo que significa que la parte instrumental es suficientemente simple como para poder integrarse al tejido de otras músicas, generando en el proceso una mayor integración entre ambas piezas.
+
+    3.3 En al pieza 2, voces e instrumentos comparte un mismo espacio. Básicamente los instrumentos sólo tendrían que ignorar la notación del texto. Pero no hay anda que prevenga que un músico creativo pueda aprovechar el texto para orientar su interpretación del algún modo.
+
+    
+    ![Interacciones 2](/public/images/memories-of-a-wedding/interacciones-voces-instrumentos-3.png)
+
+        3.3.1 En el caso donde la obra se toca junto con otra, el problema está ya resuelto, por la voz.
+
+    3.4 En la pieza 3 rítmos y alturas están completamente separados,  pero deben de integrarse en la ejecución. El principio de integración descrito en 3.2.1 puede muy bien aplicarse a este caso. Otra opción es que las voces mismas pueden incorporar el los rítmos en si mismas, lo que significa que: si en la pieza 2 la linea instrumental queda integrada en la línea vocal, entonces en este caso, la vocal queda integrada en la línea instrumental, por así decirlo. Se trata de dos maneras distintas de fusionar las lineas principales con las del acompañamiento.
+
+    ![Interacciones 2](/public/images/memories-of-a-wedding/interacciones-voces-instrumentos-4.png)
+
+        3.3.1 En el caso donde la obra se toca junto con otra, el problema está ya resuelto.
+
+### Un jardín de caminos que se bifurcan: lineas instrumentales individuales
+En las piezas 1 y 4 tenemos varias partes instrumentales, donde ninguna especifica qué instrumentos deben tocarlas.  Esto plantea la pregunta ¿cómo debería de aproximarse a ellas un músico? La aproximación sugerida es que el músico se mueva libremente de una a otra parte (muchas de ellas incluyen referencias a las voces, así que en efecto se estaría moviendo por toda la partitura). Dependiendo de la cantidad de músicos, o de sus recursos y de su creatividad, más o menos segmentos de la partitura se realizarán en un ejecución. Este resultado es el deseado, que las piezas difracten de sí sus acompañamientos, y que al igual que un cristal, las cualidades de esta difracción son dependientes del ángulo y del tipo de luz, es decir, del momento y los músicos. En cierto sentido, él único material en toda la obra es el vocal, y los materiales instrumentales son en realidad funciones que permiten transformar el material vocal. Lo que significa que complejidad de la hablabamos anteriormente se descubra como simplicidad, ya que en el fondo, todo remite a una misma linea de la que la complejidad se deriva meramente como efecto de luces (_Trompe-l'œil_)
 
 
 
@@ -52,6 +121,7 @@ Por su parte "Eyes", revela una serie de transformaciones plasticas igualment in
 
 ![I is I](/public/images/memories-of-a-wedding/I-is-I.png)
 
+<div id="along-calling-calls-in-outside"></div>
 #### II. Along calling calls in-outside
 En esta pieza se explora la segmentación granular de la palabra. Explora la interacción de las particulas de la palabra y su capacidad para hacer emerger un significado que las trasciende. Uno que incluso trasciende, como mensaje lógico y unitario al escucha, pero que deja, para el oído atento, palabras que resuenan como constelaciones.  
 
@@ -131,62 +201,4 @@ Otra carcterística interesante es que a pesar de la simplicidad de las figuras 
 
 
 
-
-
-<div id="ensamble-complejidad-y-modularidad"></div> 
-
-### Ensamble, complejidad y modularidad
-Cuando se tiene un sólo material, resulta más sencilla la concepción modular, pues cada pieza es una unidad, o está hecha de unidades simples (sin pliegues). Así, por ejemplo, _21 Nubes_ puede concebirse como una unidad, unas sóla linea, o 21 piezas cada una de ella constituyendo una sóla línea. Plantear el problema de su funcionamiento en relación con otras piezas involucra tan sólo el problema de la extensión horizontal de las partes, la cuales además pueden dividirse sin problema alguno, en unidades aún más sencillas y manejables.
-
-Con una obra como _Memories of a wedding_ se añade el problema de que hay capas entretejidas unas con otras (similar al problema mismo de la vida en marital). Se trata de un orden distinto a  de las obras anteriores del cíclo, un órden de pliegues, un com-plejo. El problema es el sigueinte: ¿cómo integrar una obra con pleigues en un contexto de obras sin pliegues? A lo que respondemos con otra pregunta, ya en si misma, una hipótesis de trabajo: ¿cómo desarrollar una notación que permita ésta interacción complejo-simple, una que incluso pueda permitir del des-pligue de la obra compleja, que le permita derivarse en simplificaciones?
-
-La solución propuesta se puede describir en los siguientes puntos:
-
-1. Una pieza por verso, el verso concebido como poema en sí mismo. Lo que aumenta la modularidad de la pieza, cuando se ejecuta junto con otra piezas modulares, se puede elegir la cantidad de piezas a incorporar.
-
-2. Un sólo verso para las dos voces.
-
-    2.1 Hay que nota, que la significación del verso, especialmente una vez musicalizada, perdería mucho de su fuerza (particularmente en la primera y la cuarta de las piezas) si fuera cantado por una sola voz, lo que sin embargo, es posible de efectuar.
-
-3. La parte instrumental está indefinida en términos de qué instrumentos deben tocar y el control sobre la densidad de las sonoridades queda en la mayor parte de los casos abierta.
-
-    3.1 Hay que señalar que la notación y la aproximación es muy distinta entre las piezas 1 y 4 (que son semejantes) y la 2 y la 3 que son distintas entre sí. Cada tipo de notacón resuelve el problema a su manera.
-
-    3.2 De las piezas 1 y 4 podemos decir que buena parte del discurso instrumental está basada en indicaciones textuales, ya sea describiendo procesos de intereacción con los materiales de las voces, ya sea describiendo sonoridades resultantes.
-
-    ![Interacciones 1](/public/images/memories-of-a-wedding/interacciones-voces-instrumentos-1.png)
-    ![Interacciones 2](/public/images/memories-of-a-wedding/interacciones-voces-instrumentos-2.png)
-
-        3.2.1 Dado el caso donde la obra se toca junto con otra, esta parte podría quedar omitida, o sólo ser usada en parte. O bien, quienes toquen las otras piezas podrían hacer referencia a las indicaciones de la parte instrumental  e integrarlas en la ejecución de la otra pieza (tocando, en efecto dos músicas simultáneamente). Lo que significa que la parte instrumental es suficientemente simple como para poder integrarse al tejido de otras músicas, generando en el proceso una mayor integración entre ambas piezas.
-
-    3.3 En al pieza 2, voces e instrumentos comparte un mismo espacio. Básicamente los instrumentos sólo tendrían que ignorar la notación del texto. Pero no hay anda que prevenga que un músico creativo pueda aprovechar el texto para orientar su interpretación del algún modo.
-
-    
-    ![Interacciones 2](/public/images/memories-of-a-wedding/interacciones-voces-instrumentos-3.png)
-
-        3.3.1 En el caso donde la obra se toca junto con otra, el problema está ya resuelto, por la voz.
-
-    3.4 En la pieza 3 rítmos y alturas están completamente separados,  pero deben de integrarse en la ejecución. El principio de integración descrito en 3.2.1 puede muy bien aplicarse a este caso. Otra opción es que las voces mismas pueden incorporar el los rítmos en si mismas, lo que significa que: si en la pieza 2 la linea instrumental queda integrada en la línea vocal, entonces en este caso, la vocal queda integrada en la línea instrumental, por así decirlo. Se trata de dos maneras distintas de fusionar las lineas principales con las del acompañamiento.
-
-    ![Interacciones 2](/public/images/memories-of-a-wedding/interacciones-voces-instrumentos-4.png)
-
-        3.3.1 En el caso donde la obra se toca junto con otra, el problema está ya resuelto.
-
-### Un jardín de caminos que se bifurcan: lineas instrumentales individuales
-En las piezas 1 y 4 tenemos varias partes instrumentales, donde ninguna especifica qué instrumentos deben tocarlas.  Esto plantea la pregunta ¿cómo debería de aproximarse a ellas un músico? La aproximación sugerida es que el músico se mueva libremente de una a otra parte (muchas de ellas incluyen referencias a las voces, así que en efecto se estaría moviendo por toda la partitura). Dependiendo de la cantidad de músicos, o de sus recursos y de su creatividad, más o menos segmentos de la partitura se realizarán en un ejecución. Este resultado es el deseado, que las piezas difracten de sí sus acompañamientos, y que al igual que un cristal, las cualidades de esta difracción son dependientes del ángulo y del tipo de luz, es decir, del momento y los músicos. En cierto sentido, él único material en toda la obra es el vocal, y los materiales instrumentales son en realidad funciones que permiten transformar el material vocal. Lo que significa que complejidad de la hablabamos anteriormente se descubra como simplicidad, ya que en el fondo, todo remite a una misma linea de la que la complejidad se deriva meramente como efecto de luces (_Trompe-l'œil_)
-
-## Objetivos de la obra
-### Notación
-
-
-#### Consideraciones sobre la ejecución prototípica
-
-
-## Análisis
-
-## Consideraciones Generales
-### Armonía y Polifonía
-
-### Armonía
-
-## Conclusiones
+<!-- ## Conclusiones -->
