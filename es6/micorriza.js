@@ -58,7 +58,7 @@ const indexObras = () =>  [
     ])),
     div('.semestre-container', [
         div(
-            h2('.semestre-ttl', ['Septimo Semestre']),
+            h2('.semestre-ttl', ['Séptimo Semestre']),
             ['25-campanas', 'memories-of-a-wedding']
                 .map(w => 
                     div('.semestre-work-container',
