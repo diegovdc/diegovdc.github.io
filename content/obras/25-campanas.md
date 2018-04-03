@@ -17,10 +17,10 @@ description: para una o dos guitarras eléctricas
 Ramón Arias y Diego Villaseñor, Guitarras
 
 ## Nota al Programa
-A Ramis Lao en su cumpleaños número 25, música para una o dos guitarras eléctricas.
-Una sección por año de vida y un sonido nuevo por cada año.
-Un juego que puede componerse y descomponerse, los años se revuelven o se viven linealmente.
-En ella, no hay instrucciones de ejecución, la realización de la misma depende de los juegos que se propongan.
+A Ramis Lao en su cumpleaños número 25, música para una o dos guitarras eléctricas.  
+Una sección por año de vida y un sonido nuevo por cada año.  
+Un juego que puede componerse y descomponerse, los años se revuelven o se viven linealmente.  
+En ella, no hay instrucciones de ejecución, la realización de la misma depende de los juegos que se propongan.  
 
 Al respecto de su desarrollo, la materiales fundamentales devienen, como es a veces el caso, del _nombre propio_: la  **R**epetición y las quintas l**A**-**MI**-**S**i.
 
