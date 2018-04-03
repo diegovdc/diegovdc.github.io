@@ -13,6 +13,7 @@ description: para una o dos guitarras eléctricas
 
 ### Descargar [Audio](/public/tracks/25-campanas.mp3)
 <audio controls src="/public/tracks/25-campanas.mp3"></audio>
+
 Ramón Arias y Diego Villaseñor, Guitarras
 
 ## Nota al Programa
