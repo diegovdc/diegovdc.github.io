@@ -30,6 +30,7 @@ const pdfURL = 'https://github.com/diegovdc/mini-echoic-space/raw/master/public/
 
 import obras from '../data/obras.json'
 import conceptosGenerales from '../data/conceptos-generales.json'
+import presentacionTexto from '../data/presentacion.json'
 import QuintoSemestre from '../data/examenes.json'
 
 
@@ -44,9 +45,8 @@ const homeWork = isFeatured => work => [
         a({href: `/obras/${work.slug}.html`}, [work.title])),
     p('.semestre-p', [work.description])
 ]
-const home = div('.main', [
-    h1('.main-ttl', ['Diego Villaseñor']),
-    p('.main-sbttl', ['Examenes de Composición, Facultad de Música, UNAM']),
+
+const indexObras = () =>  [
     div('.semestre-container.featured', div('.semestre-work-container', [
         h2('.semestre-ttl', ['Octavo Semestre']),
         div(
@@ -95,6 +95,13 @@ const home = div('.main', [
             )
         ],
     ),
+]
+
+const home = div('.main', [
+    h1('.main-ttl', ['Diego Villaseñor']),
+    p('.main-sbttl', ['Examenes de Composición, Facultad de Música, UNAM']),
+    p('.main-presetacion__link-container', a({href: '/presentacion'}, ['Ver presentación'])),
+    indexObras(),
     img('.main-logo', {src: '/public/images/logo-fam.jpg'}),
 ])
 
@@ -103,6 +110,14 @@ const asMarkdownContent = content => {
     container.innerHTML = content
     return div('.markdown-body', container)
 }
+
+const menu = () =>  div('.menu', [a({href: '/'}, ['Regresar'])])
+const presentacion = div('.presentacion', [
+    menu(),
+    asMarkdownContent(presentacionTexto[0].body),
+    h2('.presentacion__ir-a', ['Obras']),
+    indexObras()
+])
 
 const conceptos = div('.main', [
     h1(['Conceptos Generales']),
@@ -115,8 +130,6 @@ const quintoSemestre = div('.main', [
         QuintoSemestre.map(c => asMarkdownContent(c.body)))
 ])
 
-const menu = () => 
-    div('.menu', [a({href: '/'}, ['Regresar'])])
 
 const getById = (id, obras) => R.pipe(
     R.find(o => o.attributes.id === id),
@@ -155,7 +168,7 @@ const printObrasIndex = (selector_id, obras) => R.pipe(
 
 
 
-window.app = { home, conceptos, quintoSemestre, appendMd, getById, obras, printObrasIndex }
+window.app = { home, conceptos, quintoSemestre, appendMd, getById, obras, printObrasIndex, presentacion }
 //  if (module.hot) {
 //     module.hot.accept();
 // } //permite hacer Hot Module Replacement

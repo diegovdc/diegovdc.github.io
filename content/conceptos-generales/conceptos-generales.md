@@ -1,10 +1,5 @@
----
-title: Conceptos Generales
-description: Nothing to see here
-else: Duh
----
-
- 
+# Conceptos Generales
+<!-- 
 <h2 id="grafos">Grafos (redes)</h2>
 
 ### Red de intervalos
@@ -12,12 +7,11 @@ else: Duh
 ### Red de rítmos
 ### Red de interacciones
 ### Red de eventos
-some text about some stuff that happened sometime ago
 
 ## Cíclo Redes 
 
 apertura radical entendida como la posibilidad de interacción de cada una de estas piezas con otras de la misma serie (superposición, fragmentación, variación, etc.), redes (grafos) de distintos tipos, limitación radical de recursos, apertura a la interpretación y a la improvisación, no requerimiento del virutosismo técnico, cuestionamiento estético-ético de para quién se escriben estas piezas y para que situaciones se concibe su interpretación y escucha.
-
+ -->
 ## Escala de percepción de los materiales
 Nota: No escala en el sentido técnico musical (de una secuencia ordenada de tonos), sino escala en el sentido de una secuencia de cantidades e incluso tipos dde detalle en la observación de algo. Así como en un microscopio podemos ver algo a 10 veces o 100 veces su escala.
 
@@ -70,6 +64,7 @@ Esta capacidad de movimiento de un material abre puertas para la imaginación so
 
 
 ## Obras Numéricas
+<div id="variaciones-recursivas"></div>
 
 ### Serie armónica y variaciones recursivas
 La forma derivada, no se usa meramente como una estructura abstracta. Las _obras numéricas_ representan seres vivientes, los números son sus ciclos: lo que para las personas son los años de vida. La forma derivada de la serie armónica es una forma acumulativa. Por ello cada una de las _obras númericas_ es concebida y tratada como ciclos de variaciones. Más específicamente como variaciones en desarrollo, o como preferiría llamarlas, como variaciones recursivas. Es decir, son variaciones donde los materiales variados y/o agregados y/o desarrollados en las variaciones previas sirven como materiales de referencia para las siguientes variaciones 

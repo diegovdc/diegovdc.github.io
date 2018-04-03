@@ -36,15 +36,34 @@ Una infinidad de años más tarde, dos instancias de Espíritu despiertan en u
 Este despertar ocasiona un ascender amoroso desde el cuál se descubre un río de entusiasmo y energía fluyendo a través del Bosque entero. Ello da lugar a una celebración del amor de las instancias de Espíritu, lo que gradualmente lleva a la colectividad de las almas a conjurar a Matrimonio de Espíritu. 
 
 #### Escena 3 
-A través de Matrimonio, Espíritu descubre y penetra en la profunda realidad de Bosque, encontrándose con su multiplicidad no-fragmentada de flujo: la interrelaciónalidad Árbol-Mundo del todo. Estar en el Árbol-Mundo es converirse en él. Espíritu, ya no más dos instancias de sí mismo, fluye a través de Árbol-Mundo en una marejada incontenible de energía que finalmente, la llegar hasta su capas más profundas, más allá de sí mismo, encuentra su conexión con todo lo que lo rodea.
+A través de Matrimonio, Espíritu descubre y penetra en la profunda realidad de Bosque, encontrándose con su multiplicidad no-fragmentada de flujo: la interrelaciónalidad Árbol-Mundo del todo. Estar en el Árbol-Mundo es converirse en él. 
+
+#### Epílogo
+Espíritu, ya no más dos instancias de sí mismo, fluye a través de Árbol-Mundo en una marejada incontenible de energía que finalmente, la llegar hasta su capas más profundas, más allá de sí mismo, encuentra su conexión con todo lo que lo rodea.
 
 
 
-## Introducción
+# Introducción
 ![Mapa de Videcoic One](/public/images/videcoic-one/mapa.png)
 
+## Objetivos de la obra
 _{Videcoic One}, para voces y ensamble electrocústico_ es la primera obra que trabajo que cumple con el visión de las _obras modules_: lograr una música donde otras músicas completamente independientes puedan participar e integrarse de un modo orgánico, como si se tratara de seres vivos coexistiendo dentro de un ecosistema.
 
+Siguiendo esta línea de pensamiento, nos parece interesante problematizar el concepto de identidad de la obra musical (particularmente de los módulos que la componen). Es decir, cuando una obra puede no sólo cambiar a través de diversas interpretaciones, sino también fragmentarse, e incluso hibridar con otras obras, ¿sigue siendo la misma? Y si no lo es, ¿qué es aquello que permite a un músico elaborar una interpretación al rededor de entidades tan fluidas como las obras que proponemos?
+
+## Notación
+### Partichelas
+La sección dedicada a la metodología, particularmente el punto 2 trata a detalle los aspectos técnicos de la notación. Aquí sólaente esbozaremos los aspecto más básicos de la notación en las partichelas de _Videcoic_ (no las de los módulos, que se pueden encontrar en los análisis de las obras correspondientes).
+
+1. Las partichelas dividen la obra en Prologo, Tres Escenas y Epílogo.
+2. Cada parte está divida en secciones A - G (nótese la capitalización).
+3. Cada sección indica una serie de acciones que el músico deberá realizar, en cualquier órden (de preferencia simultaneamente y/o alternando entre las acciones).
+4. Entre las acciones se encuentra principales se encuentra "Play FROM" la cual indica que el músico deberá de tocar a partir de algún módulo (como _21 Nubes_, _Memories of a Wedding_, etc).
+5. También se indican acciónes como "Hybridize" y "Alternate" las cuáles se explican en la sección sobre los [Procesos de Videcoic](#materiales-y-procesos-de-videcoic-one).
+Finalmente, con un tipo de letra distinto y más pequeño, cada sección ofrece al intérprete indicaciones de caracter las cuáles deberá aplicar a su interpretación de los módulos y de las acciónes que se le piden.
+
+
+## Ideas principales
 ### Un poco de teoría
 La teoría que sirvió como principio constructivo fue investigada y desarrollada durante la escritura de mi tesis de licenciatura en filosofía. Esta exploró la formación de sentido en el pensamiento para respoder las preguntas ¿cómo y por qué las ideas que se nos presentan adquieren el sentido que adquieren y no otro?, y también ¿cómo es que esos sentidos se transforman? En síntesis la explicación propuesta es la siguiente: el sentido se genera por la contaposición de los distintos elementos contenidos en una representación y por las maneras en las que se vinculan estos elementos. La razón por la cuál dos personas pueden interpretar de manera distinta el sentido de una experiencia o una idea es porque al rededor de lo distintos elementos involucrados cada persona genera diferentes asociaciones con estos elementos. La transformación de un sentido en otro requiere al menos una de dos cosas, la ampliación del contexto y/o la transformación de las relaciones entre los elementos.
 
@@ -60,7 +79,7 @@ La pregunta es, por consiguiente, ¿de qué manera pueden coexistir una multipli
 Lo que se ha propuesto con _Videcoic One_ es tomar 5 obras disitintas, concebidas como obras independientes (la mayoría de ellas, ya habiendo sido ejecutadas de esta manera) e insertarlas dentro de un nuevo contexto para explorar qué podría emerger de tal encuentro. Este nuevo contexto fue simplemente el contexto que las incluye a todas estas obras, matemáticamente, el conjunto de la obras. Sin embargo, de su encuentro, de las diversas imagenes que cada obra convoca se fue desarrollando un contexto distinto al de la mera suma de los contextos de los obras por separado, lo que la teoría de sistemas denomina con el término "emergencia".
 
 
-### Metodología
+## Metodología
 La metodología se puede describir en los siguientes pasos:
 1. Preparación de las obras:
 
@@ -184,19 +203,10 @@ En términos ciencias de la computación (y lo que hacemos al analizar y escribi
 Lo que se pierde quizás con el algoritmo eficiente, es cierto grado de control sobre el resultado, pero control entendido meramente como capacidad de firma y apropiación de una idea, ya que la calidad del resultado nada tiene que ver con quién es aquel que puede llamarlo como suyo. Sin embargo, aun cuando como compositor no puedo apropiarme de todos los sonidos de mi obra (y me pregunto por qué necesitaría que todos tuvieran mi firma), ello no significa que no haya parte de mi en el resultado imaginación en cada uno de ellos, después de todo, una gran parte del material genético resultante de esos sonidos tiene su origen en materiales que efectivamente fueron escritos por mí. Más aun, el resultado comunitario de esos esfuerzos, podría argumentarse biológicamente, es tanto más capaz y potente, cuanto máyor intercambio hay, o dicho de otra manera, la música ambicionada en Videcoic One sería prácticamente imposible de no ser por el trabajo comunitario que permite aproximacions más eficientes.
 
 
-
-## Objetivos de la obra
-
-
-### Notación
-# Partichelas
-
-#### Consideraciones sobre la ejecución prototípica
-
-
+<!-- 
 # Micropiezas
 
-Dentro de los conceptos de los ciclos en los que se inscribe _28 Palabras_ (obras numéricas y modulares). La fragmentación de la obra para    
+Dentro de los conceptos de los ciclos en los que se inscribe _28 Palabras_ (obras numéricas y modulares). La fragmentación de la obra para     -->
 
 
 ## Contrapunto y conducción de músicas
