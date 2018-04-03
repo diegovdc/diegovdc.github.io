@@ -115,13 +115,19 @@ const quintoSemestre = div('.main', [
         QuintoSemestre.map(c => asMarkdownContent(c.body)))
 ])
 
+const menu = () => 
+    div('.menu', [a({href: '/'}, ['Regresar'])])
+
 const getById = (id, obras) => R.pipe(
     R.find(o => o.attributes.id === id),
     R.pathOr(
         `<h1 class="Not Found">La obra que buscas no se ha encontrado</h1>`, 
         ['body']
     ),
-    asMarkdownContent
+    obra => div('.obra-container', [
+        menu(),
+        asMarkdownContent(obra)
+    ])
 )(obras)
 
 const appendMd = (selector_id, content) => {
