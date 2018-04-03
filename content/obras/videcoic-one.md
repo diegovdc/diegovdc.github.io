@@ -1,13 +1,22 @@
+---
+title: '{Videcoic One}'
+slug: videcoic-one
+id: videcoic-one
+order: 1
+description: Para voces y ensamble electroacústico
+---
+
+
 # {Videcoic One}, para voces y ensamble electroacústico
 
 ## Nota al programa
 ### Para
-Jeanie-Aprille Tang
-Nava Dunkelman
-Andrew Jamieson
-Jakob Pek
-Aaron Oppenheim
-Danishta Rivero
+Jeanie-Aprille Tang  
+Nava Dunkelman  
+Andrew Jamieson  
+Jakob Pek  
+Aaron Oppenheim  
+Danishta Rivero  
 
 <div id="narrativa"></div>
 

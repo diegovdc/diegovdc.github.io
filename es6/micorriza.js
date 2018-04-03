@@ -3,7 +3,7 @@ import tap from 'tap-logger'
 import h from 'hyperscript'
 import hh from 'hyperscript-helpers'
 import $ from 'jquery'
-import R from 'ramda'
+import * as R  from 'ramda'
 
 window.tap = tap
 window.$ = $
@@ -17,10 +17,12 @@ const {
     a,
     h3,
     iframe,
+    br,
     h1,
     h2,
     img,
     audio,
+    span,
 } = hh(h)
 
 const intro = `En los últimos dos años he estado explorando la música hecha de músicas. Mi interés se ha centrado en la  manera en que una pieza puede relacionarse con otra. Esta relación con la otredad de la pieza puede llevarse hasta el punto en que la misma pieza se vuelve otra para sí misma (25 Campanas).
@@ -91,11 +93,14 @@ const index = div('.main', [
     ])),
 ])
 
-const markdownContent = content => {
+const asMarkdownContent = content => {
     let container  = div()
     container.innerHTML = content
-    return container
+    return div('.markdown-body', container)
 }
+
+import obras from '../data/obras.json'
+console.log('obras', obras)
 
 import conceptosGenerales from '../data/conceptos-generales.json'
 import QuintoSemestre from '../data/examenes.json'
@@ -104,15 +109,43 @@ import QuintoSemestre from '../data/examenes.json'
 const conceptos = div('.main', [
     h1(['Conceptos Generales']),
     div('.markdown-body',
-        conceptosGenerales.map(c => markdownContent(c.body)))
+        conceptosGenerales.map(c => asMarkdownContent(c.body)))
 ])
 
 const quintoSemestre = div('.main', [
     div('.markdown-body',
-        QuintoSemestre.map(c => markdownContent(c.body)))
+        QuintoSemestre.map(c => asMarkdownContent(c.body)))
 ])
 
-window.app = { index, conceptos, quintoSemestre }
- if (module.hot) {
-    module.hot.accept();
-} //permite hacer Hot Module Replacement
+const getById = (id, obras) => R.pipe(
+    R.find(o => o.attributes.id === id),
+    R.pathOr(
+        `<h1 class="Not Found">La obra que buscas no se ha encontrado</h1>`, 
+        ['body']
+    ),
+    asMarkdownContent
+)(obras)
+
+const appendMd = (selector_id, content) => {
+    document.getElementById(selector_id).appendChild(content)
+}
+
+const printObrasIndex = (selector_id, obras) => R.pipe(
+    obras => Array.isArray(obras) ? obras : [],
+    R.filter(R.path(['attributes', 'title'])),
+    R.sort((a, b) => a.attributes.order < b.attributes.order ? -1 : 1),
+    R.map(o => p('.obras-index__link', [
+        a({href: `/obras/${o.attributes.slug}.html`}, [o.attributes.title]),
+        br(),
+        span('.obras-index__description', [o.attributes.description])
+    ])),
+    os => div('#obras-index', os),
+    tap.c('printing obras'),
+    index => {document.getElementById(selector_id).appendChild(index)}
+)(obras)
+
+
+window.app = { index, conceptos, quintoSemestre, appendMd, getById, obras, printObrasIndex }
+//  if (module.hot) {
+//     module.hot.accept();
+// } //permite hacer Hot Module Replacement

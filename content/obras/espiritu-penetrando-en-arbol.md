@@ -1,6 +1,14 @@
+---
+title: Espíritu Penetrando en Árbol
+slug: epa
+id: epa
+order: 6
+description: para flauta sola / para voz y cinta
+---
 
-## Espríritu Penetrando en Árbol
-#### Nota al programa
+# Espríritu Penetrando en Árbol
+
+## Nota al programa
 Espíritu penetrando en Árbol nace de la exploración del modo en el que una representación visual puede ser escuchada. Se toma un dibujo y se decide sobre él un recorrido visual según la intuición del oído, el sonido emana inconscientemente como respuesta a los gestos del lápiz sobre el papel.
 
 El dibujo, abstracto, apenas unos trazos. La forma interpretada difícilmente puede captarse a primera vista: el momento previo a la penetración en el que el espíritu toca a un árbol. Al igual que el sonido que de ella emana, la figura y su historia se construyen como una proyección automática de la imaginación. El proceso se repite constantemente: la reacción de un cuerpo sobre otro.

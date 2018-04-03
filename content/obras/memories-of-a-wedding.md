@@ -1,8 +1,14 @@
+---
+title: Memories of a Wedding
+slug: moaw
+id: moaw
+order: 5
+description: para dos voces y uno o más instrumentos
+---
+
+
+
 # Memories of a Wedding
-
-
-
-
 
 ## Nota al programa
 Música para dos voces y uno o más instrumentos, para crear y explorar en comunidad.  

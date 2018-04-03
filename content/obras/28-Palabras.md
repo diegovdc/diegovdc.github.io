@@ -1,3 +1,11 @@
+---
+title: 28 Palabras
+slug: 28-palabras
+id: 28-palabras
+order: 3
+description: para voz sola
+---
+
 # 28 Palabras
 
 ## Nota al programa

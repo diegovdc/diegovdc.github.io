@@ -1,3 +1,11 @@
+---
+title: 25 Campanas
+slug: 25-campanas
+id: 25-campanas
+order: 4
+description: para una o dos guitarras eléctricas
+---
+
 # 25 Campanas
 
 ## Nota al Programa
