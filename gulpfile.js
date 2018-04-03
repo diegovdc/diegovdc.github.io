@@ -15,7 +15,7 @@ var notify = require("gulp-notify");
 var browserSync = require('browser-sync').create();
 var gutil = require("gulp-util");
 var rename = require("gulp-rename");
-
+var run = require('gulp-run');
 //Sass
 var sass = require('gulp-sass'); 
 //DESCOMENTAR CADA QUE SUBA 
@@ -79,9 +79,13 @@ gulp.task('browser-sync', function() {
   });
 });
 
-gulp.task('watch', ['browser-sync', 'sass',], function() {
+gulp.task('build-content', function() {
+  return run('npm run build:content').exec()    //compila el folder de content
+})
+
+gulp.task('watch', ['browser-sync', 'sass', 'build-content'], function() {
   gulp.watch(watch_scss_path + '/**/*.scss', ['sass']);
-  // gulp.watch(main_js_path + '/**/*.js', ['webpack']);
+  gulp.watch('./content/**/*.md', ['build-content']);
   // gulp.watch(dist_js_path + '/*.js', browserSync.reload);
   // gulp.watch('./**/*.php', browserSync.reload);
 });
