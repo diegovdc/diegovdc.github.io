@@ -8,7 +8,7 @@ description: para flauta sola / para voz y cinta
 
 # Espíritu Penetrando en Árbol
 
-## Partitura y Grabaciónes
+## Partitura y Grabaciones
 ### Descargar [Partitura](/public/scores/espiritu-penetrando-en-arbol.pdf)
 
 ### Descargar [Audio](/public/tracks/espiritu-penetrando-en-arbol-flauta.mp3), versión Flauta
@@ -26,7 +26,7 @@ Diego Villaseñor, Voz
 
 
 ## Nota al programa
-Espíritu penetrando en Árbol nace de la exploración del modo en el que una representación visual puede ser escuchada. Se toma un dibujo y se decide sobre él un recorrido visual según la intuición del oído, el sonido emana inconscientemente como respuesta a los gestos del lápiz sobre el papel.
+Espíritu penetrando en Árbol nace de la exploración del modo en el que una representación visual puede ser escuchada. Se toma un dibujo y se decide sobre él un recorrido visual según la intuición del oído, el sonido emana inconscientemente como respuesta a los gestos del lápiz sobre el papel.
 
 El dibujo, abstracto, apenas unos trazos. La forma interpretada difícilmente puede captarse a primera vista: el momento previo a la penetración en el que el espíritu toca a un árbol. Al igual que el sonido que de ella emana, la figura y su historia se construyen como una proyección automática de la imaginación. El proceso se repite constantemente: la reacción de un cuerpo sobre otro.
 
@@ -43,13 +43,13 @@ Es decir, para poder experimentar lo que se siente ser un árbol, es necesario f
 
 En este sentido la pieza explora dos materiales fundamentales, los derivados de la naturaleza "objetiva", lo que llamaríamos el mundo externo, representado por los sonidos de un bosque, y los derivados del mundo psicológico, el del "Espíritu".  Este "Espíritu" en la pieza se comporta como una especie de "bestia casi por completo inmaterial" y funge como el vehículo necesario para generar la experiencia de vida de un árbol. 
 
-Dividida en tres movimientos, la forma se deriva del esquema que con frecuencia se ofrece cuando se habla del método fenomenológico hegeliano: tesis-antítesis-síntesis, o A-B-A*B, dónde el primer término es el Bosque (sinécdoque del Árbol), el segúndo el Espíritu, y el tercero, el Espíritu dentro del Árbol.
+Dividida en tres movimientos, la forma se deriva del esquema que con frecuencia se ofrece cuando se habla del método fenomenológico hegeliano: tesis-antítesis-síntesis, o A-B-A*B, dónde el primer término es el Bosque (sinécdoque del Árbol), el segundo el Espíritu, y el tercero, el Espíritu dentro del Árbol.
 
 ### Primer movimiento: ((en) el bosque)
-En este movimiento se trabaja principalmente con transcripciones,  simulaciones, simbolizaciones y pantomimás de los sonidos del bosque, y en mucho menor sentido con los sonidos del Espíritu quien aquí sólamente aparece como sonando desde de lejania, pequeño y metido en un mundo mucho más amplio.
+En este movimiento se trabaja principalmente con transcripciones,  simulaciones, simbolizaciones y pantomimas de los sonidos del bosque, y en mucho menor sentido con los sonidos del Espíritu quien aquí sólamente aparece como sonando desde de lejanía, pequeño y metido en un mundo mucho más amplio.
 
 #### Materiales sonoros
-Del Bósque se pueden enumerar los siguientes sonidos: 
+Del Bosque se pueden enumerar los siguientes sonidos: 
 1. Viento, sobre hojas y ramas 
 ![Viento sobre ramas](/public/images/epa/viento-ramas.png)
 2. Sonidos de insectos, (muy débiles)
@@ -68,7 +68,7 @@ Al Espíritu, quien podría decirse que se encuentra en este momento al acecho d
 
 1. Todos los sonidos con vocales (la voz como metáfora de lo espíritu)
 ![Vocales](/public/images/epa/vocales.png)
-2. El sonido anotado como daemoniaco (jugando con la resonancia entre las ascepciones grecoromanas y cristiana del término).
+2. El sonido anotado como daemoniaco (jugando con la resonancia entre las acepciones grecorromanas y cristiana del término).
 ![Daemoniaco](/public/images/epa/daemoniaco.png)
 
 Cabe decir que el Espíritu tiene en su movimiento efectos sobre el bosque: así por ejemplo, la página 3 sistema 4, donde el golpe de llaves denota un sonido del Bosque en superposición con uno de los movimientos del Espíritu.
@@ -79,29 +79,29 @@ Cabe decir que el Espíritu tiene en su movimiento efectos sobre el bosque: así
 ##### Forma
 El sonar de un bosque no tiene para nuestro oído una forma particular otra que la forma de un bosque. Es este sentido el ordenamiento de la mayoría de los eventos del movimiento tiene como función únicamente la prolongación de un periodo indeterminado de tiempo.
 
-Sin embargo, desde el punto de vista del Espíritu, cuya interacción con el Árbol es lo que nos interesa, podemos descubrir una cierta dirección de los eventos.  Es por ello que el enfoque hacia éste, en terminos de propoción y presencia de sus materiales va incrementándose gradualmente desde el principio hacia el final del movimento. Lo que en ese sentido sobrepone una direccionalidad formal sobre otro elemento que no tiene dirección alguna.
+Sin embargo, desde el punto de vista del Espíritu, cuya interacción con el Árbol es lo que nos interesa, podemos descubrir una cierta dirección de los eventos.  Es por ello que el enfoque hacia éste, en términos de proporción y presencia de sus materiales va incrementándose gradualmente desde el principio hacia el final del movimiento. Lo que en ese sentido sobrepone una direccionalidad formal sobre otro elemento que no tiene dirección alguna.
 
 ##### Lenguaje: continuidad y discontinuidad y fragmentación
-Como en el resto de la obra hay una recurrencia al tratamiento del sonido bajo un concepto de macrotimbre (cf. Julio Estrada), particularmente en los sonidos relativos al Espíritu y a aquellos cuya duración permite un manejo contraputístico de los componentes de un sonido (el viento, insectos).  
+Como en el resto de la obra hay una recurrencia al tratamiento del sonido bajo un concepto de macrotimbre (cf. Julio Estrada), particularmente en los sonidos relativos al Espíritu y a aquellos cuya duración permite un manejo contrapuntístico de los componentes de un sonido (el viento, insectos).  
 
-Por otro lado, hay un énfasis en la representación de elementos sumamente diversos, discontínuos, breves y envueltos en silencio, esto en concordancia con la intención de hacer una representación relativamente objetiva del ambiente de un bosque real.
+Por otro lado, hay un énfasis en la representación de elementos sumamente diversos, discontinuos, breves y envueltos en silencio, esto en concordancia con la intención de hacer una representación relativamente objetiva del ambiente de un bosque real.
 
 ##### (Micro)motivos y variaciones
 El que muchos de los sonidos sean transcripciones de los sonidos del bosque hace que estos, por más breves que sean, estén dotados de cierta identidad auditiva. 
 
-Esta identidad permite considerar a estos sonidos como motívos y ello hace posible que en el desarrollo de los materiales se recurra una extrema variación en los conjuntos motívicos. De este modo ningúno de los eventos sonoros del movimiento es semejante a otro, sin por ello mermar la capcidad de l oído de reconocer la repetición y variación de estos motivos.
+Esta identidad permite considerar a estos sonidos como motivos y ello hace posible que en el desarrollo de los materiales se recurra una extrema variación en los conjuntos motívicos. De este modo ninguno de los eventos sonoros del movimiento es semejante a otro, sin por ello mermar la capacidad de l oído de reconocer la repetición y variación de estos motivos.
 
 ##### Notación
-Puesto que la representación de los eventos de la obra tiene un cierto componente dramático, corporal y pantomímico, el movimiento abunda en descripciones tanto del origen de los sonidos, como de las acciones no sonoras que debe realizar el intérprete (e.g. la caida de una hoja, o la contención de la respiración).
+Puesto que la representación de los eventos de la obra tiene un cierto componente dramático, corporal y pantomímico, el movimiento abunda en descripciones tanto del origen de los sonidos, como de las acciones no sonoras que debe realizar el intérprete (e.g. la caída de una hoja, o la contención de la respiración).
 
-Hay también muchas descripciones referentes a la transfomación de un sonido que se realizan por medio del texto, en lugar de hacer con base en una notación tradicional y determinista. Entre ellas destaca la descripción de un enramado como transformación de un sonido en una secuencia de multifónicos y finalemente a una difuminación del espectro en ruido.
+Hay también muchas descripciones referentes a la transformación de un sonido que se realizan por medio del texto, en lugar de hacer con base en una notación tradicional y determinista. Entre ellas destaca la descripción de un enramado como transformación de un sonido en una secuencia de multifónicos y finalmente a una difuminación del espectro en ruido.
 
 ![Multifónicos 1](/public/images/epa/mutlifonicos-1.png)
 ![Multifónicos 2](/public/images/epa/multifonicos-2.png)
 
 Desde mi punto de vista esta descripción es mucho más efectiva interpretativamente que la designación arbitraria de qué multifónicos debe tocar el intérprete y cómo debe tocarlos.  Por un lado, es imposible predecir si una secuencia determinada de multifónicos funcionará bien en todas las flautas, o para todos los intérpretes, por lo que determinar esta secuencia corre el riesgo de producir efectos poco óptimos en un gran número de casos.  Por otro lado, el caracter gráfico-textual de la notación seleccionada aporta mucha más información respecto del resultado deseado que la que podría aportar la misma secuencia anotada de modo determinista.
 
-El manejo del tiempo en la escritura, está inspirado en la notación de György Kurtàg y nos permite denotar duraciones propocionales más no determinadas, lo que corresponde bien con la experiencia que tenemos de las secuencias de eventos sonoros en un bosque.
+El manejo del tiempo en la escritura, está inspirado en la notación de György Kurtàg y nos permite denotar duraciones proporcionales más no determinadas, lo que corresponde bien con la experiencia que tenemos de las secuencias de eventos sonoros en un bosque.
 
 ### Segundo Movimiento: (el espíritu)
 
@@ -109,7 +109,7 @@ El segundo movimiento se enfoca por completo en caracterizar al Espíritu en su 
 
 <h4 id="escalas-de-percepcion-del-espiritu">Escalas de percepción: Observación a detalle del Espíritu</h4>
 
-Si bien en el primer movimiento tuvimos la oportuinidad de experimentar el movimiento del Espíritu, como se mencionó antes, se trata tan sólo de una visión alejada y por ello carente de los detalles que se pueden apreciar cuando enfocamos por completo nuestra atención en este material.
+Si bien en el primer movimiento tuvimos la oportunidad de experimentar el movimiento del Espíritu, como se mencionó antes, se trata tan sólo de una visión alejada y por ello carente de los detalles que se pueden apreciar cuando enfocamos por completo nuestra atención en este material.
  
  En el primer movimiento se ve así:
 
@@ -119,42 +119,42 @@ Si bien en el primer movimiento tuvimos la oportuinidad de experimentar el movim
 
 ![Espíritu en el movimiento 2](/public/images/epa/espiritu-mvt-2.png)
 
-Si bien en el primer caso la intención del movimiento del Espíritu es que sea lento, y mucho más tranquilo (lo que lo distingue por completo del carácter efusivo del segundo), en ambos ejemplos podemos apreciar conjuntos muy similares de parametros sonoros (que sin embargo se producen mediante técnicas distintas):
+Si bien en el primer caso la intención del movimiento del Espíritu es que sea lento, y mucho más tranquilo (lo que lo distingue por completo del carácter efusivo del segundo), en ambos ejemplos podemos apreciar conjuntos muy similares de parámetros sonoros (que sin embargo se producen mediante técnicas distintas):
 
 1. Modulación de intensidad
 2. Modulación de altura del ruido
 3. Modulación del color del ruido
 
-La _modulación de intensidad_ en ambos casos es clara y se produce de maners similar. La diferencia es que en el segundo movimiento su escritura y ejecución encuentra completamente determinada en la partitura.
+La _modulación de intensidad_ en ambos casos es clara y se produce de manera similar. La diferencia es que en el segundo movimiento su escritura y ejecución encuentra completamente determinada en la partitura.
 
-La _modulación de altura del ruido_ se ejecuta con una velocidad de articulación diferentes en ambos caso, pero tiene un efecto similar. De interés en este ejemplo es la cuestión de la escala de pecepción en relación a lo que representa la linea de altura en cada caso: Lo que diluido en un contexto mucho más grande (el bosque) aparece lejano, como sólo una linea, visto de cerca en su propio contexto (el espíritu) aparece en todo su detalle como algo que también tiene la dimensión de la anchura. (cf. [concepto y usos de las escalas de percepción](/conceptos-generales#escala-de-percepci-n-de-los-materiales)).
+La _modulación de altura del ruido_ se ejecuta con una velocidad de articulación diferentes en ambos caso, pero tiene un efecto similar. De interés en este ejemplo es la cuestión de la escala de percepción en relación a lo que representa la linea de altura en cada caso: Lo que diluido en un contexto mucho más grande (el bosque) aparece lejano, como sólo una linea, visto de cerca en su propio contexto (el espíritu) aparece en todo su detalle como algo que también tiene la dimensión de la anchura. (cf. [concepto y usos de las escalas de percepción](/conceptos-generales#escala-de-percepci-n-de-los-materiales)).
 
-La _modulación del color_ es distinta en cuanto a los medio técnicos empleados, pero similar en tanto que el contenido de frecuencias de ambos sonidos tiene una fuerte carga de ruido blanco. En el primero caso,el sonido se produce por una modificación conciente de la forma de la cavidad bucal. En el segundo se trata de una modificación del ángulo y de la presión del aire. En el primer caso el color del ruido es el resultado de un proceso de filtrado, en el segundo es el resultado de la transformación del sonido sobre el eje del continuo "Ruido-Tono": dos continuos que son variaciones tímbricas el uno del otro.
+La _modulación del color_ es distinta en cuanto a los medio técnicos empleados, pero similar en tanto que el contenido de frecuencias de ambos sonidos tiene una fuerte carga de ruido blanco. En el primero caso,el sonido se produce por una modificación consciente de la forma de la cavidad bucal. En el segundo se trata de una modificación del ángulo y de la presión del aire. En el primer caso el color del ruido es el resultado de un proceso de filtrado, en el segundo es el resultado de la transformación del sonido sobre el eje del continuo "Ruido-Tono": dos continuos que son variaciones tímbricas el uno del otro.
 
 Por otro lado nótese que el contorno melódico de la primera aparición se repite exactamente en el tercer compás del "(el espiritu)" pero dibujado sobre el continuo ruido-tono. Alfo similar sucede en el en el último compás donde aparece en inversión retrógrada, paralelamente en las alturas y en el continuo tono-ruido. En este sentido, la forma general del primer sonido -arriba arriba abajo, y derivadas-, se convierte en una forma paradigmática de las formas que constituyen al Espíritu cuando es visto de cerca (cf. fractales y [neoplatonismo](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=neoplatonism)).
 
 #### Aspectos técnicos
 ##### Macrotimbre de primer y segundo grados
-Decimos que el _macrotimbre de primer grado_ refiere al sonido producido por la modulación en los componentes propios de un sonido (principalmente: altura, color, intensidad, articulación, pulso).  Llamamos _macrotimbre de segundo grado_ a aquel que modula a las modulaciónes del macrotimbre de primer grado. En nuestro caso: 
+Decimos que el _macrotimbre de primer grado_ refiere al sonido producido por la modulación en los componentes propios de un sonido (principalmente: altura, color, intensidad, articulación, pulso).  Llamamos _macrotimbre de segundo grado_ a aquel que modula a las modulaciones del macrotimbre de primer grado. En nuestro caso: 
 - Amplitud de las alturas - modula una linea de alturas para generar un área de alturas
 - Amplitud de las voces (número de voces) - modula un área de alturas para generar una multiplicidad de áreas de alturas
 
-Es de notar que ambas modulación aunque aparentemente modulantes de la frecuencia, implican, por la naturaleza de la flauta modulaciónes en el pulso/rítmo de la textura.
+Es de notar que ambas modulación aunque aparentemente modulantes de la frecuencia, implican, por la naturaleza de la flauta modulaciones en el pulso/ritmo de la textura.
 
 En este movimiento los siguientes son los componentes del sonido que se trabajan mediante el concepto de macrotimbre:
-1. Difusión de la energía sonora - continuo ruido-tono
-2. Altura - la tendencia general de las alturas
-3. Amplitud de alturas - el interprete debe tocar tantas alturas como pueda dentro del area designada.
-4. Intensidad
-5. Pulso - como parámetro es dependiente de la amplitud de las alturas
-6. Amplitud de las voces - modula al pulso y a la amplitud de alturas, por definción no se trata de un elemento continuo
+1. Difusión de la energía sonora - continuo ruido-tono  
+2. Altura - la tendencia general de las alturas  
+3. Amplitud de alturas - el interprete debe tocar tantas alturas como pueda dentro del área designada.  
+4. Intensidad  
+5. Pulso - como parámetro es dependiente de la amplitud de las alturas  
+6. Amplitud de las voces - modula al pulso y a la amplitud de alturas, por definición no se trata de un elemento continuo  
 
 ##### Contrapunto
-1. Puesto que el macrotimbre permite conceptualizar la síntesis sonora en instrumentos acústicos, el contrapunto de los componentes de un sonido resulta sumamete atractivo. Esto, en tanto que hace posible el uso de un continuo flujo de un timbre como material sonoro.
+1. Puesto que el macrotimbre permite conceptualizar la síntesis sonora en instrumentos acústicos, el contrapunto de los componentes de un sonido resulta súmamente atractivo. Esto, en tanto que hace posible el uso de un continuo flujo de un timbre como material sonoro.
 
-2. El caracter del movimiento del Espíritu se genera por consiguiente con un movimiento pulsante de un sonido que se expande y contrae a distintas velocidades. Es como si el Espíritu se implusáse enérgicamente de un lugar a otro para acercarse al Árbol. 
+2. El caracter del movimiento del Espíritu se genera por consiguiente con un movimiento pulsante de un sonido que se expande y contrae a distintas velocidades. Es como si el Espíritu se impulsase enérgicamente de un lugar a otro para acercarse al Árbol. 
 
-3. La corporalidad del Espiritu se genera como una difusa materialidad, refelajada en su oscilar ruido-tono (difusión y concentración de la energía sonora).
+3. La corporalidad del Espiritu se genera como una difusa materialidad, refelejada en su oscilar ruido-tono (difusión y concentración de la energía sonora).
 
 4. Para generar variedad tímbrica y sentido para el discurso, los distintos componentes del sonido se mueven y pulsan con relativa independencia, aunque temáticamente, en dirección y velocidad. (cf. las ideas de repetición del contorno melódico anteriormente expuestas). Nótense particularmente los desfases imitativos y los diálogos entre las curvas, especialmente cuando el movimiento es rápido e intenso.
 
@@ -165,7 +165,7 @@ En este movimiento los siguientes son los componentes del sonido que se trabajan
 
 ##### Aspectos de la ejecución
 
-1. La continuidad del sonido durante todo el movimiento, haciendo uso de la respiración circular, tiene cómo objetivo aportar generar un fuerte contraste con respecto al primer movimiento silencioso,asi como facilitar la continuación para el suguiente movimiento, igualmente enérgico, pero contrastante tímbricamente.
+1. La continuidad del sonido durante todo el movimiento, haciendo uso de la respiración circular, tiene cómo objetivo aportar generar un fuerte contraste con respecto al primer movimiento silencioso,asi como facilitar la continuación para el siguiente movimiento, igualmente enérgico, pero contrastante tímbricamente.
 
 2. Tocar dentro del área sombreada del pentagrama significa tocar tantas alturas como sea posible, independientemente de si pertenecen a la escala cromática o no.
 
@@ -182,10 +182,10 @@ En este movimiento los siguientes son los componentes del sonido que se trabajan
 
 ### Tercer Movimiento: (espíritu penetrando-deviniendo árbol)
 
-En este movimiento se propone un tercer tipo de notación, el más complejo de las tres presentadas hasta el momento. La notación busca facilitar la superposición de los materiales del primer movimiento y de los materiales del segundo. Por un lado hace posible la alternacia de materiales contrastantes como en el primer movimiento, y por otro mantiene una textura muy activa, como en el segundo movimiento.
+En este movimiento se propone un tercer tipo de notación, el más complejo de las tres presentadas hasta el momento. La notación busca facilitar la superposición de los materiales del primer movimiento y de los materiales del segundo. Por un lado hace posible la alternancia de materiales contrastantes como en el primer movimiento, y por otro mantiene una textura muy activa, como en el segundo movimiento.
 
 #### Notación
- Aquí los recuadros representan conjuntos de sonidos (separados por comillas: **'** ) entre los que el músico puede alternar durante la duración determinada. El signo "(+)" significa que los elementos de la casilla anterior se suman a los de la siguente, y posteriormente deben irse abandonando uno a uno. 
+ Aquí los recuadros representan conjuntos de sonidos (separados por comillas: **'** ) entre los que el músico puede alternar durante la duración determinada. El signo "(+)" significa que los elementos de la casilla anterior se suman a los de la siguiente, y posteriormente deben irse abandonando uno a uno. 
  
 También podemos encontrar algunas secuencias lineales de eventos, la cuales no aparecen escritas dentro de casilla alguna, lo que significa que deben de leerse de izquierda a derecha sin volver a ningún sonido. En el siguiente ejemplo podemos apreciar ambos tipos de notación:
 
@@ -195,9 +195,9 @@ La notación rítmica hace uso de plicas, las cuáles representan rangos de dura
 
 ![Notación movimiento 3](/public/images/epa/mvt-3-8.png)
 
-Esta notación puede pensarse como una escala de rangos, en la cuál los rangos más amplios generan mayores probabilidades de duraciónes largas, sin impedir que a través de ellos se generan también duraciones más breves. Los rangos aquí útilizados por lo tanto generar una textura con tendencia a notas muy breves y con ocasionales notas largas.
+Esta notación puede pensarse como una escala de rangos, en la cuál los rangos más amplios generan mayores probabilidades de duraciones largas, sin impedir que a través de ellos se generan también duraciones más breves. Los rangos aquí utilizados por lo tanto generar una textura con tendencia a notas muy breves y con ocasionales notas largas.
 
-Para anotar los diversos registros de la flauta se utilizan las letras G-M-A, para denotar los registros "grave", "medio" y "agudo", y notacions como Gm o Ma, para designar combinaciones de dos registros con el predominio de alguno.
+Para anotar los diversos registros de la flauta se utilizan las letras G-M-A, para denotar los registros "grave", "medio" y "agudo", y notaciones como Gm o Ma, para designar combinaciones de dos registros con el predominio de alguno.
 
 #### A*B, el producto del Espíritu y el Árbol como material sonoro
 El tercer movimiento es el producto del primero y el segundo movimientos.  A pesar de los evidentes cambios en la notación, se puede observar que muchos de los sonidos del primer movimiento vuelve a aparecer (es específico los relacionado con el crujir de las ramas y hojas, así como con las ramificaciones).
@@ -210,12 +210,12 @@ La escala en la que se observa al Espíritu cambia nuevamente, este se fragmenta
 ![El Espíritu en el movimiento 3](/public/images/epa/mvt-3-5.png)
 ![El Espíritu en el movimiento 3](/public/images/epa/mvt-3-6.png)
 
-En estos ejemplo podemos ver que se conserva la sonoridad del Espíritu como un movimiento ascendente que con frecuencia se ensancha, cuya oscilanción entre el ruido y el tono aun se mantiene.
+En estos ejemplo podemos ver que se conserva la sonoridad del Espíritu como un movimiento ascendente que con frecuencia se ensancha, cuya oscilación entre el ruido y el tono aun se mantiene.
 
-El multifónico de la tercera imágen es ya el resultado de la combinación de los sonidos ensanchados del Espíritu y del crujir de la madera de los materiales de Árbol-Bosque. Y conforme el movimiento se desarrolla la superposición de materiles se vuelva cada vez más intensa, de modo que los materiles contrastantes se fusionan en la textura.
+El multifónico de la tercera imagen es ya el resultado de la combinación de los sonidos ensanchados del Espíritu y del crujir de la madera de los materiales de Árbol-Bosque. Y conforme el movimiento se desarrolla la superposición de materiales se vuelva cada vez más intensa, de modo que los materiales contrastantes se fusionan en la textura.
 
 #### Forma
-La forma de este moviento podría denominarse forma de Árbol, no en el sentido de que arborezca y se ramifique, sino en tanto que se elabora una secuencia que va desde los sonidos correspondientes a las raices (extremo grave de la flauta) hasta los sonidos correspondientes a las ramas y hojas (extremo agudo).
+La forma de este movimiento podría denominarse forma de Árbol, no en el sentido de que arborezca y se ramifique, sino en tanto que se elabora una secuencia que va desde los sonidos correspondientes a las raíces (extremo grave de la flauta) hasta los sonidos correspondientes a las ramas y hojas (extremo agudo).
 
 Posteriormente el interprete llega a un momento donde puede circular de un lado a otro del árbol, y finalmente sale de éste para retornar al bosque, volviendo a los materiales del primer movimiento.
 
@@ -223,9 +223,9 @@ Posteriormente el interprete llega a un momento donde puede circular de un lado 
 #### Redes
 Las casillas, como dispositivo notacional implican redes conexión entre los distintos sonidos que contienen. En estas redes cada sonido conecta con todos los demás.
 
-A lo largo del movimiento el intérprete realiza una especie modulación entre las distintas redes, al ir abandonando gradualmente los elementos de las casillas anteriores en favor de los materiales de las nuevas casillas. Lo que genera una transición gradual de conjuntos de tímbres.
+A lo largo del movimiento el intérprete realiza una especie modulación entre las distintas redes, al ir abandonando gradualmente los elementos de las casillas anteriores en favor de los materiales de las nuevas casillas. Lo que genera una transición gradual de conjuntos de timbres.
 
-En el momento central del movimento, el intérprete se ve en posibilidad de circular a lo largo del árbol y por consiguiente de atravezar por los materiales que corresponden a cada sección.  Para ello se elabora una red más compleja donde no todos los elementos conectan con otros, a excepción de un multifónico al de la red, que simbolizaría el corazón del árbol.
+En el momento central del movimiento, el intérprete se ve en posibilidad de circular a lo largo del árbol y por consiguiente de atravezar por los materiales que corresponden a cada sección.  Para ello se elabora una red más compleja donde no todos los elementos conectan con otros, a excepción de un multifónico al de la red, que simbolizaría el corazón del árbol.
 
 
 ![Red central](/public/images/epa/epa-red.png)
