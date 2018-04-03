@@ -99,7 +99,7 @@ const indexObras = () =>  [
 
 const home = div('.main', [
     h1('.main-ttl', ['Diego Villaseñor']),
-    p('.main-sbttl', ['Examenes de Composición, Facultad de Música, UNAM']),
+    p('.main-sbttl', ['Exámenes de Composición, Facultad de Música, UNAM']),
     p('.main-presetacion__link-container', a({href: '/presentacion'}, ['Ver presentación'])),
     indexObras(),
     img('.main-logo', {src: '/public/images/logo-fam.jpg'}),
