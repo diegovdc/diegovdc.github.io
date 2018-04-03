@@ -1,5 +1,5 @@
 {
-  "name": "red-privada",
+  "name": "diegovdc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/el-cultivo/red-privada.git"
+    "url": "git+ssh://git@gitlab.com/diegovdc/diegvdc.github.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/el-cultivo/red-privada/issues"
+    "url": "https://gitlab.com/diegovdc/diegovdc.github.io/issues"
   },
-  "homepage": "https://gitlab.com/el-cultivo/red-privada#README",
+  "homepage": "https://gitlab.com/diegovdc/diegovdc.github.io#README",
   "devDependencies": {
     "babel-core": "6.24.1",
     "babel-loader": "6.4.1",
