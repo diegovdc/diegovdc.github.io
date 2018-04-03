@@ -1,0 +1,4 @@
+Diversidad de notaciones, casi todas tiene elementos distintos y exploración cuestiones diferentes, aunque también están conectadas: lo límites de mi lenguaje son los límites de mi mundo. Las diferentes notaciones muestrn distintas maneras de abordar la escrtura musical, plantean problemas distintos y buscan solucionarlos
+
+
+La música es breve, simple, frágil de aspecto, aparentemente inocua, pero argumentaremos que concentra y elabora una densa red de significados. La famosa función de Mandelbrot que con sólo unos cuantos símbolos, describe una geometria infinita y alucinante, es un modelo de la concición, y simpleza sobrecargada de sentidos, a la que esta música aspira (¡y la fractalidad: ese improbable encuentro entre las matemáticas y la naturaleza, entre la lógica y los sueños!)
