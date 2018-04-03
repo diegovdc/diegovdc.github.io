@@ -31,10 +31,17 @@ body {
 }
 
 .menu {
+	max-width: 950px;
+    margin: 0 auto;
+	position: absolute;
+	top: 0;
 	a {
 		position: absolute;
 		top: 10px;
 		left: 10px;
+		@include link-states {
+			color: grey;
+		}
 	}
 }
 
