@@ -157,6 +157,8 @@ En la música "Side-by-Side" está literalmente al lado de "Round Dance Cycle", 
 
 Como en toda danza, es reponsabilidad única de quienes bailan lo que logran hacer con sus interacciónes.     
 
+<div id="together-songs-erupting-interplay"></div>
+
 #### IV. Together songs erupting interplay
 
 Esta pieza explora las resonancias entre las palabras a manera de una filo-logía (logía de sus afinidas, recordemos que filos, en sí mismo, evoca uno de los concepto griegos amor). Se trata de una filología un tanto real y otro tanto fantástica. "To gather", "Together" y "There" todas evocan y apuntan a una union espacial. La fantasía es el hacia dónde, la esperanza, expectativa, futuro, el "To get". Es la búsqueda de una armonía que sigue una linea filial. 
@@ -167,7 +169,7 @@ La celebración se da musicalmente en el colección (gathering) de estas cancion
 
 La palabas del verso se transforman a través de su linea filológica y resultan en el siguiente canto:
 
-To get there together, to gather to get there together, to gather songs to get together. Together-songs. Erupting songs. Together erupting to get erupting songs. Erupting in two, erupting together in songs in inter play I erupt in two, together erupting in inter play I in two, I in uh, aee uh, I-You in-you, together I(aee) in you(uh).
+> To get there together, to gather to get there together, to gather songs to get together. Together-songs. Erupting songs. Together erupting to get erupting songs. Erupting in two, erupting together in songs in inter play I erupt in two, together erupting in inter play I in two, I in uh, aee uh, I-You in-you, together I(aee) in you(uh).
 
 El desarrollo es completamente musical, casi una sonata: dos temas, haciendo una serie de desarrollos sobre cuatro pequeños motivos. Tema A ("together songs"), Tema B ("erupting interplay"). Luego repetición rítmica, progresiones ("I" se modula a "Aee", You a "Uh"), desarrollos, variaciones ("Ei" de "play" -> a "Ai" de "I"), combinatorias, forma con introducción, desarrollo, climax y final.
 
