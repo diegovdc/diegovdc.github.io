@@ -143,7 +143,7 @@ const printObrasIndex = (selector_id, obras) => R.pipe(
 )(obras)
 
 
-// window.app = { home, conceptos, quintoSemestre, appendMd, getById, obras, printObrasIndex }
+window.app = { home, conceptos, quintoSemestre, appendMd, getById, obras, printObrasIndex }
 //  if (module.hot) {
 //     module.hot.accept();
 // } //permite hacer Hot Module Replacement
