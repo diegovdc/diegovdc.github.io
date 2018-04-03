@@ -4,9 +4,10 @@
 ### Para
 Jeanie-Aprille Tang
 Nava Dunkelman
-Andrew Jamieso
+Andrew Jamieson
 Jakob Pek
 Aaron Oppenheim
+Danishta Rivero
 
 <div id="narrativa"></div>
 
@@ -96,6 +97,8 @@ La metodología se puede describir en los siguientes pasos:
     6.1 Los materiales sonoros fueron producidos por mi. En algunos casos fueron grabaciones vocales de secciones de las piezas usadas (_Memories of a Wedding_,  _28 Palabas_), en otros pequeñas composiciones basadas en ideas musicales de las obras en cuestion (_Esprititu Penetrando En Árbol_). Para más detalles ver las sección [Micropiezas] más adelante. Sus partichelas indican el sonido a usar y caracter de su procesamieto. En relación con las interacciones de los músicos, ellos también se encargaron de procesarlos.
 
 
+ <div id="materiales-y-procesos-de-videcoic-one"></div>
+
 ## Materiales emergentes y los procesos propios de Videcoic One
 Si bien el órigen de todos los materiales están en las piezas que conforman _Videcoic_, hay procesos que sólo _Videocic_ hace posible y que no pueden advernir de ninguna dela piezas que lo conforman. Estos procesos son todos aquellos que definen la interacción entre las distintas piezas, o entre una misma pieza interpretada por dos músicos.
 
@@ -144,7 +147,9 @@ En las partichelas hay dos posibilidad que a veces alternan y a veces ocurren si
 > a. Very sparse  Forest  elements.
 > b. When singers sing“Inside”/”outside” freely echo-repeat-hybridize with cymbal or gong sounds.
 
-#### Andrew Jamieson, Piano:
+
+#### Andrew Jamieson, Piano
+
 > C. “Along calling calls in/out-side” [SEE SCORE]
 > Create a harmony with the ensemble, let it be cuasi-sustained.
 > As the song’s intensity grows, so does the sustaining of the sounds.
@@ -182,7 +187,7 @@ Primero porque un morfismo resulta difícil de capturar _analítica y conceptual
 
 En términos ciencias de la computación (y lo que hacemos al analizar y escribir es muchas veces computar) la aproximación textual que se eligió, resulta en un algorítmo sumamente eficiente (en lo que se denomina ["Time Complexity"](https://en.wikipedia.org/wiki/Time_complexity#/media/File:Comparison_computational_complexity.svg)), gracias a la posibilidad de delegar el procesamiento a funciones más aptas para ello (la escucha-analítico-kinética en tiempo real de un buen improvisador), además de que permite el uso de procesos que se puede paralelizar (realiazr a través de multiples músicos). Mientras que el proceso más tradicional se convierte en un algorítmo muy ineficiente conforme la cantidad de infromación a procesar aumenta, primero porque el esfuerzo de capturar y escribir requiere de la generación de múltiples representaciones intermedias que implican aun más procesos de codificación y decodificación y ocupan memoria, lo que expone a errores de todo tipo, segundo porque el proceso no es paralelizable, el compositor debe de terminar de transcribir o crear un fragmento antes de continuar con el siguiente.
 
-Lo que se pierde quizás con el algoritmo eficiente, es cierto grado de control sobre el resultado, pero control entendido meramente como capacidad de firma y apropiación de una idea, ya que la calidad del resultado nada tiene que ver con quién es aquel que puede llamarlo como suyo. Sin embargo, aun cuando como compositor no puedo apropiarme de todos los sonidos de mi obra (y me pregunto por qué necesitaría que todos tuvieran mi firma), ello no significa que no haya parte de mi en el resultado imaginación en cada uno de ellos, después de todo, una gran parte del material genético resultante de esos sonidos tiene su origen en materiales que efectivamente fueron escritos por mí. Más aun, el resultado comunitario de esos esfuerzos, podría argumentarse biológicamente, es tanto más capaz y potente, cuanto máyor intercambio hay, o dicho de otra manera, la música ambicionada en Videcoic One sería prácticamente imposible de no ser por el trabajo comunitario que permite de aproximacions más eficientes.
+Lo que se pierde quizás con el algoritmo eficiente, es cierto grado de control sobre el resultado, pero control entendido meramente como capacidad de firma y apropiación de una idea, ya que la calidad del resultado nada tiene que ver con quién es aquel que puede llamarlo como suyo. Sin embargo, aun cuando como compositor no puedo apropiarme de todos los sonidos de mi obra (y me pregunto por qué necesitaría que todos tuvieran mi firma), ello no significa que no haya parte de mi en el resultado imaginación en cada uno de ellos, después de todo, una gran parte del material genético resultante de esos sonidos tiene su origen en materiales que efectivamente fueron escritos por mí. Más aun, el resultado comunitario de esos esfuerzos, podría argumentarse biológicamente, es tanto más capaz y potente, cuanto máyor intercambio hay, o dicho de otra manera, la música ambicionada en Videcoic One sería prácticamente imposible de no ser por el trabajo comunitario que permite aproximacions más eficientes.
 
 
 
@@ -200,32 +205,103 @@ Lo que se pierde quizás con el algoritmo eficiente, es cierto grado de control 
 Dentro de los conceptos de los ciclos en los que se inscribe _28 Palabras_ (obras numéricas y modulares). La fragmentación de la obra para    
 
 
+## Contrapunto y conducción de músicas
+Las unidades de las que dispone _Videcoic_ para trabajar musicalmente son los diversos módulos que la conforman. Son, pues, unidades de más alto nivel que las notas con las que normalmente se trabaja una obra musical. El nivel de abstracción de los módulos los hace inconmensurablemente distintos de la notas, y sin embargo, _Videcoic_ se propone hacer con ellos lo mismo que una pieza ordinaria hace con sus notas, ponerlas unas sobre otras, crear lineas de flujo, diálogos, armonías. Incluso es posible hacer uso de procedmientos tan característicos como la inversión, como se [señala](#funciones-de-28-palabras) en la sección dedicada a _28 Palabras_ del presente análisis. Pero lo que al final se tiene son contrapuntos de contrapunto, armonías de armonías, toda la técnica contrapuntística elevada al cuadrado.
+
+Continuando con el [ejemplo citado anteriormente](#funciones-de-28-palabras), cuando en el **Prologo, sección C** se superpone varias capas de Abrazas, de _28 Palabras_ con _21 Nubes_ ([ellas saliendo de un proceso ecóico bastante complejo con 25 Campanas](#funciones-de-25-campanas)). Lo que se tiene es una textura contrapuntística sumamente saturada y que opera en múltiples dimensiones simultaneamente. Veamos:
+
+1. Abrazas es una pieza construida mediante la técnica de contrapunto macrotímbrico de Estrada. 
+    - Tenemos una línea de pulso en la respiración, 
+    - En ciertos puntos dos líneas de consonantes superpuestas, una linea de vocales que alterna con consontes (implicando un cierto pulso tambien)
+    - Una línea de altura para la emisión de baja presión de la voz, que podríamos decir que es estática pero que se encuentra en proceso de modulación (así que también se trata de una linea con tintes rítmicos)
+    - Se presenta además simultáneamente en 4 líneas sonoras que la manejan independientemente: voces y electrónicas. Estas últimas están construidas con varias grabaciones de "Abrazas" superpuestas.
+2. De _21 Nubes_ no podemos saber qué se está tocando, podemos asumir una voz, pero dado que esta escrita en [polifonia fluctuante](/obras/21-nubes#polifonia-fluctuante) podrían ser más (aunque Jamieson tiende a ejecutar la pieza en un estilos monofónico)
+3. _25 Campanas_ desaparece bastante en la grabación, pero de pronto genera ascentuación en los graves que dialogan con las pulsaciones hibridadas que vienen de los toms en la percusión.
+
+Ya con eso tendríamos 3 materiales distintos. Hay al comienzo de la sección dos lineas que corresponden a pares de electrónica y voces y la linea del piano que se distingue muy claramente. Conforme la sección avanzan hay cada vez hibridación y el numero de voces abrazantes aumenta, pero también hay presencia en la textura del pulsar de las campanas, y la línea de nubes que emerje y se sumerje en la nebulosa. La percepción de contrapuntos posibles oscila, la construcción macrotímbrica es bastante compleja aunque claramente no está hecha de materiales contrastantes, por que los sonidos se fusionan gradualmente en una especie de unísono de ruido hacia el término de la sección.
+
+Por otro lado tenemos un recurso interesante que se desprende, casí gratuitamente de la solución por la que se optó para manejar la multiplicidad de partituras, es decir, de la notación en las partichelas.  Tomemos también un ejemplo que ya usamos previamente:
+
+![Along Calling Calls In-out side 2](/public/images/videcoic-one/moaw-II-2.png)
+![Along Calling Calls In-out side 3](/public/images/videcoic-one/moaw-II-3.png)
+![Along Calling Calls In-out side 1](/public/images/videcoic-one/moaw-II-1.png)
+![Along Calling Calls In-out side 4](/public/images/videcoic-one/moaw-II-4.png)
+![Along Calling Calls In-out side 5](/public/images/videcoic-one/moaw-II-5.png)
+![Along Calling Calls In-out side 6](/public/images/videcoic-one/moaw-II-6.png)
+
+Visto contrapuntísticamente se observa lo siguiente:
+1. Las voces electrónicas se mueven al unísono.
+2. El resto de las voces comparte algunos elementos, mientras que otros son distintos. Algunos instrumentos hibridan con las voces, otros con  el primer movimiento de _Espiritu Penetrando en Árbol_, es decir el _Bosque_.
+3. _Along calling calls in/out-side_. Es una pieza que podríamos calificar como un canon no estricto (como _In C_ cf. [analisis del contrapunto de  25 Campanas, el cuál es muy similar](/obras/25-campanas#contrapunto)). 
+
+Obviando la multiplicidad de voces al interior de _Along calling calls in/out-side_, lo que llama la atención es que cada una de las voces exhibe 2 o 3 dimensiones distintas. Cada una un plano independiente. 
+A nivel de la forma de _Videcoic_ hay un movimiento que podríamos llamar "directo", que es el movimiento que mueve a las voces de una sección a otra, pero dentro de este movimiento hay movimientos independientes, y sobre estos o debajo, están los movimientos contrapuntísticos de _21 Nubes_,  _Along calling calls in/out-side_, _28 Palabras_ ("una estrella enloquecida") y el Bosque de _Espiritu Penetrando en Árbol_.
+
+Contamos entonces 3 niveles cada uno de los cuales puede tener contrapuntos dentro de sí:
+1. El nivel de la sección
+2. El nivel de la voz-instrumento
+3. El nivel de la entidad músical
+
+Ahora bien, el primer nivel en este ejemplo puede causar sospecha, pues no parece que puedan haber múltiples voces en el, sin embargo, hay muchas secciones que tiene indicacions de superposición, de hecho la siguiente sección es un caso de eso:
+
+![Escena 2, secciones D a G](/public/images/videcoic-one/s2-d-g.png)
+El proceso es análogo al realizado en el tercer movimiento de _Espíritu Penetrando en Árbol_ donde las [casillas de repetición se van acumulando](/obras/espiritu-penetrando-en-arbol#redes), y también al simple efecto "polifonificante" del pedal del piano, que en _21 Nubes_ sirve para realizar la ya citada polifonía fluctuante. Sólo que en lo casos anteriores se trata de algo muy distinto, en _Espíritu Penetrando en Árbol_, incluso sería dudoso llamarlo polifonía cuando lo que se genera es más bien una red de tímbres (sin embargo el proceso acumulativo viene de ahí), en _21 Nubes_ e contrapunto es a nivel de notas. En el caso presente se generan contrapuntos de secciones, que resultan en contrapuntos de procesos y contrapuntos de músicas, todo ello dentro de una misma voz.
+
+Esto no implica que una voz se tenga que sobresaturar, y que deba expresarlo todo a la vez.  Con el proceso de abstracción contrapuntístico del que hablamos, se posibilita manejar disintas dimensiones alternadamente, o quizá en un eventual virutosismo, también dimensiones simultáneas. Lo cambia con la abstracción es la idea misma del contrapunto, pero no eliminando el contenido de la idea anterior sino enqueciéndola con nuevas posibilidades. 
 
 
 
-
-## Roles de las diversas músicas en Videcoic
-Cada una de las piezas que conforman la obr cumple un papel distinto del de las demás.
+## Roles de las diversas músicas en Videcoic One
+Cada una de las piezas que conforman la obra cumple un papel distinto  de las demás.
 (Volvemos a copiar el mapa de la obra para facilitar la referencia:)
 ![Mapa de Videcoic One](/public/images/videcoic-one/mapa.png)
 
 <div id="funciones-de-memories-of-a-wedding"></div>
 
 ### Memories of a Wedding
+(Original para 2 voces y 1 o más instrumentos)
 Provee el eje principal sobre el que se construye _Videcoic One_, tanto narrativa como musicalmente. Es la única de la obras cuyas piezas se tocan concertadamente por todo el ensamble (diferencia de todas las demás cuyos su materiales estan esparcidos a lo largo de la obra). Dada su concentración y unicidad dentro de Videcoic, no hay demasiado que se pueda decir de ella. Todo pasa a su alrededor, es de algun modo la piedra ángular, su centro inmovil. Nótese que la partitura especifica 5 piezas, mientras que la partitura provista contiene únicamente 4. La quinta pieza está perdida.
+
+Una conexión un tanto casual, pero compresibla dadas los interes de este tipo de obras es que _28 Palabras_ comienza con la palabra "Tu", mientras que _Memories of a Wedding_ termina con "You". La conexión hazo muy clara una vez que se traduce _28 Palabras_ y de hecho se explota en la partitura.
+
+En relación con este tipo de conexiones, la última pieza de _Memories of a Wedding_, _Together-songs erupting interplay_ maneja el texto y los motivos que lo hacen sonar de una manera sumamente similar a los descrito en [Materiales emergentes y los procesos propios de Videcoic One](#materiales-y-procesos-de-videcoic-one), sólo que en el caso de esta canción, el trabajo "ecoico" se da en su expresión más sencilla posible:
+
+Ecoicidad del texto:
+
+> To get there together, to gather to get there together, to gather songs to get together. Together-songs. Erupting songs. Together erupting to get erupting songs. Erupting in two, erupting together in songs in inter play I erupt in two, together erupting in inter play I in two, I in uh, aee uh, I-You in-you, together I(aee) in you(uh).
+
+
+Ecoicidad de la motivica:
+
+<div class="inline-images">
+
+![Morfología triangular 1](/public/images/memories-of-a-wedding/morfologia-triangular-1.png)
+![Morfología triangular 2](/public/images/memories-of-a-wedding/morfologia-triangular-2.png)
+![Morfología triangular 3](/public/images/memories-of-a-wedding/morfologia-triangular-3.png)
+![Morfología triangular 4](/public/images/memories-of-a-wedding/morfologia-triangular-4.png)
+![Morfología triangular 5](/public/images/memories-of-a-wedding/morfologia-triangular-5.png)
+![Morfología triangular 6](/public/images/memories-of-a-wedding/morfologia-triangular-6.png)
+![Morfología triangular 7](/public/images/memories-of-a-wedding/morfologia-triangular-7.png)
+![Morfología triangular 8](/public/images/memories-of-a-wedding/morfologia-triangular-8.png)
+</div>
+
+Cf. el análisis de este verso en [Memories of a Wedding](/obras/memories-of-a-wedding#together-songs-erupting-interplay)
+
+Como prueba de las potencia técnica de transformar el sentido en la recontextualización, el texto citado, adquiere aquí un significado totalmente distinto, las "Together-songs" son aquí las _obras modulares_ (no los cantos de la pareja), aunque en ambos casos son _cantos que unen lo diverso_. Tenemos pues una serie de vínculos, de reflejos entre estructuras _macro_, las de _Videcoic_ y estructuras _mico_, las de una pieza, un motivo, una palabra. Ambas apuntan hacia una fractalidad en la construcción.
 
 <div id="funciones-de-espiritu-penetrando-en-arbol"></div>
 
 ### Espiritu Pentrando en Árbol
+(Original para flauta, también se ha grabado parcialmente en versión para voz y cinta)
 Es por, así decirlo, el eje coprincipal. Narrativamente provee al personaje principal y buena parte de la ambientación. Musicalmente es la que menos influencia literal tiene en la obra ya que originalmente no fue diseñada como una obra modular. Lo que se hizo fue hacer una especie de abstracción de la obra.  En general sus materiales originales para flauta se convirtieron en descripciones textuales, la partitura funcionando meramente como un punto de referencia, por ejemplo, para ayudar caracterizar y ensamblar el movimiento del Espíritu (que en Videcoic son dos). 
 
 También provee, como imagen, esencia e idea, uno de los momento más bellos de toda la pieza, _el corazón del Árbol-Mundo_, que en la partitura de _Espiritu Penetrando en Árbol_ aparece en el **movimiento 3 parte D**. En la original éste momento incluye todos los material de la obra, y el música puede navegar la red moviéndose de uno a otro, es el Espíritu dentro del Árbol, explorándolo.  
 
+![Al interior del árbol](/public/images/epa/epa-red.png)
+
 En _Videcoic One_ este momento lleva la indicación: 
-> D. Traveling-feeling back and forth the whole tree, agile and full of immediacy
-> Gradually arrive to the World-Tree Texture: 
-> A Glorious full sound –Bright, clear, white–, enjoy for a while! Clouds 
-> hybridized with the Spirit’s style of movement: Voices are diluted in the instrumental sound.
+
+![25 Campanas](/public/images/videcoic-one/28w-p-JAT.png)
 
 En las partichelas se piden Nubes y Campanas y un sonido muy grande. La partitura por el contrario pide lo siguiente: 
 > A partir de todo lo anterior, llegar a lo que sea para el ensamble "El corazón del Árbol-Mundo"
@@ -234,11 +310,11 @@ Es el momento central de la obra, y lo que se le da al músico es la completa li
 
 Esa referencia a todos los materiales precedentes en la original era la totalidad del Árbol y la totalidad de la pieza. Aquello, la referencia, era lo más esencial de esa sección (por encima de todo lo técnico y composicional).  La referncia como tal ve transpuesta con precisión en _Videcoic One_: la música pasada _tenía_ que influir en ese momento porque había ya largo impulso detrás (el _contexto del sentido_ del que hemos hablado antes), y no había mejor manera de comprobar que así sería que dejando ese momento libre y observando lo que estaba por suceder.
 
-![Al interior del árbol](/public/images/epa/epa-red.png)
 
 <div id="funciones-de-28-palabras"></div>
 
 ### 28 Palabras
+(Original para voz sola)
 Es el _cantus firmus_ de de _Videcoic One_. Esta pieza va sonando palabra por palabra, aunque no en su totalidad, sosteniendo, reflejando y contrapunteado lo que ocurre en los diversos momentos de la narrativa. Como miembro del ciclo _obras numéricas_ es una pieza hecha de miniaturas, 28 palabras dibujadas con esmero. Algunas de las _28 Palabras_ fueron seleccionadas para la obra. La escritura macrotímbrica y la apertura interpretativa de las _obras modulares_ permitieron hacer grabaciones donde se superpusieran estas palabras e interactuaran con extremada riqueza timbrica entre ellas. Las interacciónes se dieron a luz de lo que ocurre en la obra y sirvieron para dar cierta forma e inspirar ideas, a través de las texturas sonoras pregrabadas, a la interpretación del ensamble.  
 
 La imagen de la estrella es sin duda, uno de los aportes de esta obra al Prologo de _Videcoic_, si bien cosmológicamente complemente errada, como metonímia funciona para señalar el pasado, el origen del tiempo y otras cualidades. "Abrazas" resuena bien en este momento, al igual que en el poema original, con el concepto de temperatura (abrasar) y el de amor-pasión-eros (abrazar), y la sonoridad aerosa del original permite fusionar varias voces en una Nebulosa que también se compone con fibras extraidas de _21 Nubes_.
@@ -247,25 +323,63 @@ La imagen de la estrella es sin duda, uno de los aportes de esta obra al Prologo
 
 Estas grabaciones, por cierto, posteriormente se reprodujeron en vivo, en versiones transformadas y sin transformar por quienes se ocuparon de la electrónica. Por ejemplo, en  **Prologo parte C**, tenemos un juego de simetrías por medio de inversiones tímbricas:
 
-Narrativa:
+#### Prologo parte C
+
+#### Narrativa:
 > During Creation, Spirit immediately split into a multiplicity. Along with such a split, and as it's cause, Love also came into existence as the force through which everything strives and “borns/burns” towards: Unity...
 
-Para Jeannie Aprille Tang:
-> C. “Abrasas”/“Borning”: Stars [Separation-yeanring]
-> Follow Diego Villaseñor’s “Abrasas” (to hug/ember).
-> At first conceal source of the sample (that it’s a voice and a male), gradually intensify it and reveal it.
+#### Jeannie Aprille Tang, Electrónica:
+![25 Campanas](/public/images/videcoic-one/28w-p-JAT.png)
 
-Para Aaron Oppenheim:
-> C. “Abrasas”/“Borning”: Stars [Separation-yearing]
-> Follow Danishta Riveros’s “Abrasas” (to hug/ember).
-> At first conceal source of the sample (that it’s a voice and a female), gradually intensify it and reveal it.
-
+#### Aaron Oppenheim, Electrónica:
+![25 Campanas](/public/images/videcoic-one/28w-p-AO.png)
 
 
 
 <div id="funciones-de-25-campanas"></div>
+
+### 25 Campanas
+(Original para 1 o 2 guitarras eléctricas)
+Esta obra juega un papel un tanto secundario, pero se utiliza para marcar eventos importantes (en un sentido semejante al del tam-tam en la orquesta). Aparece justo al comienzo de _Videcoic_, durante el _Big Bang_, en la guitarra y el piano. Es una especie de quebrar de la campana que rompe el tejido del silencio. Acompaña a un "You" salido de _28 Palabras_: cargando el momento con el signo de la otredad. Justo al final de la obra, vuelva a aprecer, igualmente resonando con las frases "I in You" y "I in Two", que ahora aparecen como ecos lejanos y suaves de aquel quiebre, pero también su reunión.
+
+#### Prologo 
+#### Jakob Pek, Guitarra y Andrew Jamieson, Piano:
+![25 Campanas](/public/images/videcoic-one/25b-p-JP.png)
+
+
+##### Epilogo
+#### Jakob Pek, Guitarra
+![25 Campanas](/public/images/videcoic-one/25b-e-JP.png)
+
 <div id="funciones-de-21-nubes"></div>
+
+### 21 Nubes
+(Original para piano solo, también existe versión para Quinteto de Alientos)
+Las nubes son una entidad muy flexible, aparecen como nubes cósmicas (Nebulosas), nubes oscuras, claras y vaporosas. La armonía y la melodía de esta pieza se puede describir sucintamente como un simple algorítmo: "intervalos 1, 2 y 3, dentro de una escala diatónica". Ello permite que además de las nubes inventadas en la partitura, otras nubes se puedan crear, las cuales compartirán el mismo código genético que las de la partitura. 
+
+Después de la campana inicial del, tenemos una nebulosa que enamana del piano, hace ecos de las voces e hibrida con el ensamble y que luego hibrida con las resonancias de las campana en la guitarra (llevano consigo, posiblemente los animos de las voces y el ensamble).
+
+#### Prologo 
+#### Andrew Jamieson, Piano
+![21 Nubes](/public/images/videcoic-one/21c-p-AJ.png)
+
+#### Jakob Pek, Guitarra
+![21 Nubes](/public/images/videcoic-one/21c-p-JP.png)
+
+En otros momentos las nubes sólo están ahí, de fondo:
+#### Escena 2
+#### Andrew Jamieson, Piano
+![21 Nubes](/public/images/videcoic-one/21c-s2-AJ.png)
+
+
+También aparece la grabación del quintento de alientos. Aun cuando éste ensamble jamás hubiera pensado que participarían, la música se integra con extrema facilidad y no suena ajena en caracter*, pero crea un extraño efecto, una acusmática invertida: se identifican los timbres, la fuente genética del material también, pero los instrumentos permanecen ocultos, como si llamaran desde algun lugar lejano del Árbol-Mundo
+* Demostrando que la capacidad integrativa de estas obras modulares se extiende más allá de los músicos en el escenario
+
+#### Epilogo
+#### Jeanie Aprille Tang, Electrónica
+![21 Nubes](/public/images/videcoic-one/21c-e-JAT.png)
+
 
 
 # Conclusiones
-Sobre las teorías sobre las que se basa _Videcoic One_, lo que implica su posibilidad y lo que se puede decir de la certeza de sus resultados, es necesario mencionar que se trata de una obra cuyo periodo de incubación fue bastante largo (prácticamente 2 años, considerando la escritura de las que la integran). La pieza se ha tocado sólo una vez, con pocos ensayos, dando un resultado que lo que a mi juicio es satisfactorio y muestra el potencial y la efectividad de la notación. Sin embargo, la ausencia de mayores ensayos, reflexion, y desarrollo de más piezas en esta vena, implican que los resultados no son suficientes para hablar sacar conclusiones definitivas al respecto de las preguntas que plantea: ¿Si demuestra las teorías?, ¿hasta que grado se puede refinar los resultados de los procesos de transformación?, ¿cómo podrían evolucionar estas músicas si los músicos se familiarizaran más con ellas, y las exploraran en diversas configuraciones y contextos?. Sin embargo, creo que los resultados hasta el momento son prometedores y las preguntas sugieren respuestas tentadoras cuyo interés trasciendería a los proyectos relacionados con _Videoic_ e incluso con mi obra en general.
+Sobre las teorías sobre las que se basa _Videcoic One_, lo que implica su posibilidad y lo que se puede decir de la certeza de sus resultados, es necesario mencionar que se trata de una obra cuyo periodo de incubación fue bastante largo (prácticamente 2 años, considerando la escritura de las que la integran). La pieza se ha tocado sólo una vez, con pocos ensayos, dando un resultado que lo que a mi juicio es satisfactorio y muestra el potencial y la efectividad de la notación. Sin embargo, la ausencia de mayores ensayos, reflexion, y desarrollo de más piezas en esta vena, implican que los resultados no son suficientes para hablar sacar conclusiones definitivas al respecto de las preguntas que plantea: ¿Si demuestra las teorías?, ¿hasta que grado se puede refinar los resultados de los procesos de transformación?, ¿cómo podrían evolucionar estas músicas si los músicos se familiarizaran más con ellas, y las exploraran en diversas configuraciones y contextos?. Sin embargo, creo que los resultados hasta el momento son prometedores y las preguntas sugieren respuestas tentadoras cuyo interés trasciendería a los proyectos relacionados con _Videcoic_ e incluso con mi obra en general.
