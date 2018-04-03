@@ -7,6 +7,31 @@ description: para piano solo / para quinteto de alientos
 ---
 
 # 21 Nubes
+## Partituras y Grabaciónes
+### Descargar [Partitura](/public/scores/21-nubes.pdf) manuscrito original
+
+### Descargar [Partitura](/public/scores/21-nubes-digital.pdf), version digitalizada
+
+### Descargar [Partitura](/public/scores/21-nubes-wq.pdf), versión quinteto de alientos
+
+
+### Descargar [Audio](/public/tracks/21-nubes-wq.mp3) de 21 Nubes versión piano
+<audio controls src="/public/tracks/21-nubes-wq.mp3"></audio>
+
+Diego Villaseñor, piano
+
+
+### Descargar [Audio](/public/tracks/21-nubes-wq.mp3) de 21 Nubes versión Quinteto de Alientos
+<audio controls src="/public/tracks/21-nubes-wq.mp3"></audio>
+
+Quinteto de Alientos de la Ciudad de México
+
+
+### Descargar [Audio](/public/tracks/21-nubes-y-28-palabras-version-1.mp3) de 21 Nubes y 28 Palabras, versión 1
+<audio controls src="/public/tracks/21-nubes-y-28-palabras-version-1.mp3"></audio>
+
+Diego Villaseñor, Voz  
+Andrew Jamieson, Piano  
 
 ## Nota al programa
 En veintiún melodías, esbozo de una metáfora del momento, del crecimiento y de lo efímero. 
@@ -100,18 +125,18 @@ Esta serie tiene tres niveles:
     
     3.2 Al segundo en tanto que<!-- se elabora un discurso cuya forma es la de una sóla extensa melodía. Entonces  --> al referir a otras variaciones podemos hablar de variaciones que compuestas de otras variaciones o que son variaciones de variaciones.
     
-        3.2.1 Por ejemplo, las variaciones correspondientes a las _miniaturas 7_ (melodía ascendente) y _8_ (melodía descendente), donde la segunda es variación de la primera. 
+      3 Por ejemplo, las variaciones correspondientes a las _miniaturas 7_ (melodía ascendente) y _8_ (melodía descendente), donde la segunda es variación de la primera. 
     
     ![minitaturas 7 y 8](/public/images/21-nubes/7-8.png)
 
-        Éstas además se componen naturalmente en una frase, la cuál se verá variada en las _minitaturas 18_ (melodía descendente) y _19_ (melodía ascendente). 
+    Éstas además se componen naturalmente en una frase, la cuál se verá variada en las _minitaturas 18_ (melodía descendente) y _19_ (melodía ascendente). 
     
     ![minitaturas 18 y 19](/public/images/21-nubes/18-19.png)
         
-        Este proceso se puede analizar tanto como una retrogradación al nivel de las variaciones (_variación ascendente_ seguida por _variación descendente_ --> _variación descendente_ seguida por _variación ascendente_), o como una inversión (necesariamente variada) del contorno de la frase conformada por _7 y 8_. 
+    Este proceso se puede analizar tanto como una retrogradación al nivel de las variaciones (_variación ascendente_ seguida por _variación descendente_ --> _variación descendente_ seguida por _variación ascendente_), o como una inversión (necesariamente variada) del contorno de la frase conformada por _7 y 8_. 
     
         
-        3.2.2 Hablamos así de un juego de variaciones elaborado como variaciones de variaciones, una especie de juego de espejos donde cada relejo multiplica los elementos previamente reflejados.
+    3.2.2 Hablamos así de un juego de variaciones elaborado como variaciones de variaciones, una especie de juego de espejos donde cada relejo multiplica los elementos previamente reflejados.
 
 <div id="serie-melodica-infinita"></div>
 ### Serie melódica infinita

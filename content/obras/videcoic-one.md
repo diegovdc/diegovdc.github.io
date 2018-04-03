@@ -7,10 +7,15 @@ description: Para voces y ensamble electroacústico
 ---
 
 
-# {Videcoic One}, para voces y ensamble electroacústico
+# {Videcoic One}
+
+## Partitura y Grabación
+### Descargar [Partitura](/public/scores/videcoic-one.pdf)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s15OA9nZ7AY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ## Nota al programa
-### Para
+### A
 Jeanie-Aprille Tang  
 Nava Dunkelman  
 Andrew Jamieson  
@@ -38,7 +43,7 @@ A través de Matrimonio, Espíritu descubre y penetra en la profunda realidad 
 ## Introducción
 ![Mapa de Videcoic One](/public/images/videcoic-one/mapa.png)
 
-_Videcoic One_ es la primera obra que trabajo que cumple con el visión de las _obras modules_: lograr una música donde otras músicas completamente independientes puedan participar e integrarse de un modo orgánico, como si se tratara de seres vivos coexistiendo dentro de un ecosistema.
+_{Videcoic One}, para voces y ensamble electrocústico_ es la primera obra que trabajo que cumple con el visión de las _obras modules_: lograr una música donde otras músicas completamente independientes puedan participar e integrarse de un modo orgánico, como si se tratara de seres vivos coexistiendo dentro de un ecosistema.
 
 ### Un poco de teoría
 La teoría que sirvió como principio constructivo fue investigada y desarrollada durante la escritura de mi tesis de licenciatura en filosofía. Esta exploró la formación de sentido en el pensamiento para respoder las preguntas ¿cómo y por qué las ideas que se nos presentan adquieren el sentido que adquieren y no otro?, y también ¿cómo es que esos sentidos se transforman? En síntesis la explicación propuesta es la siguiente: el sentido se genera por la contaposición de los distintos elementos contenidos en una representación y por las maneras en las que se vinculan estos elementos. La razón por la cuál dos personas pueden interpretar de manera distinta el sentido de una experiencia o una idea es porque al rededor de lo distintos elementos involucrados cada persona genera diferentes asociaciones con estos elementos. La transformación de un sentido en otro requiere al menos una de dos cosas, la ampliación del contexto y/o la transformación de las relaciones entre los elementos.
@@ -67,7 +72,7 @@ La metodología se puede describir en los siguientes pasos:
 
 2. Conjunción de las obras, se las ingresó en un mismo contexto, se las observo y se elaboró un plan, en forma de narrativa que pudiera articular la forma a gran escala.
     
-    2.1 Se eligieron las siguientes obras [Espiritu Penetrando en Árbol](/obras/espiritu-penetrando-en-arbol), [21 Nubes](/obras/21-nubes), [25 Campanas](/obras/25-campanas), [28 Palabras](/obras/28-palabras) y [Memories of a Wedding](/obras/memories-of-a-wedding)
+    2.1 Se eligieron las siguientes obras [Espiritu Penetrando en Árbol](/obras/espiritu-penetrando-en-arbol.html), [21 Nubes](/obras/21-nubes.html), [25 Campanas](/obras/25-campanas.html), [28 Palabras](/obras/28-palabras.html) y [Memories of a Wedding](/obras/memories-of-a-wedding.html)
 
     2.2 Uno de los primeros razgos que llamaron la atención fueron las imágenes de cada una de las obras: Espritu, Árbol, Boda, Nubes, Campanas, y varias Palabras.
 
@@ -228,7 +233,7 @@ Continuando con el [ejemplo citado anteriormente](#funciones-de-28-palabras), cu
 
     - Se presenta además simultáneamente en 4 líneas sonoras que la manejan independientemente: voces y electrónicas. Estas últimas están construidas con varias grabaciones de "Abrazas" superpuestas.
 
-2. De _21 Nubes_ no podemos saber qué se está tocando, podemos asumir una voz, pero dado que esta escrita en [polifonia fluctuante](/obras/21-nubes#polifonia-fluctuante) podrían ser más (aunque Jamieson tiende a ejecutar la pieza en un estilos monofónico)
+2. De _21 Nubes_ no podemos saber qué se está tocando, podemos asumir una voz, pero dado que esta escrita en [polifonia fluctuante](/obras/21-nubes.html#polifonia-fluctuante) podrían ser más (aunque Jamieson tiende a ejecutar la pieza en un estilos monofónico)
 
 3. _25 Campanas_ desaparece bastante en la grabación, pero de pronto genera ascentuación en los graves que dialogan con las pulsaciones hibridadas que vienen de los toms en la percusión.
 
@@ -246,7 +251,7 @@ Por otro lado tenemos un recurso interesante que se desprende, casí gratuitamen
 Visto contrapuntísticamente se observa lo siguiente:
 1. Las voces electrónicas se mueven al unísono.
 2. El resto de las voces comparte algunos elementos, mientras que otros son distintos. Algunos instrumentos hibridan con las voces, otros con  el primer movimiento de _Espiritu Penetrando en Árbol_, es decir el _Bosque_.
-3. _Along calling calls in/out-side_. Es una pieza que podríamos calificar como un canon no estricto (como _In C_ cf. [analisis del contrapunto de  25 Campanas, el cuál es muy similar](/obras/25-campanas#contrapunto)). 
+3. _Along calling calls in/out-side_. Es una pieza que podríamos calificar como un canon no estricto (como _In C_ cf. [analisis del contrapunto de  25 Campanas, el cuál es muy similar](/obras/25-campanas.html#contrapunto)). 
 
 Obviando la multiplicidad de voces al interior de _Along calling calls in/out-side_, lo que llama la atención es que cada una de las voces exhibe 2 o 3 dimensiones distintas. Cada una un plano independiente. 
 A nivel de la forma de _Videcoic_ hay un movimiento que podríamos llamar "directo", que es el movimiento que mueve a las voces de una sección a otra, pero dentro de este movimiento hay movimientos independientes, y sobre estos o debajo, están los movimientos contrapuntísticos de _21 Nubes_,  _Along calling calls in/out-side_, _28 Palabras_ ("una estrella enloquecida") y el Bosque de _Espiritu Penetrando en Árbol_.
@@ -261,7 +266,7 @@ Contamos entonces 3 niveles cada uno de los cuales puede tener contrapuntos dent
 Ahora bien, el primer nivel en este ejemplo puede causar sospecha, pues no parece que puedan haber múltiples voces en el, sin embargo, hay muchas secciones que tiene indicacions de superposición, de hecho la siguiente sección es un caso de eso:
 
 ![Escena 2, secciones D a G](/public/images/videcoic-one/s2-d-g.png)
-El proceso es análogo al realizado en el tercer movimiento de _Espíritu Penetrando en Árbol_ donde las [casillas de repetición se van acumulando](/obras/espiritu-penetrando-en-arbol#redes), y también al simple efecto "polifonificante" del pedal del piano, que en _21 Nubes_ sirve para realizar la ya citada polifonía fluctuante. Sólo que en lo casos anteriores se trata de algo muy distinto, en _Espíritu Penetrando en Árbol_, incluso sería dudoso llamarlo polifonía cuando lo que se genera es más bien una red de tímbres (sin embargo el proceso acumulativo viene de ahí), en _21 Nubes_ e contrapunto es a nivel de notas. En el caso presente se generan contrapuntos de secciones, que resultan en contrapuntos de procesos y contrapuntos de músicas, todo ello dentro de una misma voz.
+El proceso es análogo al realizado en el tercer movimiento de _Espíritu Penetrando en Árbol_ donde las [casillas de repetición se van acumulando](/obras/espiritu-penetrando-en-arbol.html#redes), y también al simple efecto "polifonificante" del pedal del piano, que en _21 Nubes_ sirve para realizar la ya citada polifonía fluctuante. Sólo que en lo casos anteriores se trata de algo muy distinto, en _Espíritu Penetrando en Árbol_, incluso sería dudoso llamarlo polifonía cuando lo que se genera es más bien una red de tímbres (sin embargo el proceso acumulativo viene de ahí), en _21 Nubes_ e contrapunto es a nivel de notas. En el caso presente se generan contrapuntos de secciones, que resultan en contrapuntos de procesos y contrapuntos de músicas, todo ello dentro de una misma voz.
 
 Esto no implica que una voz se tenga que sobresaturar, y que deba expresarlo todo a la vez.  Con el proceso de abstracción contrapuntístico del que hablamos, se posibilita manejar disintas dimensiones alternadamente, o quizá en un eventual virutosismo, también dimensiones simultáneas. Lo cambia con la abstracción es la idea misma del contrapunto, pero no eliminando el contenido de la idea anterior sino enqueciéndola con nuevas posibilidades. 
 
@@ -301,7 +306,7 @@ Ecoicidad de la motivica:
 ![Morfología triangular 8](/public/images/memories-of-a-wedding/morfologia-triangular-8.png)
 </div>
 
-Cf. el análisis de este verso en [Memories of a Wedding](/obras/memories-of-a-wedding#together-songs-erupting-interplay)
+Cf. el análisis de este verso en [Memories of a Wedding](/obras/memories-of-a-wedding.html#together-songs-erupting-interplay)
 
 Como prueba de las potencia técnica de transformar el sentido en la recontextualización, el texto citado, adquiere aquí un significado totalmente distinto, las "Together-songs" son aquí las _obras modulares_ (no los cantos de la pareja), aunque en ambos casos son _cantos que unen lo diverso_. Tenemos pues una serie de vínculos, de reflejos entre estructuras _macro_, las de _Videcoic_ y estructuras _mico_, las de una pieza, un motivo, una palabra. Ambas apuntan hacia una fractalidad en la construcción.
 

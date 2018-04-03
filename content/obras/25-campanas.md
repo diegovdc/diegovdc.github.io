@@ -8,6 +8,13 @@ description: para una o dos guitarras eléctricas
 
 # 25 Campanas
 
+## Partitura y Grabación
+### Descargar [Partitura](/public/scores/25-campanas.pdf)
+
+### Descargar [Audio](/public/tracks/25-campanas.mp3)
+<audio controls src="/public/tracks/25-campanas.mp3"></audio>
+Ramón Arias y Diego Villaseñor, Guitarras
+
 ## Nota al Programa
 A Ramis Lao en su cumpleaños número 25, música para una o dos guitarras eléctricas.
 Una sección por año de vida y un sonido nuevo por cada año.

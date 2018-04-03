@@ -29,13 +29,79 @@ body {
 	margin: 0 auto;
 }
 .main-ttl {
-	font-size: 30px;
+	font-size: 50px;
 	margin-bottom: 30px;
 	text-align: center;
 	a {
 		text-decoration: underline;
 		color: orange;
 	}
+}
+
+.main-logo {
+	width: 150px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	filter: grayscale(100%);
+	opacity: 0.5;
+	@include under(650px) {
+		// margin-bottom: 40px;
+	}
+}
+
+.main-sbttl {
+	font-size: 30px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.semestre-container {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: nowrap;
+	margin-bottom: 40px;
+	text-align: center;
+	@include under(650px) {
+		margin-bottom: 0;
+		width: 100%;
+		flex-wrap: wrap;
+	}
+
+	& > div {
+		padding: 0 10px;
+		width: (100%/3);
+		@include under(650px) {
+			width: 100%;
+			margin-bottom: 40px;
+		}
+	}
+
+	h2 {
+		font-weight: bold;
+		font-size: 25px;
+		cursor: pointer;
+		margin-bottom: 10px;
+	}
+
+	h3 {
+		font-size: 20px;
+		margin-bottom: 10px;
+		text-decoration: underline;
+		color: #34986a;
+		@include link-states {
+			color: #34b76a;
+
+		}
+	}
+	&.featured {
+		margin-bottom: 20px;
+		h3 {
+			font-size: 24px;
+		}
+	}
+}
+.semestre-work-container {
+	margin-bottom: 20px;
 }
 
 .track {

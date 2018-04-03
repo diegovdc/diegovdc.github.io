@@ -8,6 +8,23 @@ description: para voz sola
 
 # 28 Palabras
 
+## Partitura y Grabaciónes
+### Descargar [Partitura](/public/scores/28-palabras.pdf)
+
+### Descargar [Audio](/public/tracks/21-nubes-y-28-palabras-version-1.mp3) de 21 Nubes y 28 Palabras, versión 1
+<audio controls src="/public/tracks/21-nubes-y-28-palabras-version-1.mp3"></audio>
+
+Diego Villaseñor, Voz  
+Andrew Jamieson, Piano  
+
+### Descargar [Audio](/public/tracks/21-nubes-y-28-palabras-version-2.mp3) de 21 Nubes y 28 Palabras, versión 2
+<audio controls src="/public/tracks/21-nubes-y-28-palabras-version-2.mp3"></audio>
+
+Diego Villaseñor, Voz  
+Andrew Jamieson, Piano 
+
+
+
 ## Nota al programa
 
 > Tu

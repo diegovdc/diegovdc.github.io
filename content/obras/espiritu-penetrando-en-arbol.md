@@ -1,12 +1,29 @@
 ---
 title: Espíritu Penetrando en Árbol
-slug: epa
-id: epa
+slug: espiritu-penetrando-en-arbol
+id: espiritu-penetrando-en-arbol
 order: 6
 description: para flauta sola / para voz y cinta
 ---
 
-# Espríritu Penetrando en Árbol
+# Espíritu Penetrando en Árbol
+
+## Partitura y Grabaciónes
+### Descargar [Partitura](/public/scores/espiritu-penetrando-en-arbol.pdf)
+
+### Descargar [Audio](/public/tracks/espiritu-penetrando-en-arbol-flauta.mp3), versión Flauta
+<audio controls src="/public/tracks/espiritu-penetrando-en-arbol-flauta.mp3"></audio>
+
+Wilfrido Terrazas, Flauta  
+
+### Descargar [Audio](/public/tracks/espiritu-penetrando-en-arbol-mvt-3-voz.mp3) del Tercer Movimiento, versión Voz y Cinta
+<audio controls src="/public/tracks/espiritu-penetrando-en-arbol-mvt-3-voz.mp3"></audio>
+
+Diego Villaseñor, Voz  
+
+
+
+
 
 ## Nota al programa
 Espíritu penetrando en Árbol nace de la exploración del modo en el que una representación visual puede ser escuchada. Se toma un dibujo y se decide sobre él un recorrido visual según la intuición del oído, el sonido emana inconscientemente como respuesta a los gestos del lápiz sobre el papel.

@@ -1,7 +1,7 @@
 ---
 title: Memories of a Wedding
-slug: moaw
-id: moaw
+slug: memories-of-a-wedding
+id: memories-of-a-wedding
 order: 5
 description: para dos voces y uno o más instrumentos
 ---
@@ -9,6 +9,16 @@ description: para dos voces y uno o más instrumentos
 
 
 # Memories of a Wedding
+
+## Partitura y Grabación
+### Descargar [Partitura](/public/scores/memories-of-a-wedding.pdf)
+
+### Escuchar dentro de [Videcoic One](/obras/videcoic-one.html) 
+
+Nota: aún no hay grabación individual de esta obra
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s15OA9nZ7AY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ## Nota al programa
 Música para dos voces y uno o más instrumentos, para crear y explorar en comunidad.  
