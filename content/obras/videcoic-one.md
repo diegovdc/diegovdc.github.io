@@ -211,11 +211,16 @@ Las unidades de las que dispone _Videcoic_ para trabajar musicalmente son los di
 Continuando con el [ejemplo citado anteriormente](#funciones-de-28-palabras), cuando en el **Prologo, sección C** se superpone varias capas de Abrazas, de _28 Palabras_ con _21 Nubes_ ([ellas saliendo de un proceso ecóico bastante complejo con 25 Campanas](#funciones-de-25-campanas)). Lo que se tiene es una textura contrapuntística sumamente saturada y que opera en múltiples dimensiones simultaneamente. Veamos:
 
 1. Abrazas es una pieza construida mediante la técnica de contrapunto macrotímbrico de Estrada. 
-    - Tenemos una línea de pulso en la respiración, 
+    - Tenemos una línea de pulso en la respiración
+    
     - En ciertos puntos dos líneas de consonantes superpuestas, una linea de vocales que alterna con consontes (implicando un cierto pulso tambien)
+    
     - Una línea de altura para la emisión de baja presión de la voz, que podríamos decir que es estática pero que se encuentra en proceso de modulación (así que también se trata de una linea con tintes rítmicos)
+
     - Se presenta además simultáneamente en 4 líneas sonoras que la manejan independientemente: voces y electrónicas. Estas últimas están construidas con varias grabaciones de "Abrazas" superpuestas.
+
 2. De _21 Nubes_ no podemos saber qué se está tocando, podemos asumir una voz, pero dado que esta escrita en [polifonia fluctuante](/obras/21-nubes#polifonia-fluctuante) podrían ser más (aunque Jamieson tiende a ejecutar la pieza en un estilos monofónico)
+
 3. _25 Campanas_ desaparece bastante en la grabación, pero de pronto genera ascentuación en los graves que dialogan con las pulsaciones hibridadas que vienen de los toms en la percusión.
 
 Ya con eso tendríamos 3 materiales distintos. Hay al comienzo de la sección dos lineas que corresponden a pares de electrónica y voces y la linea del piano que se distingue muy claramente. Conforme la sección avanzan hay cada vez hibridación y el numero de voces abrazantes aumenta, pero también hay presencia en la textura del pulsar de las campanas, y la línea de nubes que emerje y se sumerje en la nebulosa. La percepción de contrapuntos posibles oscila, la construcción macrotímbrica es bastante compleja aunque claramente no está hecha de materiales contrastantes, por que los sonidos se fusionan gradualmente en una especie de unísono de ruido hacia el término de la sección.
@@ -239,7 +244,9 @@ A nivel de la forma de _Videcoic_ hay un movimiento que podríamos llamar "direc
 
 Contamos entonces 3 niveles cada uno de los cuales puede tener contrapuntos dentro de sí:
 1. El nivel de la sección
+
 2. El nivel de la voz-instrumento
+
 3. El nivel de la entidad músical
 
 Ahora bien, el primer nivel en este ejemplo puede causar sospecha, pues no parece que puedan haber múltiples voces en el, sin embargo, hay muchas secciones que tiene indicacions de superposición, de hecho la siguiente sección es un caso de eso:
