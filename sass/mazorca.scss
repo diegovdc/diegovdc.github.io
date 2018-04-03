@@ -1,7 +1,9 @@
 @charset "UTF-8";
 //===Mazorca Core===//
 @import "node_modules/mazorca-core/_mazorca-core.scss";
-
+img {
+	width: unset;
+}
 //===Configs===//
 @import "mazorca/config/_config";
 
@@ -155,4 +157,10 @@ body {
 
 [src="/public/images/videcoic-one/mapa.png"] {
 	cursor: pointer;
+}
+
+.inline-images {
+	img {
+		display: inline-block;
+	}
 }
