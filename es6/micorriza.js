@@ -126,6 +126,11 @@ const getById = (id, obras) => R.pipe(
 
 const appendMd = (selector_id, content) => {
     document.getElementById(selector_id).appendChild(content)
+    
+    //Abrir el mapa de Videcoic en una nueva ventana
+    setTimeout(() => {
+        $('[src="/public/images/videcoic-one/mapa.png"]').on('click', () => window.open("/public/images/videcoic-one/mapa.png"))
+    }, 200)
 }
 
 const printObrasIndex = (selector_id, obras) => R.pipe(
