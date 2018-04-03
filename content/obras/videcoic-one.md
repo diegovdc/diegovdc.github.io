@@ -155,44 +155,24 @@ En las partichelas hay dos posibilidad que a veces alternan y a veces ocurren si
 
 **Escena 2, parte C**
 
-#### Nava Dunkelman, Percusión:
-> C. “Along calling calls in/out-side” [SEE SCORE]
-> Don’t play from score until almost the end of the song
-> a. Very sparse  Forest  elements.
-> b. When singers sing“Inside”/”outside” freely echo-repeat-hybridize with cymbal or gong sounds.
 
+#### Danishta Rivero, Voz
+![Along Calling Calls In-out side 1](/public/images/videcoic-one/moaw-II-1.png)
+
+#### Nava Dunkelman, Percusión
+![Along Calling Calls In-out side 5](/public/images/videcoic-one/moaw-II-5.png)
 
 #### Andrew Jamieson, Piano
+![Along Calling Calls In-out side 4](/public/images/videcoic-one/moaw-II-4.png)
 
-> C. “Along calling calls in/out-side” [SEE SCORE]
-> Create a harmony with the ensemble, let it be cuasi-sustained.
-> As the song’s intensity grows, so does the sustaining of the sounds.
-> a. Play “Along calling calls in/out-side” FROM Memories Of A Wedding
-> b. Hybridize with voices
-> c. Alternate with Clouds
+#### Jakob Pek, Guitarra
+![Along Calling Calls In-out side 6](/public/images/videcoic-one/moaw-II-6.png)
 
-#### Jakob Pek, Guitarra:
-> C. “Along calling calls in/out-side” [SEE SCORE]
-> Create a harmony with the ensemble, let it be cuasi-sustained.
-> As the song’s intensity grows, so does the sustaining of the sounds.
-> a. Play “Along calling calls in/out-side” FROM Memories Of A Wedding
-> b. Hybridize with voices
+#### Jeannie Aprille Tang, Electrónica
+![Along Calling Calls In-out side 2](/public/images/videcoic-one/moaw-II-2.png)
 
-#### Jeannie Aprille Tang, Electrónica:
-> C. “Along calling calls in/out-side” [SEE SCORE]
-> a. SAMPLE “Forest with spirits”  continues
-> b. SAMPLE “Along calling calls in/out-side” play with sample, interact with the others, hybridize  [see score]  ...alternatively (not prefered)... . play sample as is.
-> IMPORTANT: Find-Create a Harmony with the ensemble (see  c. )
-> c. Keep blending everyone
-
-#### Aaron Oppenheim, Electrónica:
-> C. “Along calling calls in/out-side” [SEE SCORE]
-> a. SAMPLES “Forest with spirits Aaron” & “Distant Clouds”  continue
-> b. SAMPLE “Along calling calls in/out-side” play with sample, interact with the others, hybridize  [see score]
-> IMPORTANT: Find-Create a Harmony with the ensemble
-> (see  c. )
-> c. Keep blending everyone
-
+#### Aaron Oppenheim, Electrónica
+![Along Calling Calls In-out side 3](/public/images/videcoic-one/moaw-II-3.png)
 
 
 Esto permite que piezas como _21 Nubes_, originaria para piano, puedan ser apoximadas por un instrumento como la guitarra o una percusion no afinada. No a través de la transcipción de la partitura y al conversión del intervalos y alturas a sonidos sin altura, sino a través del la imitación intuitiva (por parte del musico) de los [morfismos]() característicos de un sonido. Esta es una de las prácticas y capacidades habituales de los improvisadores, y de ello nos servimos para realizar transformaciones eficientes de los materiales. Si por el contrario nos hubiramos puesto a generar estos materiales en la escritura tradicional, nos habríamos topado con varios problemas que hacen muy dificíl su realización eficaz. 
