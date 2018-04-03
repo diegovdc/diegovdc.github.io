@@ -21,16 +21,16 @@ Nota: aún no hay grabación individual de esta obra
 
 
 ## Nota al programa
-Música para dos voces y uno o más instrumentos, para crear y explorar en comunidad.  
-Reglalo de bodas y celebración del encuentro. 
-Cuatro poemas de cuatro palabras (o lo que se les podría parecer), 
-celebrar en la meditación y en la repetición rítmica,
-para descubrir los secretos de las palabras proferidas.
+Música para dos voces y uno o más instrumentos, para crear y explorar en comunidad.    
+Reglalo de bodas y celebración del encuentro.   
+Cuatro poemas de cuatro palabras (o lo que se les podría parecer),   
+celebrar en la meditación y en la repetición rítmica,  
+para descubrir los secretos de las palabras proferidas.  
 
-I.   Love looks, soul's eyes
-II.  Along calling calls in-outside
-III. Side-by-side round dances cycle
-IV.  Together songs erupting interplay
+I.   Love looks, soul's eyes  
+II.  Along calling calls in-outside  
+III. Side-by-side round dances cycle  
+IV.  Together songs erupting interplay  
 
 
 
@@ -89,31 +89,30 @@ La solución propuesta se puede describir en los siguientes puntos:
 
 2. Un sólo verso para las dos voces.
 
-    2.1 Hay que nota, que la significación del verso, especialmente una vez musicalizada, perdería mucho de su fuerza (particularmente en la primera y la cuarta de las piezas) si fuera cantado por una sola voz, lo que sin embargo, es posible de efectuar.
+    1. Hay que nota, que la significación del verso, especialmente una vez musicalizada, perdería mucho de su fuerza (particularmente en la primera y la cuarta de las piezas) si fuera cantado por una sola voz, lo que sin embargo, es posible de efectuar.
 
 3. La parte instrumental está indefinida en términos de qué instrumentos deben tocar y el control sobre la densidad de las sonoridades queda en la mayor parte de los casos abierta.
 
-    3.1 Hay que señalar que la notación y la aproximación es muy distinta entre las piezas 1 y 4 (que son semejantes) y la 2 y la 3 que son distintas entre sí. Cada tipo de notacón resuelve el problema a su manera.
+    1. Hay que señalar que la notación y la aproximación es muy distinta entre las piezas 1 y 4 (que son semejantes) y la 2 y la 3 que son distintas entre sí. Cada tipo de notacón resuelve el problema a su manera.
 
-    3.2 De las piezas 1 y 4 podemos decir que buena parte del discurso instrumental está basada en indicaciones textuales, ya sea describiendo procesos de intereacción con los materiales de las voces, ya sea describiendo sonoridades resultantes.
+    2. De las piezas 1 y 4 podemos decir que buena parte del discurso instrumental está basada en indicaciones textuales, ya sea describiendo procesos de intereacción con los materiales de las voces, ya sea describiendo sonoridades resultantes.
 
     ![Interacciones 1](/public/images/memories-of-a-wedding/interacciones-voces-instrumentos-1.png)
     ![Interacciones 2](/public/images/memories-of-a-wedding/interacciones-voces-instrumentos-2.png)
 
-        3.2.1 Dado el caso donde la obra se toca junto con otra, esta parte podría quedar omitida, o sólo ser usada en parte. O bien, quienes toquen las otras piezas podrían hacer referencia a las indicaciones de la parte instrumental  e integrarlas en la ejecución de la otra pieza (tocando, en efecto dos músicas simultáneamente). Lo que significa que la parte instrumental es suficientemente simple como para poder integrarse al tejido de otras músicas, generando en el proceso una mayor integración entre ambas piezas.
+    3. Dado el caso donde la obra se toca junto con otra, esta parte podría quedar omitida, o sólo ser usada en parte. O bien, quienes toquen las otras piezas podrían hacer referencia a las indicaciones de la parte instrumental  e integrarlas en la ejecución de la otra pieza (tocando, en efecto dos músicas simultáneamente). Lo que significa que la parte instrumental es suficientemente simple como para poder integrarse al tejido de otras músicas, generando en el proceso una mayor integración entre ambas piezas.
 
-    3.3 En al pieza 2, voces e instrumentos comparte un mismo espacio. Básicamente los instrumentos sólo tendrían que ignorar la notación del texto. Pero no hay anda que prevenga que un músico creativo pueda aprovechar el texto para orientar su interpretación del algún modo.
+    4. En al pieza 2, voces e instrumentos comparte un mismo espacio. Básicamente los instrumentos sólo tendrían que ignorar la notación del texto. Pero no hay anda que prevenga que un músico creativo pueda aprovechar el texto para orientar su interpretación del algún modo.
 
-    
     ![Interacciones 2](/public/images/memories-of-a-wedding/interacciones-voces-instrumentos-3.png)
 
-        3.3.1 En el caso donde la obra se toca junto con otra, el problema está ya resuelto, por la voz.
+    5. En el caso donde la obra se toca junto con otra, el problema está ya resuelto, por la voz.
 
-    3.4 En la pieza 3 rítmos y alturas están completamente separados,  pero deben de integrarse en la ejecución. El principio de integración descrito en 3.2.1 puede muy bien aplicarse a este caso. Otra opción es que las voces mismas pueden incorporar el los rítmos en si mismas, lo que significa que: si en la pieza 2 la linea instrumental queda integrada en la línea vocal, entonces en este caso, la vocal queda integrada en la línea instrumental, por así decirlo. Se trata de dos maneras distintas de fusionar las lineas principales con las del acompañamiento.
+    6. En la pieza 3 rítmos y alturas están completamente separados,  pero deben de integrarse en la ejecución. El principio de integración descrito en 3.2.1 puede muy bien aplicarse a este caso. Otra opción es que las voces mismas pueden incorporar el los rítmos en si mismas, lo que significa que: si en la pieza 2 la linea instrumental queda integrada en la línea vocal, entonces en este caso, la vocal queda integrada en la línea instrumental, por así decirlo. Se trata de dos maneras distintas de fusionar las lineas principales con las del acompañamiento.
 
     ![Interacciones 2](/public/images/memories-of-a-wedding/interacciones-voces-instrumentos-4.png)
 
-        3.3.1 En el caso donde la obra se toca junto con otra, el problema está ya resuelto.
+    7. En el caso donde la obra se toca junto con otra, el problema está ya resuelto.
 
 ### Un jardín de caminos que se bifurcan: lineas instrumentales individuales
 En las piezas 1 y 4 tenemos varias partes instrumentales, donde ninguna especifica qué instrumentos deben tocarlas.  Esto plantea la pregunta ¿cómo debería de aproximarse a ellas un músico? La aproximación sugerida es que el músico se mueva libremente de una a otra parte (muchas de ellas incluyen referencias a las voces, así que en efecto se estaría moviendo por toda la partitura). Dependiendo de la cantidad de músicos, o de sus recursos y de su creatividad, más o menos segmentos de la partitura se realizarán en un ejecución. Este resultado es el deseado, que las piezas difracten de sí sus acompañamientos, y que al igual que un cristal, las cualidades de esta difracción son dependientes del ángulo y del tipo de luz, es decir, del momento y los músicos. En cierto sentido, él único material en toda la obra es el vocal, y los materiales instrumentales son en realidad funciones que permiten transformar el material vocal. Lo que significa que complejidad de la hablabamos anteriormente se descubra como simplicidad, ya que en el fondo, todo remite a una misma linea de la que la complejidad se deriva meramente como efecto de luces (_Trompe-l'œil_)
@@ -138,6 +137,7 @@ Por su parte "Eyes", revela una serie de transformaciones plasticas igualment in
 ![I is I](/public/images/memories-of-a-wedding/I-is-I.png)
 
 <div id="along-calling-calls-in-outside"></div>
+
 #### II. Along calling calls in-outside
 En esta pieza se explora la segmentación granular de la palabra. Explora la interacción de las particulas de la palabra y su capacidad para hacer emerger un significado que las trasciende. Uno que incluso trasciende, como mensaje lógico y unitario al escucha, pero que deja, para el oído atento, palabras que resuenan como constelaciones.  
 
@@ -146,15 +146,15 @@ Si se ha elegido comenzar por la "O" de "Along" es para enfatizar ese movimiento
 
 El verso se encuentra escrito fonéticamente para preservar el sonido en los segmentos de la palabra (por lo que algo como "Calls" se escribe "Cols"). Nótense las aliteraciones:
 
-1. "Ol" ("Calling", "Calls", "Along") -aunque en "Along", "Lo" aparece retrogradado-, 
-1. "Co" ("Calling", "Calls")
-2. "A" ("Along", "Outside"), 
-3. "In" ("Calling", "Inside", "Outside"), 
-4. "Ai" ("Inside", "Outside")
-5. "A" ("Along", "Inside", "Outside")
-6. "S" ("Calls", "Inside", "Outside")
-7. "N" ("Along", "Calling", "Inside")
-8. "G" ("Along", "Calling")
+1. "Ol" ("Calling", "Calls", "Along") -aunque en "Along", "Ol" aparece retrogradado-,   
+2. "Co" ("Calling", "Calls")  
+3. "A" ("Along", "Outside"),   
+4. "In" ("Calling", "Inside", "Outside"),   
+5. "Ai" ("Inside", "Outside")  
+6. "A" ("Along", "Inside", "Outside")  
+7. "S" ("Calls", "Inside", "Outside")  
+8. "N" ("Along", "Calling", "Inside")  
+9. "G" ("Along", "Calling")  
 
 Se puede observar que cada palabra, vista como una colección sonora, está conectada con todas las demás. Todas se comparten entre sí.
 
