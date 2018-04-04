@@ -42,15 +42,15 @@ La pieza se ha tocado en las siguientes configuraciónes:
 
 1. Junto [21 Nubes, para piano] (ver [Superposición con 21 Nubes](#superposicion-con-21-nubes))
 
-2. Dentro de [{Videcoic One}, para dos voces y ensamble electroacústico]. Conviviendo con otras 5 obras modulares, incluyendo _21 Nubes_ (ver [funciónes de 28 Palabras](/videcoic-one#funciones-de-28-palabras))
+2. Dentro de [{Videcoic One}, para dos voces y ensamble electroacústico]. Conviviendo con otras 5 obras modulares, incluyendo _21 Nubes_ (ver [funciones de 28 Palabras](/videcoic-one#funciones-de-28-palabras))
 
 
 ### Objetivos de la pieza
 _28 Palabras_ tiene como objetivos: 
 
-1. Exploración de los elementos discountinuos dentro del continuo, y usarlos para elaborar un discurso melódico al nivel de estos elementos (melodía de discontinuidades macrotímbrocas) (ver más adelente, [El discontinuo del continuo](#el-discontinuo-del-continuo))
+1. Exploración de los elementos discontinuos dentro del continuo, y usarlos para elaborar un discurso melódico al nivel de estos elementos (melodía de discontinuidades macrotímbricas) (ver más adelante, [El discontinuo del continuo](#el-discontinuo-del-continuo))
 
-2. Elaborar un discurso poético musical donde la materialidad y el sentido de la palabra juegen, interactúen y se transformen en relación con procesos musicales abstractos (forma, serie armónica, contrapunto, armonía), de modo que estos procesos dejen de ser puros para dar lugar a la expresión de la materialidad significativa de la palabra, y que en la otra dirección, que la palabra que esta se vea abierta, a nuevos sentidos posibles, más expresivos aun, gracias a las transformaciónes que la técnica musical hace posible.
+2. Elaborar un discurso poético musical donde la materialidad y el sentido de la palabra jueguen, interactúen y se transformen en relación con procesos musicales abstractos (forma, serie armónica, contrapunto, armonía), de modo que estos procesos dejen de ser puros para dar lugar a la expresión de la materialidad significativa de la palabra, y que en la otra dirección, que la palabra que esta se vea abierta, a nuevos sentidos posibles, más expresivos aun, gracias a las transformaciones que la técnica musical hace posible.
 
 ## Consideraciones generales
 ### Notación
@@ -60,9 +60,9 @@ Adjuntamos la tabla de símbolos:
 ![Tabla de símbolso](/public/images/28-palabras/tabla-de-simbolos.png)
 
 Nótese lo siguiente:
-1. Las transiciones indicads por flechas, aplican por igual a las alturas y a los colores (vocales y consonantes).
+1. Las transiciones indicadas por flechas, aplican por igual a las alturas y a los colores (vocales y consonantes).
 
-2. Para distinguir a las vocales de las consontantes se pone a estas últimas dentro de una caja, esto ya que es posible transfomar a una con independencia de la otra. Para sostener a alguna se utilizan lineas sin flecha, para indicar transición se adjunta la flecha.
+2. Para distinguir a las vocales de las consonantes se pone a estas últimas dentro de una caja, esto ya que es posible transofomar a una con independencia de la otra. Para sostener a alguna se utilizan lineas sin flecha, para indicar transición se adjunta la flecha.
 
 3. El poema está reescrito fonéticamente, ello, porque se han usado los materiales fonéticos y simbólicos del poema para elaborar la música, que no es otra cosa, que la transformación del poema en una síntesis sonora-sensible de ambas dimensiones. (ver más adelante [Transformaciones de la palabra en sonido](#transformaciones-de-la-palabra-en-sonido))
 
@@ -79,7 +79,7 @@ Esta es la primera de las piezas modulares que fue tocada sobre otra más. El re
 
 Es interesante notar lo contrario de los mundos sonoros de ambas piezas. Por un lado, 21 Nubes refiera a un universo temperado, discontinuo y diatónico con extrema simplicidad (unicamente notas blancas) y homogeneidad tímbrica.  Por otro lado, 28 Palabras fluye libremente por el continuo, recurre a tímbres diversos, tonos y ruidos por igual y nada que se le pueda parecer a una escala, menos aun diatónica. El encuentro, sin embargo es mi juicio, muy exitoso, las músicas no parecen ajenas la una de la otra, hay posibilidad de diálogo, e interacción y los materiales conviven complementariamente. [Esto señala una premisa o propuesta ética sobre la que se ha diseñado este ciclo de piezas modulares]().
 
-Otra señal de exito, tanto de la notación como del concepto, es que ambas versiones se realizaron sin previo ensayo, ni acuerdo con Jamieson acerca la manera de interactuar (sólo se explicó el concepto y se aclararon dudas), de hecho, jamás habíamos tocado juntos. Esto por supuesto no es mérito único de las piezas, sino que da cuenta también de las enorme capacidad creativa y musical de Jamieson.
+Otra señal de éxito, tanto de la notación como del concepto, es que ambas versiones se realizaron sin previo ensayo, ni acuerdo con Jamieson acerca la manera de interactuar (sólo se explicó el concepto y se aclararon dudas), de hecho, jamás habíamos tocado juntos. Esto por supuesto no es mérito único de las piezas, sino que da cuenta también de las enorme capacidad creativa y musical de Jamieson.
 
 Para más detalles ver las [conclusiones y condiciones sobre las exploraciones en música modular](/conceptos-generales#conclusiones-y-condiciones-sobre-musica-modular)
 
@@ -95,7 +95,7 @@ La serie armónica en este caso sirve para definir una secuencia de 28 palabras 
 
 [La forma derivada, no se usa meramente como una estructura abstracta. Las _obras numéricas_ representan seres vivientes, los números son sus ciclos: lo que para las personas son los años de vida.](link a lo que sigue). En el poema, el secuenciamiento de las palabras y de las imágenes toma inspiración en esta figura de ciclos y procesos de transformación del crecimiento: cada línea transforma la interpretación de la anterior. 
 
-Puesto que estamos usando la serie armónica para construir el poema, y en relación con lo que decimos en [link a lo que sigue](link a lo que sigue), podemos comprender que la elaboración del poema obedece a procesos de construcción musical, donde el sentido particular del poema es equivalente al timbre de un sonido: **ambos son para la percepción, en un sentido literal, la suma de sus armónicos**. En el caso del sonido el armónico representa `numero_de_armonico * frecuencia * amplitud * fase`, mientras que en el caso del poema, el armónico es el contenido de una linea particular un producto de las palabras contenidas en ella, `numero_de_armonico * palabra * sintaxis`, y si pensamos a la palabra es `sonido + signficado` entonces tenemos que cada linea del poema es `numero_de_armonico * (sonido + significado) * sintaxis`.
+Puesto que estamos usando la serie armónica para construir el poema, y en relación con lo que decimos en [link a lo que sigue](link a lo que sigue), podemos comprender que la elaboración del poema obedece a procesos de construcción musical, donde el sentido particular del poema es equivalente al timbre de un sonido: **ambos son para la percepción, en un sentido literal, la suma de sus armónicos**. En el caso del sonido el armónico representa `numero_de_armónico * frecuencia * amplitud * fase`, mientras que en el caso del poema, el armónico es el contenido de una linea particular un producto de las palabras contenidas en ella, `numero_de_armónico * palabra * sintaxis`, y si pensamos a la palabra es `sonido + significado` entonces tenemos que cada linea del poema es `numero_de_armónico * (sonido + significado) * sintaxis`.
 
 Ejemplifiquemos con una breve análisis de una posible experiencia de las primeras tres líneas del poema
 > Tu
@@ -104,23 +104,23 @@ Sabemos que es una invocación, ¿pero a quién se le habla y qué le podría se
 
 > eres una
 
-De todas esas posibilidades, sólo una permació y las demás se perdieron. ¿Pero qué es? ¿Se trata de una afirmación ontológica, moral, metafórica, etc.?
+De todas esas posibilidades, sólo una permaneció y las demás se perdieron. ¿Pero qué es? ¿Se trata de una afirmación ontológica, moral, metafórica, etc.?
 
 > estrella que baila 
 
 Una nueva determinación, parece una que tenemos metáfora. 
 
-Observamos que el sentido, la espectativa, cambia constantemente, linea por linea. El "timbre" de aquella persona, es decir, su ser general, en consecuencia, también va cambiando en nuestra imaginación, y como un humano un sus primero años, cada día cambia de maneras sorpresivas e inesperadas, pero cada decisión, cada cambio, también define el marco de posibilidades que se desplegara en lo que siga. 
+Observamos que el sentido, la expectativa, cambia constantemente, linea por linea. El "timbre" de aquella persona, es decir, su ser general, en consecuencia, también va cambiando en nuestra imaginación, y como un humano un sus primero años, cada día cambia de maneras sorpresivas e inesperadas, pero cada decisión, cada cambio, también define el marco de posibilidades que se desplegara en lo que siga. 
 
 Tenemos una cadena de Markov de significados y de historia.
 
-El poema ilustra a la forma y se sirve de ella para desarrollarse, incluso para significar y derivar significados y movientos del sentido. El significado del poema es su timbre (como sensación mental-perceptual). La construcción de este poema es, por lo tanto, sustancialmente musical, sus recursos son la forma, el rítmo-número y el timbre. Cuando el poema se vuelva escritura musical, cuando definamos su articulación sonora, lo que tendremos será música hecha de poesía-música, una música que ya en sí misma tiene un alto contenido de recursividad (como las _obras modulares_ que son música hecha de músicas).
+El poema ilustra a la forma y se sirve de ella para desarrollarse, incluso para significar y derivar significados y movimientos del sentido. El significado del poema es su timbre (como sensación mental-perceptual). La construcción de este poema es, por lo tanto, sustancialmente musical, sus recursos son la forma, el ritmo-número y el timbre. Cuando el poema se vuelva escritura musical, cuando definamos su articulación sonora, lo que tendremos será música hecha de poesía-música, una música que ya en sí misma tiene un alto contenido de recursividad (como las _obras modulares_ que son música hecha de músicas).
 
 
 <div id="transformaciones-de-la-palabra-en-sonido"></div>
 
 ### Transformaciones de la palabra en sonido: dos tipos de interpretación
-Al elaborar el poema con los recursos de la música, se vuelve necesario elegir las vías por la cuales haber de discurrir el texto. Por mor de la consistencia con los procesos por los cuales se genera el poema, el poema se lleva al sonido bajo la constante referencia a la palabra y a sus significados. Por lo tanto, cuando la palabra lo permite hay elementos de onomatopeya en su expresión, cuando no, cuando la palabra no refiere al sonido, ni tiene un origen sonoro, se recurre a generar una expresión de tipo performativa y dramática, producir en el cuerpo (del músic y del sonido) los efectos de la palabra.
+Al elaborar el poema con los recursos de la música, se vuelve necesario elegir las vías por la cuales haber de discurrir el texto. Por mor de la consistencia con los procesos por los cuales se genera el poema, el poema se lleva al sonido bajo la constante referencia a la palabra y a sus significados. Por lo tanto, cuando la palabra lo permite hay elementos de onomatopeya en su expresión, cuando no, cuando la palabra no refiere al sonido, ni tiene un origen sonoro, se recurre a generar una expresión de tipo performativa y dramática, producir en el cuerpo (del músico y del sonido) los efectos de la palabra.
 
 
 #### Interpretación onomatopéyica
@@ -128,7 +128,7 @@ Aunque no hay demasiadas palabras en el poema relacionadas con la onomatopeya, u
 
 ![Onomatopeya de abrazas](/public/images/28-palabras/abrazas.png)
 
-Aun otro elemento onomatopéyico surge por la metonímia de una "estrella que se danza entre las flores", la cuál evoca más bien la imágen de una "abeja".  El zumbar de la abeja se expresa muy brevemente, y con sutileza, diríase "metonímicamente", en el vibrar de la "**ro**" en la palabra _flores_. Se trata más el sentir el aleteo de la abeja por la flor, que del oír humano de este rezumbar.
+Aun otro elemento onomatopéyico surge por la metonímia de una "estrella que se danza entre las flores", la cuál evoca más bien la imagen de una "abeja".  El zumbar de la abeja se expresa muy brevemente, y con sutileza, diríase "metonímicamente", en el vibrar de la "**ro**" en la palabra _flores_. Se trata más el sentir el aleteo de la abeja por la flor, que del oír humano de este rezumbar.
 
 ![Onomatopeya de zumbar cerca de una flor](/public/images/28-palabras/flores.png)
 
@@ -137,16 +137,16 @@ Sin embargo, el movimiento oscilante de la abeja-estrella se expresa mucho antes
 
 ![Eres performando una abeja](/public/images/28-palabras/eres.png)
 
-De otra manera, la palabra **entre** se performa, entrelazándose consigo misma como un tejido cuyas fibras alternan entre el sonar "**n**" y el "**etre**". La **n** misma oscila en su altura y en su color hacia la "**m**", mientras que el **etre** oscila entre el ruido (poca presión) y el tono (presion ordinaria). ¿Se trata de una casualidad que el _ser_ (**être**) se revele en la transitividad del **entre**?
+De otra manera, la palabra **entre** se performa, entrelazándose consigo misma como un tejido cuyas fibras alternan entre el sonar "**n**" y el "**etre**". La **n** misma oscila en su altura y en su color hacia la "**m**", mientras que el **etre** oscila entre el ruido (poca presión) y el tono (presión ordinaria). ¿Se trata de una casualidad que el _ser_ (**être**) se revele en la transitividad del **entre**?
 
 ![Entre entremezclado](/public/images/28-palabras/entre.png)
 
 #### Transcomposicón de la palabra
-Usamos el concepto de _transcomposicón_ para referirnos al procedimiento de descomposición y recomposición, sonora y semántica, mediante el cual transformamos el poema en sonido.
+Usamos el concepto de _transcomposición_ para referirnos al procedimiento de descomposición y recomposición, sonora y semántica, mediante el cual transformamos el poema en sonido.
 
-Se trata de un procedimiento que ocurre y recurre un número indeterminado de veces gracias al [variar recursivo de la serie en las _obras numéricas_]. Se observa cuando hacemos sonar a "**eres**" con filamentos de zumbido, o entretejemos el "**entre**" consigo mismo. La palabra se vuelve significado del que se deriva un cuerpo sonoro y se abre al macrtimbre, se transforma nuevamente en palabra (a veces transmutada), que resignifica otras palabras haciendo emanar otros sonidos.
+Se trata de un procedimiento que ocurre y recurre un número indeterminado de veces gracias al [variar recursivo de la serie en las _obras numéricas_]. Se observa cuando hacemos sonar a "**eres**" con filamentos de zumbido, o entretejemos el "**entre**" consigo mismo. La palabra se vuelve significado del que se deriva un cuerpo sonoro y se abre al macrotimbre, se transforma nuevamente en palabra (a veces transmutada), que resignifica otras palabras haciendo emanar otros sonidos.
 
-Aun tenemos otro ejemplo que muestra la interconección (y piensa en el _Aleph_ borgesiano) de las palabras, y los significados en el flujo de procesos sonoros. Esta vez el tercer verso: "**estrella que baila**". La estrella tiene una suerte de desplazamiento saltarin, que emerge desde su interior, no parte del **que**, sino que lo atravieza desde su el extremo final de estrella, desde la **a**  que se desborda. Despliega su **que** en un danzar peculiar, suficientemente jugetón como para transformar todo el caracter de la voz haciéndola flexible, relajando su sonido, haciéndola emitir nuevos signos: "baila-hila-la" o bien "baila-y-lala", baila y teje (relaciones, precursado el tejido del **entre**), baila y canta, baila en serie también (invierte la serie armónica con 3(baila)-2(ila)-1(la)) y desde luego baila y no es lo que cree ser, es también ser hilante, estrella dormida que ha de despertar, para encontrar, tejiendo (contrapuntear es también un entretejerse de músicas).
+Aun tenemos otro ejemplo que muestra la interconexión (y piensa en el _Aleph_ borgesiano) de las palabras, y los significados en el flujo de procesos sonoros. Esta vez el tercer verso: "**estrella que baila**". La estrella tiene una suerte de desplazamiento saltarín, que emerge desde su interior, no parte del **que**, sino que lo atravieza desde su el extremo final de estrella, desde la **a**  que se desborda. Despliega su **que** en un danzar peculiar, suficientemente jugetón como para transformar todo el caracter de la voz haciéndola flexible, relajando su sonido, haciéndola emitir nuevos signos: "baila-hila-la" o bien "baila-y-lala", baila y teje (relaciones, precursando el tejido del **entre**), baila y canta, baila en serie también (invierte la serie armónica con 3(baila)-2(ila)-1(la)) y desde luego baila y no es lo que cree ser, es también ser hilante, estrella dormida que ha de despertar, para encontrar, tejiendo (contrapuntear es también un entretejerse de músicas).
 
 ![Transcomposición de la estrella que baila](/public/images/28-palabras/estrella-que-baila.png)
 
