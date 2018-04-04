@@ -4,7 +4,7 @@
 
 ### Red de intervalos
 ### Red de sonidos
-### Red de rítmos
+### Red de ritmos
 ### Red de interacciones
 ### Red de eventos
 
@@ -26,7 +26,7 @@ Así por ejemplo, un tema de fuga de Bach no varía más que en transposición, 
 
 Otro ejemplo, un tema de sonata, está mucho más abierto a la variación e intervención con otros temas, pero igualmente su objetivo principal es ser reconocible.
 
-Con un motivo secundario, tenemos aun más libertad en cuanto a su variación y modifiación, y decimos de su razón de ser que es la de dar coherencia. Pero el interés que despierta para desarrollar es menor en función de posición en la jerarquía de materiales de la obra.
+Con un motivo secundario, tenemos aun más libertad en cuanto a su variación y modificación, y decimos de su razón de ser que es la de dar coherencia. Pero el interés que despierta para desarrollar es menor en función de posición en la jerarquía de materiales de la obra.
 
 En todos estos casos excepto en el último, el concepto de escala de percepción. Hablar de escala en un tema prácticamente nos remite únicamente al tiempo, aumentación o disminución rítmica del mismo, o de su posición en la textura, ¿es voz principal (_hauptstimme_) o contrapunto?
 
@@ -38,7 +38,7 @@ El concepto de material que me interesa y sobre el cuál he trabajado las obras 
 ![Espíritu en el movimiento 2](/public/images/epa/espiritu-mvt-2.png)](/5to-semestre#escalas-de-percepcion-del-espiritu)
 > El material del "Espíritu" en dos escalas distintas, lejos y cerca, respectivamente
 
-El material en este caso no se concibe como un tema tradicional, cuya identidad deriva de su melodía, rítmo y armonía, sino que se concibe como un ensamblaje de cualidades perceptuales y conceptuales. 
+El material en este caso no se concibe como un tema tradicional, cuya identidad deriva de su melodía, ritmo y armonía, sino que se concibe como un ensamblaje de cualidades perceptuales y conceptuales. 
 
 **Perceptuales** en tanto que debe poseer una _gestalt_ reconocible a diversas escalas (cuando menos, que sea capaz de apuntar a otra versión de sí).
 
@@ -46,9 +46,9 @@ El material en este caso no se concibe como un tema tradicional, cuya identidad 
 
 En el ejemplo referido anteriormente, _perceptualmente_ los materiales poseen un cierto tipo de contorno y modulan parámetros relacionados perceptualmente. _Conceptualmente_ se trata de la misma entidad, la primera vez percibida como un elemento dentro de un contexto amplio, la segunda percibida muy de cerca.
 
-Otro ejemplo es [21 Nubes](/link), donde peceptualmente se puede tomar una de las Nubes de la pieza (si la concebimos como un conjunto de 21 piezas), y meterla en otro contexto,  aunque también es posible tomar el [algóritmo de las nubes](/link) para fabricar más variaciones de este elemento. En [Videcoic One](/link), este proceso opera conceptualmente en tanto se usan las nubes en diversas secciones, en un principio se hace una Nebulosa, en otras se usan las Nubes como parte de un ambiente.
+Otro ejemplo es [21 Nubes](/link), donde perceptualmente se puede tomar una de las Nubes de la pieza (si la concebimos como un conjunto de 21 piezas), y meterla en otro contexto,  aunque también es posible tomar el [algoritmo de las nubes](/link) para fabricar más variaciones de este elemento. En [Videcoic One](/link), este proceso opera conceptualmente en tanto se usan las nubes en diversas secciones, en un principio se hace una Nebulosa, en otras se usan las Nubes como parte de un ambiente.
 
-Tomando el ejemplo de la nube esta concepcion de las escalas nos permitiría preguntar (y musicar), sobre cómo sonaría _ser_ una nube tormentosa. O en una secuencia donde se atraviesan distintos niveles de percepción podrían explorarse espacios y seres que sólo aparecen en ciertas escalas, tales como las cargas electricas dentro de la nube o sus gotas. 
+Tomando el ejemplo de la nube esta concepción de las escalas nos permitiría preguntar (y musicar -reflexionar a través de la música-), sobre cómo sonaría _ser_ una nube tormentosa. O en una secuencia donde se atraviesan distintos niveles de percepción podrían explorarse espacios y seres que sólo aparecen en ciertas escalas, tales como las cargas eléctricas dentro de la nube o sus gotas. 
 
 Con esta concepción el tiempo del discurso musical no sólo corre en un sentido lineal, sino que nos permite atravesar por los distintos tiempos de los diversos materiales. Por ejemplo, movernos del interior de la nube tormentosa al campo, caer con la gota o el rayo, penetrar la tierra, etc.
 
@@ -69,7 +69,7 @@ Esta capacidad de movimiento de un material abre puertas para la imaginación so
 ### Serie armónica y variaciones recursivas
 La forma derivada, no se usa meramente como una estructura abstracta. Las _obras numéricas_ representan seres vivientes, los números son sus ciclos: lo que para las personas son los años de vida. La forma derivada de la serie armónica es una forma acumulativa. Por ello cada una de las _obras númericas_ es concebida y tratada como ciclos de variaciones. Más específicamente como variaciones en desarrollo, o como preferiría llamarlas, como variaciones recursivas. Es decir, son variaciones donde los materiales variados y/o agregados y/o desarrollados en las variaciones previas sirven como materiales de referencia para las siguientes variaciones 
 
-El algorítmo que describe los procesos a seguir para realizar este tipo de variaciones se puede represtar con el siguiente código (si lo escribiéramos en Javascript):
+El algoritmo que describe los procesos a seguir para realizar este tipo de variaciones se puede represtar con el siguiente código (si lo escribiéramos en Javascript):
 
 ```js
 const variacionesRecursivas = (totalDeVariaciones, material, variacionActual = 1) => 
@@ -86,16 +86,16 @@ const variacionesRecursivas = (totalDeVariaciones, material, variacionActual = 1
 
 variacionesRecursivas(6, ["Material Inicial"])// calculamos los procesos requeridos para 6 variaciones. Nótese que la cadena "Material Inicial", estaría representando un material musical cualquiera y las cadenas "Material Nuevo" representarían materiales desarrollados, o agregados por las variaciones correspondientes
 ```
-El siguiente link muestra al algorítmo funcionado interactivamente: https://codepen.io/anon/pen/NYMbPM?editors=0010
+El siguiente link muestra al algoritmo funcionado interactivamente: https://codepen.io/anon/pen/NYMbPM?editors=0010
 
-Este proceso genera un crecimiento que se podría describir como un crecimiento espiral, debido a la acumulación de materiales y el efecto de perpetuo de retorno a materiales previos. Interesantement [Erv Wilson](http://www.anaphoria.com/wilsonintro.html) ([archivo](http://www.anaphoria.com/wilson.html)), quizá el teórico más visionario de la afinación en el siglo XX, generó entre sus investigaciónes la representación de la serie armónica del frecuencias embebida en una espiral, donde las rectas que irradían del centro de la espiral representan las octavas de las frecuencias armónicas (es decir las duplicaciones. e.g. 2, 4, 8... y 3, 6 ,12...).
+Este proceso genera un crecimiento que se podría describir como un crecimiento espiral, debido a la acumulación de materiales y el efecto de perpetuo de retorno a materiales previos. Interesantemente [Erv Wilson](http://www.anaphoria.com/wilsonintro.html) ([archivo](http://www.anaphoria.com/wilson.html)), quizá el teórico más visionario de la afinación en el siglo XX, generó entre sus investigaciones la representación de la serie armónica del frecuencias embebida en una espiral, donde las rectas que irradian del centro de la espiral representan las octavas de las frecuencias armónicas (es decir las duplicaciones. e.g. 2, 4, 8... y 3, 6 ,12...).
 
 ![Erv Wilson, espiral de la serie de armónico](/public/images/conceptos-generales/erv-wilson-harmonic-series-spiral.png)
 [Fuente](http://thesonicsky.com/erv-wilson-diagrams/octaval-spiral/)
 
 En este sentido la metáfora constructiva de las **variaciones recursivas** resuena fuertemente con la representación de la **serie armónica de frecuencias**, ligando el campo **microcósmico** del timbre, el campo **macrocósmico** de la forma.
 
-Recordemos, también que la serie armónica se puede definir recursivamente, pues es sólo un proceso de `n + 1` aplicado sucesivamente.  El siguiente código muestra los paralelismos entre la implementación del algorítmo de las variaciones recursivas y la del algóritmo de la serie armónica.
+Recordemos, también que la serie armónica se puede definir recursivamente, pues es sólo un proceso de `n + 1` aplicado sucesivamente.  El siguiente código muestra los paralelismos entre la implementación del algoritmo de las variaciones recursivas y la del algoritmo de la serie armónica.
 
 ```js
 const serieArmonica = (armonicoInicial, armonicoFinal, listaDeArmonicos = []) => 
