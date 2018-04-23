@@ -190,7 +190,7 @@ Por ejemplo, si tomamos **a-b-d-f-e** y la convertimos en un conjunto de notas q
 Esto es posible bajo la regla de que al menos una de las notas de acorde previo conecten legalmente con **a**, y que alguna de la notas del acorde subsiguiente conecten con la nota **e**. En el caso de que a la agrupación vertical le anteceda o le siga una nota sola, la regla aplica de la misma manera. Como se podrá observar todas las sonoridades verticales de la obra se comportan de esta manera.
 
 ### Simetrías
-<!-- Por otra parte h -->Hay ciertos subconjuntos que nos parecen sumamente interesantes y que con frecuencia aparecen en las líneas melódicas.
+Hay ciertos subconjuntos que nos parecen sumamente interesantes y que con frecuencia aparecen en las líneas melódicas.
 
 Por ejemplo, tomemos las triadas de tipo interválico **[2-3]** o **[3-2]**: Con **[a-c-d]** y **[d-e-g]** tenemos una inversión cuyo eje, o nota espejo es **d**. Su uso se puede apreciar particularmente en la última variación, la cuál se desarrolla como símbolo de esta propiedad. En el mismo sentido, aunque con mayor peculiaridad tenemos las triadas, del mismo tipo que las anteriores  **[e-g-a]** y **[g-a-c]**, donde el eje de inversión se encuentra sobre un fantasmal **g#**, por lo qe **a** y **g** se mantienen constantes. 
 
