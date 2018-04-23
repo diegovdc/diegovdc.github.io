@@ -336,7 +336,7 @@ El sentido profundo de la apertura de esta pieza, no radica en la ausencia de du
 
 Esta apertura es justamente la piedra angular de todas las búsquedas que agrupan a la obras aquí expuestas y muchas otras de los últimos años. La posibilidad de una escritura que se desborde, que abunde a la menor provocación, que esté viva y reaccione, que sea como una persona con-versando: ahora con aquella ahora con aquél, un ser en un ecosistema, capaz de coevolucionar con otras especies, y de trascender los límites de su inscripción, la vida y no la biografía.
 
-21 Nubes como partitura, es el prototipo, el modelo didáctico que describe el potencial de 21 Nubes, uno incluso tiene algunas bellas directices, pero jamás será su último límite.
+21 Nubes como partitura, es el prototipo, el modelo didáctico que describe el potencial de 21 Nubes, uno que incluso tiene algunas bellas lineas directices, pero jamás será su último límite.
 
 
 <!-- ## Conclusiones
